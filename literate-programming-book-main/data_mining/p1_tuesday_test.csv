@@ -1,0 +1,201 @@
+client_id,age,monthly_spend,tenure_months,support_calls,weekly_usage_hours,city,plan,payment_method
+71997,39.0,393.2,3,2,14.2,Astana,Basic,
+71949,57.0,279.2,44,2,15.2,Shymkent,Basic,E-wallet
+71113,58.0,384.2,53,1,18.5,Shymkent,Standard,Card
+71157,39.0,592.7,20,0,12.3,Shymkent,Premium,E-wallet
+71022,52.0,216.3,18,4,20.2,Karaganda,Basic,E-wallet
+71767,37.0,372.2,24,1,24.8,Astana,Premium,Bank Transfer
+71917,50.0,339.7,53,5,15.6,Astana,Premium,Card
+71326,32.0,120.9,45,4,20.7,Shymkent,Basic,Bank Transfer
+71393,24.0,306.3,21,0,21.6,Shymkent,Basic,Card
+71032,40.0,224.9,1,1,16.9,Karaganda,Basic,Card
+71453,44.0,402.7,33,3,19.4,Almaty,Basic,Bank Transfer
+71402,47.0,172.8,37,3,14.6,,Basic,Card
+71648,48.0,227.9,9,2,19.7,Shymkent,Premium,Card
+71603,44.0,392.6,53,2,11.7,Astana,Standard,Bank Transfer
+71693,42.0,191.7,22,3,8.0,Shymkent,Premium,Bank Transfer
+71074,25.0,344.1,2,3,16.4,Almaty,Basic,Card
+71889,,227.8,40,1,16.6,Shymkent,Standard,Bank Transfer
+71383,62.0,220.7,44,1,15.8,Shymkent,Basic,Card
+71337,57.0,305.4,29,3,10.8,Shymkent,Standard,Card
+71317,65.0,185.9,23,1,15.4,Astana,Basic,Card
+71903,46.0,,29,1,9.8,Almaty,Standard,Bank Transfer
+71255,53.0,327.9,11,1,9.1,Almaty,Basic,E-wallet
+71790,48.0,298.2,51,2,25.6,Almaty,Basic,Bank Transfer
+71051,30.0,272.8,20,3,,Almaty,Basic,E-wallet
+71771,,280.0,36,2,15.3,Almaty,Premium,Bank Transfer
+71072,26.0,379.0,34,1,14.8,Karaganda,Standard,E-wallet
+71800,31.0,390.9,32,0,15.6,Almaty,Premium,Bank Transfer
+71566,28.0,401.0,53,0,6.5,Karaganda,Basic,Card
+71626,58.0,223.9,55,1,13.8,Karaganda,Premium,Card
+71556,47.0,421.7,59,2,13.3,Shymkent,Premium,Bank Transfer
+71815,22.0,223.9,46,4,5.9,Shymkent,Standard,Card
+71033,39.0,394.5,28,4,,Karaganda,Premium,Bank Transfer
+71429,25.0,291.9,46,2,15.9,Astana,Premium,Card
+71478,18.0,200.8,19,2,19.6,Astana,Basic,E-wallet
+71299,46.0,213.2,4,4,7.8,Astana,Basic,Card
+71384,36.0,318.9,28,1,18.7,Astana,Basic,E-wallet
+71697,30.0,234.1,17,3,13.5,Shymkent,Premium,Bank Transfer
+71623,31.0,202.7,18,3,4.9,Shymkent,Premium,Bank Transfer
+71788,30.0,261.4,14,3,9.3,Shymkent,Premium,E-wallet
+71678,,310.4,49,3,,Astana,Standard,E-wallet
+71945,54.0,232.8,55,1,11.2,Astana,Basic,Card
+71130,62.0,254.4,27,2,13.2,Astana,Basic,E-wallet
+71513,37.0,180.5,39,1,17.5,Almaty,Basic,Card
+71419,26.0,306.5,12,2,3.1,Shymkent,Standard,Card
+71293,36.0,531.7,17,3,8.7,Astana,Standard,Card
+71510,40.0,150.6,22,3,8.0,Almaty,Premium,Card
+71202,65.0,338.8,13,4,26.5,Astana,Premium,Card
+71489,59.0,340.8,6,2,17.1,Almaty,Basic,Card
+71312,41.0,88.3,36,1,2.3,Almaty,Basic,Bank Transfer
+71778,18.0,272.4,32,1,10.8,Shymkent,Basic,Card
+71101,,276.6,34,2,11.0,Karaganda,Basic,
+71104,55.0,370.7,31,2,16.2,Astana,Basic,Card
+71910,54.0,206.9,27,0,,Shymkent,Standard,E-wallet
+71207,22.0,146.4,5,1,10.0,Shymkent,Standard,Card
+71142,28.0,324.3,33,1,7.5,Almaty,Standard,Card
+71329,63.0,215.7,44,4,11.4,Almaty,Basic,Card
+71971,23.0,265.4,16,2,12.6,Astana,Premium,Card
+71853,49.0,249.9,38,1,11.6,Astana,Standard,Card
+71103,32.0,470.7,9,2,2.9,Karaganda,Basic,Card
+71840,44.0,379.4,50,3,12.2,Karaganda,Standard,Card
+71594,46.0,143.6,24,3,10.6,Almaty,Premium,E-wallet
+71735,34.0,275.2,44,2,7.7,Shymkent,Standard,Bank Transfer
+71194,36.0,348.4,34,1,9.7,Karaganda,Basic,Card
+71304,18.0,445.7,13,2,15.1,Shymkent,Basic,Card
+71552,57.0,232.7,11,0,9.1,Almaty,,Bank Transfer
+71499,63.0,112.6,50,3,16.9,Shymkent,Standard,Card
+71562,39.0,264.9,7,2,1.9,Almaty,Premium,Card
+71506,62.0,238.2,40,2,16.8,Shymkent,Premium,E-wallet
+71390,64.0,196.9,8,2,12.3,Astana,Basic,Card
+71535,,343.1,57,3,18.7,Almaty,Standard,Bank Transfer
+71214,22.0,211.9,38,3,19.5,Shymkent,,E-wallet
+71158,61.0,130.7,43,2,22.4,Almaty,Standard,E-wallet
+71253,53.0,300.7,35,3,12.9,Almaty,Basic,E-wallet
+71254,55.0,295.1,16,2,4.8,Almaty,Standard,Card
+71134,64.0,297.4,37,0,5.6,Astana,Standard,Card
+71809,60.0,313.1,22,4,14.4,Astana,Basic,Card
+71692,26.0,245.7,56,1,15.7,Astana,Basic,Card
+71444,57.0,215.2,38,3,8.9,Almaty,Standard,E-wallet
+71403,46.0,332.2,57,0,12.3,Astana,Basic,E-wallet
+71786,18.0,325.3,56,0,11.7,Karaganda,Standard,Bank Transfer
+71369,20.0,310.2,53,5,,Almaty,Basic,E-wallet
+71456,43.0,318.9,9,0,23.1,Almaty,Standard,Card
+71831,,271.6,48,2,9.4,Karaganda,Standard,Bank Transfer
+71377,52.0,388.1,45,3,4.6,Almaty,Basic,Bank Transfer
+71948,24.0,353.2,25,3,15.5,Astana,Standard,E-wallet
+71755,26.0,388.2,15,4,18.5,Almaty,Basic,
+71019,48.0,271.6,30,2,15.2,Almaty,Standard,E-wallet
+71450,59.0,342.6,28,1,,Almaty,Standard,E-wallet
+71676,36.0,446.7,38,3,13.6,Almaty,Basic,Card
+71440,57.0,612.1,32,2,17.0,Almaty,Basic,Card
+71054,61.0,422.9,26,1,13.0,Almaty,Basic,Bank Transfer
+71886,45.0,281.3,6,3,11.3,Almaty,Premium,Card
+71217,44.0,315.7,6,1,8.4,Almaty,Basic,E-wallet
+71436,54.0,263.8,37,2,7.0,Astana,Basic,Bank Transfer
+71630,63.0,322.6,3,3,8.9,Almaty,Premium,Card
+71684,24.0,339.2,8,1,22.6,Astana,Basic,Bank Transfer
+71531,25.0,231.8,39,2,15.7,Astana,Standard,Bank Transfer
+71707,56.0,221.6,51,3,6.6,Astana,Basic,Card
+71359,59.0,397.2,20,1,16.6,Almaty,Standard,Card
+71052,23.0,237.2,48,1,21.2,Astana,Basic,Bank Transfer
+71660,59.0,401.5,2,4,,Almaty,Standard,E-wallet
+71003,24.0,273.0,2,1,22.8,Almaty,Standard,E-wallet
+71063,26.0,203.4,59,2,3.1,Astana,Premium,Bank Transfer
+71817,60.0,401.4,42,5,9.5,Almaty,Basic,Card
+71168,65.0,438.2,18,5,14.2,Astana,Basic,Bank Transfer
+71598,41.0,212.2,57,2,9.2,Shymkent,Standard,Bank Transfer
+71523,36.0,408.7,6,3,25.4,Almaty,Basic,Card
+71388,18.0,334.8,1,0,9.8,Astana,Basic,Card
+71002,35.0,287.5,34,3,7.9,Karaganda,Premium,Card
+71186,58.0,222.2,4,2,22.1,Astana,Basic,Card
+71642,,350.1,48,4,18.0,Astana,Standard,Card
+71839,29.0,389.7,3,1,9.9,Almaty,Basic,E-wallet
+71449,44.0,231.2,18,3,12.7,Almaty,Basic,Card
+71263,25.0,277.4,17,2,3.4,Astana,Standard,Bank Transfer
+71404,31.0,115.6,45,1,,Almaty,Premium,E-wallet
+71919,48.0,343.3,47,1,,Astana,Premium,Bank Transfer
+71209,30.0,277.9,2,1,16.3,Shymkent,Standard,Card
+71435,19.0,284.9,57,1,12.3,Karaganda,Premium,Card
+71469,27.0,305.6,25,5,21.1,Astana,Basic,Card
+71812,41.0,221.0,41,0,23.5,Shymkent,Standard,E-wallet
+71981,62.0,218.0,24,1,16.1,Shymkent,Premium,
+71386,21.0,278.3,23,2,16.6,Almaty,Premium,Card
+71983,59.0,417.8,50,2,14.7,Shymkent,Basic,E-wallet
+71613,64.0,294.3,12,5,4.4,,Standard,Card
+71431,49.0,424.0,50,2,15.0,Almaty,Standard,E-wallet
+71738,47.0,258.5,43,2,5.5,Almaty,,E-wallet
+71988,24.0,331.7,36,4,13.5,,Basic,Card
+71380,60.0,325.6,2,2,13.2,,Premium,Card
+71344,,229.8,22,2,13.7,Almaty,Basic,E-wallet
+71532,24.0,220.0,9,1,6.9,Karaganda,,Bank Transfer
+71156,56.0,229.4,47,2,2.9,Astana,Basic,Card
+71776,44.0,237.3,2,1,14.6,Astana,Basic,Card
+71658,58.0,325.5,26,3,24.9,Almaty,Basic,Card
+71354,44.0,277.0,49,0,12.5,Astana,Basic,E-wallet
+71220,37.0,229.8,46,1,16.1,Almaty,Basic,E-wallet
+71439,64.0,356.1,42,3,4.9,Shymkent,Basic,Card
+71796,60.0,75.8,36,2,5.7,Astana,Standard,Card
+71021,62.0,152.0,49,2,14.6,Almaty,Basic,Card
+71085,38.0,253.7,8,2,12.9,Almaty,Premium,Card
+71820,63.0,272.5,17,1,16.4,Astana,Premium,Card
+71896,63.0,182.9,38,2,0.5,Almaty,Basic,Card
+71708,27.0,224.8,8,1,16.5,Astana,Standard,Card
+71785,50.0,314.9,18,1,19.1,Astana,Standard,Bank Transfer
+71641,48.0,157.8,26,2,10.4,Almaty,Premium,Bank Transfer
+71864,52.0,251.9,32,2,6.7,Almaty,Standard,Card
+71900,47.0,302.8,32,0,11.4,Almaty,Premium,E-wallet
+71185,,143.3,60,3,20.0,Karaganda,Standard,Bank Transfer
+71664,44.0,272.6,24,2,7.1,Karaganda,Basic,Card
+71441,25.0,120.7,25,1,13.0,Shymkent,Basic,Card
+71829,40.0,223.4,3,2,15.8,Almaty,Standard,
+71496,63.0,218.4,14,2,14.8,Almaty,Standard,Card
+71345,59.0,317.1,51,2,13.9,Astana,Standard,Card
+71655,42.0,206.6,36,2,11.2,,,Bank Transfer
+71586,35.0,361.8,28,0,14.2,,Basic,E-wallet
+71565,47.0,211.3,11,1,12.5,Shymkent,Basic,Card
+71327,62.0,,46,4,16.2,Almaty,Basic,Bank Transfer
+71932,25.0,284.1,10,3,10.0,,Standard,Card
+71013,19.0,362.5,20,2,14.2,Karaganda,Basic,E-wallet
+71720,60.0,147.8,3,1,16.1,Shymkent,Basic,E-wallet
+71963,26.0,274.5,54,3,20.2,Almaty,Basic,E-wallet
+71698,43.0,493.8,57,3,21.8,Almaty,Basic,Card
+71270,21.0,235.5,59,1,11.0,Shymkent,Basic,Card
+71246,41.0,368.6,25,2,6.6,Karaganda,Basic,Bank Transfer
+71968,35.0,304.5,3,2,18.3,Almaty,Basic,Bank Transfer
+71538,62.0,146.8,22,1,2.8,Shymkent,Basic,Bank Transfer
+71139,56.0,404.9,27,1,10.1,Almaty,Standard,Card
+71890,50.0,392.3,41,4,9.3,Astana,,Card
+71993,18.0,115.9,57,3,9.0,Almaty,Standard,Card
+71470,52.0,291.8,12,0,16.8,Shymkent,Standard,Card
+71163,45.0,373.6,29,2,8.6,Shymkent,Premium,E-wallet
+71485,59.0,488.9,15,1,18.9,Karaganda,Standard,Bank Transfer
+71078,35.0,340.7,31,0,19.8,Astana,Basic,E-wallet
+71557,40.0,248.3,34,3,11.3,Astana,Standard,E-wallet
+71554,28.0,191.7,41,4,7.7,Shymkent,Basic,Bank Transfer
+71197,21.0,206.6,59,1,12.9,Almaty,Basic,Bank Transfer
+71930,42.0,306.0,19,2,10.5,Almaty,Basic,E-wallet
+71016,40.0,,1,0,13.4,Almaty,,Card
+71026,36.0,437.4,26,1,22.6,Karaganda,Basic,E-wallet
+71989,45.0,356.3,8,0,15.7,Almaty,Standard,Bank Transfer
+71714,35.0,397.1,38,2,19.6,Shymkent,Premium,E-wallet
+71921,54.0,244.7,50,2,23.0,,Basic,Card
+71964,56.0,35.0,24,2,29.2,Almaty,Standard,Card
+71434,51.0,216.8,17,1,22.7,Karaganda,Basic,E-wallet
+71868,63.0,516.3,11,2,8.2,Shymkent,Premium,Bank Transfer
+71347,40.0,228.4,36,1,6.0,Shymkent,Basic,Card
+71870,34.0,297.0,41,4,,Astana,Basic,Bank Transfer
+71563,33.0,352.7,30,1,10.4,Astana,Basic,Bank Transfer
+71044,19.0,292.1,54,4,20.4,Almaty,Basic,Card
+71473,35.0,325.9,3,2,32.2,Karaganda,Standard,Card
+71248,41.0,326.7,34,1,19.3,Almaty,Standard,Card
+71501,46.0,394.4,49,3,8.4,Shymkent,Basic,Card
+71146,48.0,340.1,9,1,15.8,Almaty,Basic,Card
+71567,56.0,388.6,47,1,10.7,,Basic,E-wallet
+71335,57.0,200.7,36,2,0.5,Almaty,Standard,E-wallet
+71114,26.0,351.4,10,1,11.9,Almaty,Basic,Card
+71093,27.0,,55,8,7.2,Karaganda,Standard,E-wallet
+71814,63.0,379.9,22,1,12.7,Shymkent,Basic,Card
+71570,48.0,328.9,46,2,26.8,Karaganda,Standard,Card
+71349,48.0,161.5,44,0,21.6,Shymkent,Standard,Bank Transfer
+71167,55.0,243.3,2,4,0.5,Astana,Standard,Card

@@ -1,0 +1,2801 @@
+CustomerID,Age,Gender,Region,ContractType,PaymentMethod,TenureMonths,MonthlyCharges,TotalCharges
+C02460, 47 ,Male,West,Two year,Credit card,71 months,88.82,6606.91
+C02705,70,Female,South,Month-to-month,Bank transfer,N/A,"85,12",4348.47
+C01494, 19 , M ,West,One year,Electronic check,38 months,71.18,2706.75
+C02011,69,Male,West,Two year,Electronic check,45,51.29,2126.17
+C00300, 58 ,male, NORTH ,annual,Bank transfer, 33 ,63.78,2260.07
+C00098,20,Female,West,One year,bank transfer,6,?,516.45
+C02340,34,Female,North,1 year,Bank transfer,49,71.97,3318.31
+C00852,46,male,North,Two year,electronic CHECK,10,99.34,"948,57"
+C02174,51,Male,South,M2M,credit CARD,19,22.11,390.89
+C01049,40,Male,North,One year,Credit card,65,40.16,2551.00
+C01654,19 years,Male, EAST ,One year,Electronic check, 60 ,80.19,5157.44
+C00329,31 years,female,west,Month-to-month,Electronic check,29 months,,2248.10
+C01613,25, F ,South,One year,e-check,14,47.60,663.67
+C01818,57,male,North,Month-to-month,Bank transfer,37,49.53,1847.01
+C01597, 21 ,Male, NORTH ,One year,Bank transfer,7,"61,81",419.68
+C02268,52,Male, NORTH , MONTH-TO-MONTH ,Bank transfer,45 months,80.28,3463.67
+C01202,28, F ,North,One year,credit CARD,31,88.49,2638.71
+C02029,37,male,South,Month-to-month,Credit card,32,103.33,3091.71
+C01387,25,Male,North,Two year,e-check,66,"88,17",5752.98
+C02462,N/A,Female,South,2 years,Bank transfer,33 months,$57.87,1774.42
+C01997, 55 ,Male, NORTH ,month to month,e-check,21,62.12,1343.68
+C01976,66,Male,South,Two year,e-check, 22 ,N/A,505.69
+C00962,64,Female,East,annual,Electronic check,36 months,69.55,2579.21
+C00548,27,Male,South,One year,Electronic check,52,86.75,4200.81
+C00910,25, M ,South,One year,Electronic check,22,102.80,2336.51
+C02759,24,Female,East,1 year, CC , 41 ,"81,02",3400.92
+C02093, 34 ,Female,West,Month-to-month,Electronic check, 68 ,96.84,5984.91
+C02194,47, F ,West,Month-to-month,Credit card,20,$88.12,1721.87
+C00540,44,Male,East,One year,e-check,52,84.00,3998.89
+C02334,59,Female,East,Month-to-month,Electronic check,71 months,90.29,6018.92
+C00257,57, F ,West,Month-to-month,Electronic check,7,111.76,713.89
+C00958,30,Male,North,Month-to-month,electronic CHECK,69,57.70,$3831.99
+C02218,26,male,West, ONE YEAR ,electronic CHECK,21,?,467.22
+C01555,59, M ,South,One year,Electronic check, 36 ,79.85,2774.90
+C00757,62,male,West,M2M,Bank transfer,26,85.53,2257.44
+C01007,32, M ,East,Two year, CC ,3,124.71,347.64
+C02415,71,Female,South,Month-to-month,Electronic check,24,65.11,1664.07
+C00075,48,Male,north, MONTH-TO-MONTH ,bank transfer,45,76.50,3546.36
+C00179,22,female,North,biennial,Bank transfer,47 months,28.12,1353.36
+C01162, 43 ,female,West,Month-to-month,e-check,46,"86,64",3904.72
+C01738,43,Male,North, ONE YEAR ,Electronic check,7,70.87,528.98
+C02264,51,Female,West, TWO YEAR ,electronic CHECK,9999,"78,56",3811.43
+C01384,52 years,Male,West,Month-to-month,Bank transfer,4,"36,44","141,83"
+C02416,58,Male,South,One year,credit CARD,9 months,44.55,370.86
+C01257,54,Male,West,Month-to-month, CC ,48,75.54,3585.38
+C00516, 62 ,Male,West,One year,Bank transfer,62,61.68,$3828.21
+C01961,42,Female,south, MONTH-TO-MONTH ,Electronic check,43,$48.97,$2146.83
+C01070,42,Male, NORTH ,Month-to-month,Bank transfer,46,82.63,3646.67
+C01964,N/A, M ,South,month to month,Credit card,36,54.90,1852.78
+C02032,61,male,South,month to month, CC , 11 ,77.15,798.09
+C00489, 71 ,Male,east,Month-to-month,Bank transfer, 60 ,62.76,$3960.39
+C02580,64,Female,North,1 year,Bank transfer,47,$49.73,2148.21
+C02225,26 years,Male,East,Two year,e-check,61,83.73,"4948,35"
+C02597,24,Male,West,Month-to-month,Electronic check,24,50.91,1176.74
+C01852,35,Female,North,M2M,Credit card,52,71.27,3764.44
+C02100,29,Male,East,Two year, CC ,26,84.91,2305.56
+C00132,66,female,South,1 year,Electronic check, 50 ,77.75,N/A
+C00479,47,Female,East,Month-to-month,credit CARD,32 months,79.44,2625.47
+C00799,48,Female,East,Month-to-month,Credit card,36,102.92,"3682,43"
+C02228,30,female,South,annual,bank transfer,71,22.00,1565.71
+C02263,20,Male,East,Two year,Credit card, 35 ,58.92,2040.84
+C00171,70,male,East,M2M,Credit card,72,unknown,1642.45
+C00406,73,Male,East,Two year,e-check,31,$48.57,1434.99
+C00123,32,Male,north,Month-to-month,Electronic check,24,88.14,2084.02
+C02734,68,female, EAST ,Month-to-month,Electronic check,12,51.76,619.09
+C00052,72,female,South,One year,Credit card,25,74.54,1699.82
+C02657,20, F ,East,One year,e-check,3,64.96,$187.24
+C01130,70,male,south,M2M,Electronic check,43,114.43,"4468,65"
+C00652,51,female,West,2 years,e-check,65,92.69,6428.97
+C00717,51,Female,North,1 year,Bank transfer,51,$67.58,"3585,10"
+C02098,26,Female,East,One year, CC ,67,73.39,5273.51
+C01957,48,Female,South,1 year,bank transfer,61,61.39,3770.26
+C02184, 26 , M ,West,annual,Electronic check,2,83.62,$174.16
+C01727,49 years,Male,south,One year,Bank transfer,66,96.62,6488.99
+C00076,20,female,west,Month-to-month,Electronic check,29,83.10,2395.20
+C00102,19,male,east,M2M,Credit card,8,"66,85",544.06
+C00948,32,Male,East,One year, CC ,36,"58,24",2250.80
+C00785,32 years,Male,East,One year,credit CARD,72,$69.88,4821.44
+C00972,58, M ,North,annual,e-check,36,63.65,2096.58
+C02288,47,Female,West, MONTH-TO-MONTH ,e-check,71,$66.37,$5053.32
+C00952,,male,South,One year,Electronic check,10 months,89.80,912.85
+C00324,37, F ,North,One year, BANK TRANSFER ,25,57.59,1303.16
+C00750,71, F ,North, ONE YEAR ,Electronic check,66,90.54,6347.26
+C02444,N/A,Male,North,Month-to-month,Electronic check,1,$80.24,74.86
+C02255,30, F ,East,Month-to-month,Credit card,42,82.95,3520.76
+C00381,61, M , EAST , MONTH-TO-MONTH ,Bank transfer,60,22.00,1217.86
+C01335,72 years, M ,West, ONE YEAR ,e-check,71,56.82,4112.76
+C00947,31,Female,North,Two year,Bank transfer,49,76.30,3718.27
+C00415, 32 ,Female,North, MONTH-TO-MONTH ,electronic CHECK,35,59.83,2018.33
+C02167,26,Male,East,Two year,credit CARD,50,$65.53,$3535.86
+C02490,47,Male,North,Month-to-month,bank transfer,40,40.99,"1748,52"
+C01449,20 years,Male,West,month to month,e-check,71,$47.07,unknown
+C00734,27,male,West,One year, CC ,36,60.08,2056.36
+C02577,70,Male,South,One year,Bank transfer,13,22.00,286.63
+C02019,44,Female,North,1 year, CC ,54,73.72,3688.47
+C02496,34,Female,South,month to month,electronic CHECK,65,43.66,$2580.22
+C02687,58,Female,north,Two year,bank transfer,25,69.29,1827.30
+C00349,72,Male,West,One year,Credit card,44,41.07,1787.25
+C02028,20,Female,north,annual,Electronic check,43,71.77,N/A
+C02290,42,Male,South,Month-to-month, BANK TRANSFER ,51,53.96,$2885.39
+C02626,71,male,East,Month-to-month,Credit card,17,61.53,1067.19
+C01778,N/A,Male,North,annual, BANK TRANSFER ,12,49.33,577.11
+C01780,48,Female,East,One year,Electronic check,46,60.08,2614.15
+C00879,52,Male,East,One year,electronic CHECK,62 months,"125,00",7604.53
+C00259,26, F ,South,Month-to-month,Electronic check,40,49.02,1905.91
+C02798,59,Male,North,Month-to-month,Credit card,20,$72.51,1556.19
+C00262,33,male,South,One year,Bank transfer,35 months,97.46,3384.26
+C00974,36,Female,South,Two year, BANK TRANSFER ,58,103.60,6037.87
+C02141,53,Male,South,M2M,Credit card,59,"51,12","2844,56"
+C01758,58,Female,North, MONTH-TO-MONTH ,credit CARD,14,"66,88",992.87
+C02781,64 years,female,East,Month-to-month,credit CARD,8,78.12,603.96
+C00073,56,female,North,One year,electronic CHECK,42 months,77.85,2955.78
+C00597,25 years,Male,North,Month-to-month,bank transfer,69,99.93,7167.86
+C00344,67,Female,South,Two year, CC ,28,$92.22,2476.24
+C00497,61,female, EAST ,Month-to-month, BANK TRANSFER ,48,78.79,3779.46
+C00680,64,male,West,Month-to-month,Bank transfer, 47 ,71.59,3457.56
+C02352,21 years,male,West, ONE YEAR ,bank transfer,36,66.53,$99999.00
+C01951,22,Male,West,Month-to-month, BANK TRANSFER ,33,$87.74,"2716,47"
+C01443,59,female,West,month to month,Credit card,20,$36.25,661.78
+C00733,27,Female,East, ONE YEAR ,credit CARD,70,49.72,$3468.43
+C02150,41,Male,North,Month-to-month,Electronic check,8,71.01,512.80
+C01493,68,Female,east,One year, BANK TRANSFER ,9,73.83,640.25
+C01850,54,female,North,One year, CC ,50,$73.63,3774.17
+C02656, 72 , M ,north,annual,Credit card,70,$45.21,3132.38
+C00151,55,Male,West,Month-to-month,Electronic check,38,73.69,2718.78
+C01496,37,female,North,Two year,e-check,19,97.65,1696.30
+C01427,41,Male,South,M2M,Electronic check, 29 ,85.68,2343.00
+C02600,28,female,East,One year,Electronic check, 35 ,$95.76,3486.89
+C00457,69,Female,West,Two year, BANK TRANSFER ,11 months,,1256.65
+C02319,36,Female,West,month to month, CC ,30,38.66,1150.03
+C01083,19 years,Male,North,Month-to-month,e-check,68,119.82,7386.26
+C01220,48 years,Female,west,1 year,Electronic check,59,22.00,1329.55
+C01874,51 years, F ,East,One year,Bank transfer, 70 ,35.97,2583.86
+C00445,53,female,East,2 years,electronic CHECK,?,$99999.00,3299.07
+C02057,47,Female,West,One year,bank transfer,23,87.44,1941.39
+C01894,27, F ,North,Month-to-month, BANK TRANSFER ,71,53.53,4093.19
+C01250,62, M ,East,One year,e-check,42,unknown,$2031.04
+C01942,27,Male,North, MONTH-TO-MONTH ,Electronic check,36,72.98,$2686.70
+C01421, 34 ,Male,East,annual,Electronic check,37,$54.28,2131.21
+C01837,37,Male,North, MONTH-TO-MONTH ,Credit card,66 months,94.67,6141.53
+C02532,72,female,West,Month-to-month,credit CARD,17,27.97,465.80
+C02435, 45 , F ,North,biennial,Credit card,29,51.66,1473.87
+C01643, 32 ,Male,North,Month-to-month,Electronic check,7,37.96,"255,66"
+C00059,35,Male,South,Two year,Bank transfer,5,44.04,"201,43"
+C01691, 50 ,male,South,Two year,Electronic check,?,46.83,613.20
+C02195,22,male,South,Month-to-month,Electronic check,49,59.14,3042.79
+C00290,40,Female,North,Month-to-month,electronic CHECK,41,62.08,2607.10
+C01833,37, M ,South,month to month,e-check,28,,3217.40
+C00650, 68 ,Male,East,M2M,e-check, 58 ,73.29,$4138.08
+C00311,26,male,North, MONTH-TO-MONTH ,Credit card,9,57.32,496.21
+C01356,20, F ,West,Two year,Bank transfer, 53 ,"83,19",4494.78
+C02294,60, M ,South,annual,e-check,17,?,"1766,91"
+C02089,71,Male,east, MONTH-TO-MONTH ,Electronic check,40,90.34,3292.62
+C02375,28,female,West,month to month,Electronic check,62,74.43,4325.67
+C00050,60 years, M ,East,Two year,Credit card,1,68.11,70.11
+C00773,24,Female,North,Two year, BANK TRANSFER ,9999,117.05,$6738.43
+C01026,65,Male,North,month to month,Credit card,32,"68,67",2277.43
+C00393,31,Female,North,annual,Credit card,37,53.75,$99999.00
+C00594,22, M ,North,Month-to-month,Bank transfer,17,54.55,873.12
+C02135,32,Female,South,Month-to-month,Bank transfer,43,42.64,1823.52
+C01408, 23 ,Female,north,Month-to-month,Electronic check,3,22.00,"71,14"
+C00301,21,Male,West,Month-to-month,Electronic check,14,78.64,1177.45
+C01184,41 years,female,North,Month-to-month,Electronic check,?,61.26,1997.77
+C02367,,Male, WEST ,1 year,Credit card,55,68.85,"4060,10"
+C00938,58, F ,South,annual, CC ,52 months,35.34,$1822.47
+C00546,65, M ,North,M2M,Bank transfer,56,,2560.92
+C00995,31, F ,North,2 years,Bank transfer,45 months,N/A,$3329.16
+C00954,23,male,West,1 year,credit CARD,3,124.11,340.52
+C01015,73, F ,North,One year,Credit card,59,98.27,5227.42
+C02479,57,female,North,Month-to-month, CC ,51,82.02,3815.83
+C00810,27,female,East,One year,credit CARD,?,91.59,4622.50
+C02058,52,female,East,2 years,Bank transfer,46,85.06,3859.10
+C00343,52,Male,West,Month-to-month,Bank transfer,46,37.52,"1861,07"
+C02617,72, F ,West,Two year, BANK TRANSFER ,47 months,,2088.83
+C02430, 66 ,Female,East,One year, BANK TRANSFER ,21,47.24,$1017.37
+C01099,32,female,West, TWO YEAR ,Electronic check,52,89.43,4348.24
+C02133,30,Male,East,One year, BANK TRANSFER ,58,$57.94,3509.86
+C00744,27 years, M ,East,One year,Credit card,68,76.32,5352.58
+C02454, 66 ,Male,East,2 years, CC ,62,35.89,"2256,65"
+C02078,47,Female,east,One year,Electronic check,10,83.37,759.87
+C00105,22,Male,South,month to month,Bank transfer,13 months,67.16,797.93
+C02697,54,Female,East,One year,Bank transfer,18,79.30,1467.62
+C01972, 23 ,Male,North,Month-to-month,Electronic check,72,39.71,2591.81
+C00137,19, F ,East,Two year,Bank transfer, 5 ,$65.54,308.84
+C00559,64 years,Female,West,M2M,Electronic check,6,72.82,429.72
+C00062, 31 ,Male,North,M2M,e-check,51,55.58,"2878,72"
+C00451,35,male, EAST ,Two year, BANK TRANSFER ,57,84.53,"4585,71"
+C01988,26,Male,East,One year, BANK TRANSFER ,71,98.56,6541.67
+C01504,58, F ,North,Two year,Electronic check,32,37.22,1184.73
+C02069,71,female,West,One year,bank transfer,33,69.06,2232.03
+C01717,34, M ,West,Month-to-month,Credit card,33 months,$90.89,3019.54
+C02738,35,Male, EAST ,Month-to-month,Electronic check,4,73.53,"277,06"
+C01429,63 years,female,North,One year,Electronic check,24 months,110.55,2562.47
+C00230,70,Male,North,One year,Bank transfer,1,$29.64,29.66
+C00820,21,Female,South,Month-to-month,Bank transfer,12 months,$51.26,664.03
+C01746,40,Female,East,Month-to-month,electronic CHECK,14,96.04,1249.42
+C00441,62,female,South,Month-to-month,Credit card, 58 ,62.02,"3331,61"
+C02025,22,Female,South,Month-to-month,electronic CHECK,70,$125.00,9244.31
+C01239,31,Male,North,One year,bank transfer,56,72.24,"4152,56"
+C01650,21,Female, WEST , ONE YEAR ,Bank transfer,1,117.41,108.00
+C01020,40,female,South,One year, BANK TRANSFER ,unknown,$40.35,2409.65
+C00442,65 years,female,East,Month-to-month, CC ,10,"94,94",953.68
+C01943,21,Male,South,Two year,Bank transfer, 69 ,58.58,$4109.97
+C00071,23,male,North,One year,Electronic check,4,"84,80",314.57
+C01702, 43 , M ,south,M2M,Bank transfer,72,"85,96",$6121.38
+C00448,69 years,Female,West,Two year,Electronic check,45,38.89,1650.26
+C01056,36,male,West,Month-to-month,electronic CHECK, 13 ,"69,03",N/A
+C01977,27,Male,East,annual,Electronic check,9999,$80.43,2925.21
+C01466,39, F ,North,Month-to-month,Electronic check,unknown,?,$1684.45
+C02221,63,Female,South, MONTH-TO-MONTH ,Bank transfer,56,57.75,3052.53
+C02746, 69 ,Female,West,Month-to-month,Bank transfer,40,84.44,3176.70
+C00268, 71 , F ,North, ONE YEAR ,Electronic check,36,"86,57",$3098.59
+C01383,56,Male,North, TWO YEAR ,credit CARD,66,$22.00,1449.86
+C01344,58,Male,North,Month-to-month,Electronic check,20,89.27,1675.88
+C02514,47,male,North, ONE YEAR , CC ,66 months,"88,65",5344.47
+C01481,49,Male,North,One year, CC ,56,unknown,3134.16
+C01707,23, M , WEST ,Month-to-month,credit CARD,65,$49.52,3438.15
+C00671,30,Female,South,Month-to-month,e-check,12,$101.24,"1131,74"
+C00285,?, F ,North, MONTH-TO-MONTH ,Bank transfer,52,93.45,"5079,02"
+C00551,34 years,Female,North,Month-to-month,bank transfer,7,"60,27",$386.59
+C00128,41,Female,South,One year,Electronic check,60,77.34,4367.92
+C02766,72,Male,North,month to month,credit CARD,35,61.70,2317.79
+C02512,57,Female,East,annual,Bank transfer,29,100.15,3020.51
+C02616,41 years,Female,East,Month-to-month,Credit card,72,82.26,5682.06
+C00999,54,Female,South,One year,Credit card,,41.49,1184.01
+C00859,19, F ,North,One year,Electronic check,29,71.38,1943.69
+C00011,34,Female,east,Month-to-month,e-check,2,57.76,112.38
+C01330,23,Male,West,One year,electronic CHECK,54,44.28,2427.00
+C01434,52,Female,south,month to month,Electronic check,32,67.25,2162.73
+C01515,32,female,West,Month-to-month,Bank transfer,16,74.18,$1186.39
+C01756,57, F ,South,Month-to-month,Credit card,47,95.65,4439.06
+C02727,25,Male, NORTH ,Month-to-month,Credit card,66,43.77,2925.93
+C00280,51 years,Male,North,One year,Bank transfer,68,33.14,2397.94
+C01002,71,Female,South,One year,electronic CHECK, 6 ,39.04,217.48
+C00308,21, F ,east,month to month,credit CARD,72,,"3862,77"
+C00263, 36 ,Male, SOUTH ,1 year,Credit card,47,73.33,3205.29
+C00284,27, F ,west,month to month,Electronic check,10,58.26,583.14
+C00769,28,Female,South,M2M,Bank transfer,32 months,48.06,1431.80
+C02080,24,Female,West,annual,bank transfer,28,$55.46,1662.56
+C01090,57, F ,West,month to month,Electronic check,10,64.04,"672,89"
+C02674,56,Male,East,One year,Credit card,47,$61.08,2636.67
+C01088,53,female,West,Month-to-month,Bank transfer,36,51.13,1686.31
+C00748,61 years,Male, SOUTH ,biennial,Bank transfer,50,117.90,6018.68
+C02110,63,Female,East,One year,Electronic check, 53 ,61.73,3377.35
+C00761,24 years,Female, WEST ,One year,Electronic check,43,79.45,N/A
+C00320,35,Male,North,M2M,Credit card,1,48.42,"44,79"
+C00092,34,male,South, ONE YEAR ,Bank transfer, 9 ,69.41,665.50
+C00589, 63 ,Female,West,Month-to-month,bank transfer,42,N/A,3385.22
+C02079,51 years, F ,South,annual,Bank transfer, 4 ,74.62,301.46
+C01563,44,Female,North,M2M, BANK TRANSFER , 27 ,"71,66",1882.95
+C00990,56, M ,North,M2M,Electronic check,13 months,58.40,"711,49"
+C01693,52, F , NORTH ,One year,Electronic check,60,92.94,5571.09
+C02215,42, M ,South,Month-to-month,Electronic check,21,$99999.00,$821.46
+C02736,63,Female,North,Month-to-month, CC ,4,43.07,165.24
+C02137,21,Male,South,One year,e-check,51,88.18,"4467,05"
+C01390,51,male,East,Month-to-month, BANK TRANSFER ,62,72.92,4378.09
+C02124,46,Female,West, MONTH-TO-MONTH ,Credit card,7,81.99,588.00
+C01233,20,Male,West,Month-to-month,Electronic check,65,90.57,5432.64
+C02771,70, M ,East,Month-to-month, CC ,59,22.00,1310.28
+C00452, 66 , M ,North,month to month, BANK TRANSFER ,32 months,81.90,2504.47
+C02623,62,Female,west,month to month,Credit card,19,82.45,unknown
+C01807,29 years,female,West,Two year,Electronic check,30,98.80,"3078,53"
+C00556,24,Female,South,Month-to-month,Electronic check,17,43.99,806.88
+C02146,34 years,Female,North,One year,Electronic check,29,69.72,$2116.64
+C00644,29,Female,North,Month-to-month,Electronic check,43,29.58,1266.38
+C01167,33 years, M ,south,One year,Bank transfer,48,51.53,2242.21
+C00034, 34 ,Male,East,month to month,e-check,10,67.14,610.30
+C01910,43 years,Male,North, MONTH-TO-MONTH ,Electronic check,29,75.20,2144.35
+C00140,73,Male,East,1 year,Credit card, 65 ,58.60,$3523.14
+C01652,57 years,Female,West,One year,Electronic check,6,49.31,318.04
+C02658,40,Female,North,Month-to-month,credit CARD,48,87.15,3987.10
+C01312,63 years,male,West,Month-to-month,Bank transfer,5,90.43,456.88
+C01978,31,Female,West,biennial,Credit card,27,118.56,2898.86
+C00342,54 years,Male,South,Two year,Bank transfer,47,115.15,5534.58
+C01917,33 years,male,South,Two year,Electronic check,4 months,40.61,149.32
+C01841,21,male,South,Month-to-month,electronic CHECK,18,63.13,1084.62
+C01647,?,Female,south,1 year,Bank transfer,31,37.54,1138.28
+C02442,70,Female,West,M2M,Credit card, 66 ,47.87,3178.52
+C00664,71,Male,West,Two year,Bank transfer,58,86.71,"5297,64"
+C00705,72,female,South, TWO YEAR ,bank transfer,37,87.18,3020.63
+C00388,33,female,North,One year,Bank transfer,12,$72.88,853.24
+C01603,60 years,Female,East,Month-to-month,Bank transfer,9,89.59,830.16
+C02401,,Male,East,annual,Credit card,27 months,91.85,
+C01328,,Female,North,Month-to-month,e-check,72 months,28.67,"1917,13"
+C00015,47,Female, SOUTH ,One year,Credit card,8,50.74,unknown
+C00175,41,Male,North,Month-to-month,Electronic check, 48 ,60.79,3038.12
+C01864,21 years,Female,South,Two year,Electronic check,41,22.00,929.16
+C01164,48, F ,East,One year,credit CARD,28,58.16,1503.11
+C01053, 42 ,female,north,One year, BANK TRANSFER ,59,90.93,"5084,64"
+C01821,29,Male,South,Month-to-month,Credit card,11,49.37,$556.09
+C00992,47,Male,North,Month-to-month,Credit card,54,86.35,4889.94
+C02177,69,male,South,Month-to-month,Credit card,55 months,72.48,4213.36
+C01502, 37 , F ,East,1 year,Electronic check, 52 ,32.35,1654.56
+C02453,34, M ,South,Two year,e-check,26,66.73,1743.76
+C02261,49,Female,East,Month-to-month,bank transfer,35,112.73,3865.34
+C00423,52 years,male,East,annual,electronic CHECK,9,99.75,937.81
+C01715,35 years,Female,East,2 years,Credit card,1,78.18,77.59
+C00893,39,Male,South,One year,Electronic check,27,63.20,1583.59
+C00266,45, M ,West,Month-to-month,Bank transfer, 66 ,117.93,7155.51
+C00072,68,Male,West,Month-to-month,Bank transfer,44,$71.33,3139.81
+C00701,52,Female,North,One year,Electronic check,1,75.63,76.06
+C00817,31,male,North,Two year,Bank transfer,72,58.65,"4533,02"
+C02572,59,Male,West,2 years, BANK TRANSFER ,?,42.41,1216.80
+C01533,30 years, M ,East, MONTH-TO-MONTH ,Electronic check,39,55.77,2167.64
+C00231,40,Male,West,biennial,Bank transfer,25,53.94,1359.37
+C02189,64, M ,East,month to month,Bank transfer, 29 ,,1707.08
+C01217,32,Female,east,Month-to-month,credit CARD,10 months,46.56,479.12
+C01286,9999,Male,South,2 years,Credit card,28,69.46,1839.89
+C02322,36,Male,North,Month-to-month,Bank transfer,21 months,33.98,734.78
+C02549,57,Male,East,annual,Bank transfer,45,83.19,"3730,22"
+C02040,63,Male,East,Two year,electronic CHECK,58,74.27,4498.59
+C02192, 43 ,Male,South,Month-to-month,credit CARD,4,48.19,199.31
+C00184, 31 , M ,East,Month-to-month, CC ,49,83.04,4214.69
+C01333,?,Female,North,1 year,electronic CHECK, 51 ,$50.29,2532.73
+C01914, 72 ,Male,East,One year,Credit card,64,"54,39",3299.66
+C00219,30,Male,North,month to month,Credit card, 15 ,76.97,$1163.67
+C01490,73,male,East,One year,Bank transfer, 8 ,55.32,450.63
+C02119, 42 ,Male,South,One year,Bank transfer,38,86.86,"3188,21"
+C00725,45,Male,North,annual,bank transfer,72,91.59,6328.41
+C00456,59 years, M ,East,Month-to-month,electronic CHECK,41,105.46,"3975,95"
+C01617,72 years, M ,South,One year,electronic CHECK,65,40.59,2599.21
+C00881,25,male,South,Month-to-month,Credit card,8,$98.14,804.43
+C00236,24,female,East,One year,e-check,51,88.73,4529.86
+C00794,70,Female,south,Month-to-month, BANK TRANSFER ,43,80.97,3248.69
+C02484,20, M ,West,Month-to-month,Credit card,2,$47.19,?
+C00620,26,Male,West,Month-to-month,e-check, 10 ,$62.41,663.49
+C02377,25,male,South,Two year,Bank transfer, 43 ,61.22,2674.40
+C01661,70,Female, WEST ,Month-to-month,Bank transfer,9,48.38,$440.58
+C00702,19,Male,east,Two year,Credit card,67,68.03,4717.46
+C01529,41,Male,East,Two year,Credit card,7,68.96,495.72
+C02505,29,male,South,annual,Electronic check,58,93.60,5056.03
+C00825,43,Female,West,Month-to-month,Credit card,1,"88,67",87.31
+C00676,26,female,East, MONTH-TO-MONTH ,Bank transfer,33,22.00,724.88
+C01728,65, M ,South, MONTH-TO-MONTH ,Credit card,10,69.74,711.32
+C00823, 73 ,Male,South,One year,Electronic check,32,"104,06",3125.24
+C01771,25,Male,North,Month-to-month,Bank transfer,45,76.55,3187.96
+C02256,21,female,South,2 years,Credit card,49,N/A,2492.80
+C01827,40,female,West,Month-to-month,Electronic check,6 months,32.83,$203.14
+C00267,43 years,Female,South,Month-to-month, BANK TRANSFER ,59,55.66,3512.37
+C00129,58, M ,South,annual,bank transfer,37,22.00,825.05
+C02354,67 years,Male,North,2 years,Electronic check,63,22.00,1275.25
+C02531,33 years,male,north,Month-to-month,electronic CHECK,6,?,$169.76
+C02338,37, M ,East,One year, CC ,18,97.53,1807.85
+C02096,23,Male, SOUTH ,annual,Electronic check,1,117.38,121.13
+C01808,46,Male,North,Two year,Electronic check,17,28.56,513.59
+C02339,54,Male, EAST ,month to month,Electronic check,71,75.91,5558.09
+C00003,48,Female,West,Month-to-month,Electronic check,11,67.62,$738.02
+C00103,57,Male,West,M2M,electronic CHECK,41,unknown,1544.22
+C00425,41,male,West,Month-to-month,Credit card,40,82.84,$3008.46
+C00328,48 years,Male,South,M2M,e-check,,43.28,307.40
+C01402,39, M ,South,M2M,Credit card,35,63.13,
+C01625, 25 ,Female, EAST ,Month-to-month,credit CARD,9999,"85,83",3989.23
+C00384,53,Female,North,One year,Electronic check,12,78.26,980.71
+C02778,36,Male,West,1 year,Bank transfer, 51 ,64.14,$3451.66
+C00085,?,Female,West,1 year,e-check,44,107.71,4536.36
+C01847,35, F ,North,Two year,Bank transfer,44 months,$96.28,$3846.31
+C01364,45, M ,South,Month-to-month,Bank transfer,5,$87.39,412.93
+C00596,35,Female,North,Two year,e-check,16,61.03,910.98
+C00038,68,female,West, MONTH-TO-MONTH ,Credit card,48,70.37,$3384.66
+C00225,46,Female,North,M2M,Bank transfer,16 months,?,$680.37
+C01578,53 years,Female,West,month to month,Electronic check,6,66.37,"363,78"
+C00444,23,Female, NORTH ,Two year,Electronic check,70 months,$76.33,5142.88
+C01824,unknown,Female,West, ONE YEAR ,Electronic check,11,N/A,970.14
+C00708, 67 ,Female,North, ONE YEAR ,electronic CHECK, 72 ,80.55,"5800,39"
+C00840,73, F ,North, MONTH-TO-MONTH ,Credit card,26,76.06,2099.15
+C01433,22,male,north,M2M,electronic CHECK,16,"35,73",595.67
+C02103,65,Male,South,1 year,electronic CHECK, 36 ,58.91,"1914,22"
+C00979,47,female,west,M2M,Credit card,65,"60,38",3707.57
+C00735,34,Female,North,biennial,Credit card,38,97.47,3962.89
+C00527,34, M ,North,One year,credit CARD,44,70.62,3153.24
+C01225,39,Male,East,One year,Bank transfer,14,108.56,1441.94
+C00091,70,Female, NORTH ,Month-to-month,electronic CHECK, 70 ,97.64,6740.58
+C02718,19,Male,South,Month-to-month,e-check, 7 ,83.88,604.02
+C00764,66,Female,west,M2M,Credit card,24 months,80.86,2024.92
+C01044,60,Male,West,Month-to-month,Electronic check,17,105.11,1914.54
+C01396,60 years,Female,North,One year, CC ,29,43.98,1369.91
+C01486,40 years,female,South,month to month, BANK TRANSFER ,6,58.12,330.08
+C00368,40,male,West,M2M,e-check,4,?,$224.41
+C01089,65,female,East,Month-to-month,Credit card,51,55.82,2656.76
+C02001, 68 ,Male,South,Month-to-month,Electronic check,8,?,365.85
+C02606,N/A,female,North,M2M,bank transfer,9,"86,66",817.60
+C01302,61,Female,East,Month-to-month,Bank transfer,37,76.25,2859.00
+C00460,45,Male,West,Two year,Credit card,45,69.41,3247.18
+C01651,71,Female,South,1 year,bank transfer,15,49.81,795.16
+C01366, 38 ,female,East,Month-to-month,Credit card,11,91.40,936.78
+C00772,46, M ,South,Month-to-month,Electronic check,20,95.90,1805.58
+C02045,27, M ,east,Month-to-month,Credit card,34,$60.11,"2119,77"
+C01349,21, F ,North,Two year,Electronic check,53,,1550.46
+C02359,33,male,East,Month-to-month,Electronic check,66,?,
+C02056,59,Female,West, MONTH-TO-MONTH ,Credit card,45,$48.15,2315.60
+C02173,27,Female,North,One year,electronic CHECK, 36 ,91.39,3514.18
+C00382, 23 ,Female,west,Month-to-month,Electronic check,9,34.39,332.71
+C00127,36 years,Male,north,Month-to-month,Electronic check,14,38.69,$511.81
+C01495, 30 ,Female, NORTH ,One year,Bank transfer,43,81.08,3600.01
+C01341,65,Female,East, TWO YEAR ,e-check,70,54.68,3905.52
+C01748,39 years,Female,South,One year,Electronic check,64,61.60,4098.69
+C02168, 49 ,Female,north,Month-to-month,electronic CHECK,63,63.11,
+C01198,34,Male,North,annual,e-check,,$66.92,2437.82
+C01854,58,Male,North,month to month,Credit card,30,105.70,"3216,41"
+C01669,58,female,North,One year,credit CARD, 48 ,99.24,4909.34
+C02562,43,Female,East,annual,electronic CHECK,46,$125.00,$6205.76
+C00984,72 years,Male,west, ONE YEAR ,Credit card,13,,"628,12"
+C00801,64,Female,West,Two year,Credit card,38,103.87,"3866,11"
+C02323,43,male,South, MONTH-TO-MONTH ,Bank transfer,unknown,34.72,2287.87
+C01785,28,Female,South,Two year,Electronic check,44,54.88,2283.91
+C00493,60,Male,West,Month-to-month,Credit card,9999,105.18,$5785.06
+C02163,63,Male,South,One year,e-check,69 months,74.63,$4816.29
+C02258,63,Male,South,1 year,e-check,31,22.00,721.66
+C01469, 35 ,Male,North,One year,Electronic check,unknown,$56.79,666.63
+C01592,52,Female,South, MONTH-TO-MONTH ,electronic CHECK,72,66.35,4638.58
+C02282,59,Female,South,One year,Credit card,35,92.03,"2948,24"
+C02688,9999,female,West,Two year,e-check,72,79.58,N/A
+C00261, 60 , F ,West, MONTH-TO-MONTH ,Electronic check,38,62.68,"2497,78"
+C02077,56 years,Male,South,Month-to-month,electronic CHECK,56,86.50,4382.69
+C02075,46,Female,South, MONTH-TO-MONTH ,Electronic check, 68 ,67.62,4252.12
+C02538,44, M ,east,Month-to-month,Bank transfer,43,48.47,$2181.55
+C00416,57,Female,East,biennial,Electronic check,2,86.37,168.85
+C01763, 26 , M ,North,Two year,Bank transfer,43 months,56.17,2402.03
+C01145,50,Female,South,Month-to-month,Credit card,12,49.59,"555,67"
+C01829,N/A,Male,West,One year, CC ,66,71.58,4724.98
+C01544,66,Female,east,M2M,e-check, 23 ,76.76,$1595.71
+C00592,34 years,Female,North,One year, CC , 38 ,22.00,$99999.00
+C02497,29,female,North,Month-to-month, BANK TRANSFER ,?,$50.06,"1458,82"
+C00191,46 years,Female, EAST , MONTH-TO-MONTH ,credit CARD,68,90.44,$6598.45
+C01474,63,female,East,2 years,Credit card,39,66.64,2711.00
+C00714,36,female,North,biennial,e-check,66,N/A,5834.01
+C01452,61, F ,East,month to month, BANK TRANSFER ,60,,3418.32
+C00837, 73 ,Female,South,1 year,Electronic check,53,74.30,4154.42
+C01524,22,Male, NORTH ,One year,Bank transfer,9999,36.46,1072.17
+C01967,43,male,West,One year,Electronic check,N/A,69.75,"3963,90"
+C01160,37,Male,West,2 years,e-check,15,47.33,750.13
+C02642,27 years,Male,West,Month-to-month,Bank transfer,9999,77.37,4709.21
+C00269,60,Male,East,Month-to-month,Electronic check,72 months,69.10,4975.35
+C02425, 33 ,Male,West,month to month,Electronic check,38,72.72,2675.31
+C02701,30, F ,West,Month-to-month,Bank transfer,62,52.06,3023.97
+C01797,43,Male,South,1 year,Electronic check,8,67.27,510.31
+C01149,21 years,Male,East,month to month,bank transfer,65,60.17,$3967.39
+C01798,24, F ,East,One year,Bank transfer,43,80.12,3219.46
+C01142,54,Male,South,Two year,bank transfer,70,$60.40,4071.34
+C01420,46,female,North,Month-to-month,bank transfer,64,$58.74,3801.42
+C00724,32,Male,South,M2M,Electronic check,32,72.79,2269.52
+C02469,36, M , WEST ,Two year,e-check,12,42.54,536.03
+C00873,47,Female, WEST ,One year,Credit card,9,56.46,"523,66"
+C02361, 39 ,female,North,Month-to-month,Bank transfer,24,44.20,970.74
+C00430,57 years,Male,West,annual,Electronic check, 67 ,95.11,6808.20
+C00563,47,Male,west,2 years,Bank transfer,58 months,80.14,4395.30
+C01350,64,Male,South,Two year,electronic CHECK,52,"58,41",3223.93
+C01698, 59 ,Male,East,Month-to-month,Electronic check,61,?,4438.15
+C01907,42,Male,South,Month-to-month,electronic CHECK,6,63.29,351.14
+C00585,40,female,West,Two year,Credit card,21,66.91,1423.29
+C02419,45,Female,East,biennial,Bank transfer,?,109.93,$7201.47
+C02473,50,Female,West,Month-to-month,Electronic check,9 months,80.77,674.32
+C02306,50,Male,West,One year,Electronic check, 10 ,45.68,"411,22"
+C01025, 72 , F ,South,Month-to-month,e-check, 8 ,$66.69,485.09
+C01108,66,Male,south,month to month,Credit card,12,64.17,829.90
+C02207,34,Female,east,month to month,Electronic check,33,48.33,1611.05
+C02060,49,male,East,Month-to-month,Electronic check,57,75.36,4630.34
+C01633,35,Female,North,2 years, BANK TRANSFER ,32,44.29,1398.32
+C00099,20,Female,East,Two year,Electronic check,9999,62.73,1498.39
+C00857,68, F ,West,One year,Bank transfer,65,32.29,2129.81
+C02785,47,Female,West,Month-to-month,Electronic check, 25 ,65.94,1751.59
+C02443,62, M ,North, TWO YEAR ,credit CARD,34,74.93,2704.35
+C01508,29,Male,east,One year,Credit card,56 months,83.13,4313.73
+C01197,73,Female,West,M2M, BANK TRANSFER , 56 ,$98.41,5422.40
+C01416,24,female,North,Month-to-month,electronic CHECK,44,99.32,4455.79
+C01908,42,Female,East,Two year,e-check,41,77.72,3201.37
+C01604,59,Female,East,Month-to-month,Electronic check, 55 ,68.85,3472.17
+C02456,24,Female,North,Two year, CC ,37,52.49,1889.15
+C01114,34,male, SOUTH , ONE YEAR ,Electronic check,4,$57.68,233.44
+C00496,24,Female,East,Month-to-month,electronic CHECK,58,86.45,5263.67
+C00120,58,Female,north,Two year,Bank transfer,43,"32,13",1362.64
+C00780,41, M ,West,1 year,bank transfer,44,75.21,3416.41
+C01431,37,Female,South,Two year,Electronic check,5,72.80,385.42
+C01360,63,Male,West,2 years,Bank transfer,unknown,84.22,"5588,09"
+C01444,55,Male,West,month to month,Electronic check,22,79.80,1593.77
+C01249,?,Male,south,Two year,credit CARD,57 months,"75,80",4441.95
+C01308,30,Female,south,M2M,e-check, 53 ,93.75,5198.91
+C01254,19,Female,west,Two year,Bank transfer, 7 ,64.10,?
+C02728,53,Male,West, MONTH-TO-MONTH ,Bank transfer,?,49.23,599.61
+C02433,67, M ,West,M2M,Electronic check,1,22.00,22.73
+C01927,36 years,Male,North,One year,Electronic check, 66 ,49.92,3165.94
+C00400, 42 , F ,West,Month-to-month,Electronic check,2,86.12,184.90
+C00331,49,Male,South,month to month,Electronic check,68,47.48,unknown
+C01553, 45 ,Male, WEST ,Month-to-month,Electronic check,27,48.85,"1392,61"
+C01050,44,Male,South,Two year,Credit card,40,50.50,2070.38
+C00126,N/A,Female,North, MONTH-TO-MONTH , CC ,,22.00,$473.13
+C02468,9999,Male,South,M2M,Bank transfer,67,81.68,5554.24
+C00316,63,Male,South,Two year,credit CARD,10,"58,45",535.23
+C02404,68,Female,east,One year,Electronic check,55,74.55,$3943.76
+C02500,63, M ,North,One year, BANK TRANSFER ,1,42.04,40.31
+C01228,25, F ,West, MONTH-TO-MONTH ,Credit card,42,57.84,2593.03
+C01287, 69 ,Female,North,Two year,Electronic check,13,103.45,1274.00
+C01163,23,Female,East,One year,Bank transfer,16,"22,00",376.77
+C01768,63,Male,South,Month-to-month,Bank transfer,36 months,65.86,2466.00
+C02545,66,Female, SOUTH ,M2M,Electronic check,2,"44,91",85.87
+C01209,20, M ,West,Month-to-month,bank transfer,26,79.99,$2028.20
+C01945,45, M ,North,Month-to-month,Electronic check,61,72.97,4692.94
+C02217,48,male,West,Two year,Bank transfer,22,57.33,1347.31
+C02230,62 years, F ,East, TWO YEAR ,credit CARD,26,$49.06,1338.11
+C02337,65, M ,West,One year,Electronic check,31,68.58,2243.05
+C01165,38 years,Female,South,Month-to-month,credit CARD,70,47.20,3491.65
+C00889, 62 , M ,South,annual,Bank transfer,16,$86.24,"1299,00"
+C00197,54,Male,West,M2M,e-check,20,103.53,2217.87
+C00305,38, F ,North,M2M,e-check,69,47.02,3465.85
+C00806,38, F , WEST ,Month-to-month,electronic CHECK,62,96.82,5879.55
+C00251,58, F ,North,annual,credit CARD,52,"73,27",3931.60
+C00090,50, M ,South,month to month,Credit card,20,80.13,1460.04
+C00083,62,Female,west,annual,e-check,67,58.00,4111.42
+C02754,62,Male,West,Month-to-month,Electronic check,6,94.54,558.20
+C00767,36,Male,West,M2M,e-check, 13 ,$100.06,1220.26
+C02325, 57 ,Female,north,M2M,Bank transfer,2 months,73.41,141.63
+C02799,24,female,West,biennial,bank transfer,35,72.24,2730.46
+C01461,28, F ,West,M2M,Credit card,11,53.92,573.28
+C00809,38 years,female, EAST ,Month-to-month,electronic CHECK,55,unknown,3109.47
+C00906, 45 ,Male,North,Month-to-month,Electronic check,13,59.42,758.08
+C01042,62,female,South,Month-to-month,e-check,62,"41,39","2743,09"
+C02619,24,Female,North,One year,e-check,21,36.70,698.02
+C00182,53,Female,South,One year,Credit card,68,36.99,2437.07
+C01043,30,Male,north,M2M,electronic CHECK,34,45.89,1486.05
+C02508,39,Female,North,Month-to-month,electronic CHECK,17,$78.02,"1210,95"
+C01681,42,Female, EAST , MONTH-TO-MONTH ,e-check,41,$37.28,1416.01
+C01080,69,Female,north, TWO YEAR ,e-check,12,74.28,929.24
+C01809,38,Female,East,1 year,Electronic check,55,35.37,1977.86
+C00970,31,Female,west,One year, BANK TRANSFER ,17,68.34,1178.27
+C02780,38, M ,West,Month-to-month, BANK TRANSFER ,67,$75.74,5441.33
+C00082,,Female,West,month to month,Credit card,33,51.64,1655.73
+C00822,59 years,Female,South,One year,Electronic check,47 months,29.38,1439.50
+C01946,70,Female, NORTH ,Two year, BANK TRANSFER ,55,"47,77","2778,79"
+C00943,59, M ,west,One year,Electronic check,21,117.84,2558.98
+C01534,40 years,Male,East,One year,Credit card,?,"89,59",2625.06
+C01844,36,male,East,Two year,Credit card,21 months,106.86,2281.81
+C02605,43,female,South, ONE YEAR ,Electronic check,59,72.45,$99999.00
+C00502,58 years,male, NORTH ,Month-to-month,Electronic check,18,30.66,578.87
+C01054,30,Female,South,One year,Credit card, 23 ,"46,58",$1002.18
+C02328,39,Female, WEST ,month to month,Credit card,13,58.55,725.55
+C00336,44 years,Female,North, TWO YEAR ,credit CARD, 40 ,59.37,"2458,95"
+C02222, 33 , M ,North,Two year,electronic CHECK,30,105.54,3015.58
+C01518,22,female,North,Two year,bank transfer,10,"84,74","773,71"
+C02726, 38 ,female,West,Month-to-month,electronic CHECK,16 months,65.62,$984.50
+C00506,65,Female,South, ONE YEAR ,Bank transfer,13,69.50,$850.21
+C01867,63,Female,East,Two year,Electronic check,48,61.07,2864.66
+C00149,43,Male,West,One year,Bank transfer,,56.19,2025.33
+C02302,27 years, F ,South,Month-to-month,Bank transfer,unknown,91.68,2260.48
+C00642,40,Male,West,annual,Credit card,30,71.56,2046.68
+C02185,40,Female,East,Two year,Electronic check,18,75.76,"1307,07"
+C02049,73,Male,South,One year,credit CARD,39,49.42,$99999.00
+C01902,66,Male,East,Month-to-month,bank transfer,19,46.61,$839.14
+C02275,43, M , WEST ,One year,Bank transfer,60,84.93,5174.46
+C01456,65,Male,South,One year,Bank transfer,56,41.04,2077.56
+C02159,57 years,Male,South,Month-to-month,Electronic check,36,73.82,2470.25
+C00821,27,male,East,One year,Credit card,62,64.51,N/A
+C02329, 67 ,male,South,Two year,Credit card,38,93.76,3256.95
+C02567,27,Male,East,M2M,Electronic check,70,108.01,7265.02
+C00063,72,Female,East,Two year,Bank transfer,67,74.95,$5337.43
+C01521,61, F ,North,M2M,e-check,58,"45,88",2780.72
+C00189,66,Male,North,Month-to-month,Credit card, 3 ,81.90,$254.77
+C02087,33, F ,South,month to month,e-check,28,$91.21,2495.73
+C01898,52 years, M ,West,M2M,Electronic check,67,58.59,N/A
+C02515,59,Female,West,One year,Bank transfer,49 months,"80,65",$3576.24
+C01345,26,Female, WEST ,2 years,Bank transfer,32,53.68,"1727,52"
+C01087, 28 ,Male,East,Month-to-month,Electronic check,16,94.83,1537.98
+C00370,54,female,West,Month-to-month,Electronic check,63,44.96,2977.80
+C00325,47,Female,West,Month-to-month,Bank transfer, 53 ,56.08,2703.84
+C02350,53 years,Female,South,One year,Credit card,unknown,24.16,1009.46
+C01516,19,Male, NORTH ,One year,Electronic check,6,48.68,$307.26
+C02523,26,male,North,One year,Electronic check, 71 ,63.28,4311.44
+C00888,58,female,East,Month-to-month, CC ,4,22.00,91.64
+C02084, 43 ,female,North, ONE YEAR ,e-check,67,22.00,1546.15
+C01912,33,Female,west,2 years,Credit card, 53 ,35.33,1871.48
+C02341,44,Male,South,month to month,electronic CHECK,5,32.53,150.97
+C02553, 49 ,Female,East,One year,Bank transfer,4,51.49,"210,29"
+C01415,34,Male, EAST ,month to month,Credit card,48 months,$72.73,3436.10
+C01037,67, F ,North,One year,bank transfer,9999,33.94,1473.83
+C01649,49,male,South,Month-to-month,Credit card,57,39.84,2125.83
+C00684, 23 ,Male,West,Month-to-month,Bank transfer,44,37.23,1542.91
+C01372, 57 , M ,South, TWO YEAR ,Credit card,9,81.88,708.81
+C00766,40 years,Female, WEST , ONE YEAR ,electronic CHECK,16,41.01,683.91
+C00532,48,Male,North,month to month,Credit card,23,45.48,955.16
+C02331,44,Female, WEST , ONE YEAR ,Bank transfer,14,53.63,795.32
+C01996,37,Male, SOUTH , MONTH-TO-MONTH ,e-check,63,"40,77",2443.10
+C02493,63 years,Male,West, MONTH-TO-MONTH ,Credit card, 52 ,103.39,5444.05
+C02210,62,female,west,Two year,Bank transfer,32,58.17,"1986,18"
+C00482,24,Female,south,One year,bank transfer,9,43.05,380.77
+C01611,68 years,Male,North,annual,Electronic check,35,84.37,"2871,95"
+C01185,31,Male,South,Month-to-month,Electronic check,55,94.91,5341.97
+C00535,67,female,West,Month-to-month,e-check,50,100.60,$4996.29
+C01600,63,Male,South,Month-to-month,Bank transfer,51,79.50,$3670.17
+C01925, 22 ,female,West,One year,e-check,25,"67,32","1598,84"
+C00593,69,Male, NORTH ,Month-to-month,bank transfer,58 months,50.25,$2724.36
+C01455,65, F ,West,Month-to-month,Bank transfer,20 months,?,869.89
+C01319, 66 ,female,North,One year,bank transfer,?,56.29,2690.55
+C01606,25,Male,West,1 year,credit CARD,24,68.28,1662.41
+C02006,61,Female,East,Month-to-month, BANK TRANSFER ,13,67.23,829.74
+C02020,72,Female,North,M2M,credit CARD,70 months,68.07,"4882,08"
+C01712,62,Male, WEST ,One year,electronic CHECK,32,108.07,3719.67
+C02528,40,Female,East,Month-to-month,bank transfer, 34 ,61.79,2029.25
+C01158,50,Male,South, MONTH-TO-MONTH ,Electronic check, 27 ,95.23,2485.94
+C00035,68 years, M ,East,Month-to-month,Bank transfer,,44.52,$2167.53
+C00843,29 years,Male,North,month to month,Bank transfer,51,54.48,?
+C01212,35, M ,west,Two year,Electronic check,32,44.00,1416.25
+C01805,58,Female,East,1 year,e-check, 72 ,80.50,5375.29
+C00335,49,Male,West,Two year, CC ,53,"42,04",2272.83
+C01982,46 years,Male,South,annual,Credit card, 9 ,38.73,342.66
+C02631,29,Female,East,M2M,Bank transfer,34,97.82,3391.00
+C01224,27,female, SOUTH , ONE YEAR ,Electronic check,17,88.17,1423.01
+C00116,65,Female,East,annual,Electronic check,60,59.00,3659.05
+C00969,24, F ,east,Two year,Credit card,26,91.52,2537.65
+C00064,35 years, F ,West,Month-to-month,Electronic check, 15 ,77.32,1046.07
+C01732,29, M ,South,Two year, CC ,27,"78,76",1992.15
+C01679,19,Male,North,M2M, BANK TRANSFER ,20,51.64,unknown
+C02673,48,Male,South,month to month,Electronic check,57,100.18,5350.42
+C02792,24 years,Female,North,Month-to-month,Bank transfer,2 months,98.41,180.21
+C01660,39,Female, WEST ,One year, BANK TRANSFER ,57,69.51,$4266.02
+C02204,65,Male,South,annual,credit CARD,,108.62,$2046.84
+C02536, 42 ,Female,east,Month-to-month,Electronic check,9,65.42,N/A
+C00459,33,Male,West,1 year,Electronic check,66,65.47,4049.03
+C01730,61,Female, SOUTH ,One year,bank transfer,71,68.84,"4763,72"
+C01460,64,Female,North,Month-to-month,e-check,60,111.81,7184.07
+C01699,25,Male,West,Two year,electronic CHECK,50,81.53,3836.05
+C00899,, F ,West,2 years,Electronic check,71,60.79,4328.53
+C01288,32,female,North,annual,Credit card,48 months,"40,74",1767.72
+C00706,68,Male,West,Month-to-month,e-check,25,"42,10",$99999.00
+C02429,64,Female,west,One year,e-check,8,70.84,534.74
+C00403,47 years,Male,West,Month-to-month,Electronic check,1,62.55,$63.97
+C01079,38,Male,South,2 years,Credit card,11,$58.48,"653,32"
+C00512,26,female,South,annual,e-check,43,81.32,3749.92
+C01838,63,Male,West,Month-to-month,credit CARD,61,"54,52",3300.45
+C02411,66,Male,North, ONE YEAR ,credit CARD,65 months,$59.41,$3552.33
+C01572,60,Female,North, MONTH-TO-MONTH ,bank transfer,65,$38.37,2515.45
+C01749,72,Male,South,Month-to-month,e-check, 9 ,42.51,355.18
+C00318,49,male,west,Month-to-month,Electronic check,36 months,43.69,1610.42
+C01731,48 years,Male,West,Month-to-month,Credit card, 69 ,N/A,unknown
+C01900,51 years,Female,West,Month-to-month,electronic CHECK,50,64.04,3286.70
+C01153,27,female,South,Two year,Electronic check,64,"70,04",4155.34
+C01772,42,Female,north,annual,Bank transfer,unknown,69.54,3427.81
+C02550,30,female,west,month to month,electronic CHECK, 33 ,94.01,3098.51
+C00707,30,Female,West,Month-to-month,Electronic check,29,83.62,2502.55
+C00341,19,Male,south,One year,e-check,11,"125,00",1402.56
+C01259,65 years,Male,South, MONTH-TO-MONTH ,Electronic check,33,"22,00",654.70
+C00964,32,Female,West,biennial,e-check,5,96.96,516.67
+C01801, 68 ,Female,East,Month-to-month,Credit card,40 months,40.55,1640.58
+C02206,63,Male,South,2 years,Electronic check,1,87.13,81.93
+C02038,35,male,east,2 years,Electronic check, 26 ,62.29,$1651.89
+C01363,32, M ,East, MONTH-TO-MONTH ,Credit card,54,36.22,2098.81
+C02491,42,Female,South,Month-to-month,electronic CHECK,55,75.62,
+C01545,68,Male,West,Month-to-month, CC ,10,72.29,731.73
+C00731,28 years,Male,North,annual,Bank transfer,66,82.96,5358.19
+C00654,30,female,West,Two year,Bank transfer,36,76.41,2543.08
+C01179,28, F ,north, TWO YEAR ,Credit card,6,67.61,396.94
+C00213,59,Female,West,Month-to-month,Electronic check,23,106.67,
+C01266,49, M ,East,Month-to-month,Credit card,10 months,unknown,970.39
+C01074,51,Female,South,Month-to-month,e-check,45,118.35,$5268.94
+C00049, 39 ,Female,South, MONTH-TO-MONTH ,credit CARD,10,46.51,502.07
+C02662,27, M ,south,month to month,Credit card,?,116.61,2595.92
+C01795, 58 ,Male, NORTH ,annual,e-check,32,83.05,2562.89
+C00598, 70 , F ,North,annual,Credit card,47,67.58,2866.17
+C00568,53,Female, WEST ,One year, CC ,55,51.75,2717.66
+C02348,39, M ,east,Two year,Electronic check,8 months,90.62,683.86
+C00130,40,Male, EAST ,Two year,Bank transfer,21,60.53,1230.89
+C00467,31,Female,North,Two year,Electronic check,6,63.61,392.96
+C00871,,Female,North,1 year,electronic CHECK,29,$104.67,3244.08
+C01109,61,Female,South,One year,Credit card, 43 ,55.01,2551.20
+C02535,62,Male,South,Two year,Credit card,50 months,74.69,3634.43
+C01678, 42 ,male,North,One year,credit CARD,63,$99999.00,3836.75
+C01754,32,Male,South,Month-to-month,Electronic check,29,66.76,2000.73
+C02243,24,Female,West,Two year,Electronic check,41,"41,14","1779,65"
+C01696,20 years,Male,South,One year, BANK TRANSFER ,unknown,70.80,526.25
+C01096,28,Female,East, MONTH-TO-MONTH ,Bank transfer,19,$67.42,1357.48
+C02692,32,male,North,Month-to-month,Electronic check,63,$104.26,6495.07
+C00281, 20 ,Male, EAST ,Month-to-month,electronic CHECK,11,47.48,485.35
+C01791,52,Male,South,One year,Bank transfer,42,82.48,3585.35
+C01973,59,female,South,One year, BANK TRANSFER ,49,89.15,"4588,57"
+C01706,69,Male,east,One year,Electronic check,15,$56.06,841.89
+C00241,23, F ,West,Month-to-month,Credit card,,$99999.00,688.30
+C00185,25,Female,West,1 year,Electronic check,6,60.77,345.46
+C02556,58,Female,East,One year,e-check,71,44.04,unknown
+C02652,54,Female,West,One year,Bank transfer,12,"85,96",1009.61
+C01215,, F ,South,Month-to-month, CC ,57,76.59,4303.93
+C00985,19,Female,East,Month-to-month,electronic CHECK, 4 ,$61.74,227.85
+C02138,47,Female,West,Month-to-month,bank transfer,40,$66.41,2574.16
+C00377,25 years,Female,North,One year,Credit card,70 months,69.98,"4947,41"
+C01595,unknown,male,West,2 years,Electronic check,58,$82.61,5117.68
+C02636,70,Male,north,Month-to-month,Electronic check,23,32.74,785.12
+C00771, 31 ,male,West,Two year,bank transfer,33,36.58,unknown
+C00534,52,Male,East,Month-to-month,e-check,24,56.27,1371.37
+C00111,43,Female,West,One year,Credit card,30,$77.66,2138.54
+C01152,64,female,East,One year,Electronic check, 3 ,$74.48,218.81
+C02790,37,Female,South,One year,Bank transfer,71,77.09,"5400,00"
+C01391,24,Female,East,Month-to-month,Bank transfer,13,34.85,489.15
+C01388,29,Male,South,One year,e-check,24,$90.25,1970.24
+C01304,51,Female,East,month to month,Credit card,41,22.00,840.05
+C01380,61,Female,North, MONTH-TO-MONTH ,Credit card,35,64.47,$2392.79
+C00047,20,male,West, TWO YEAR ,Bank transfer,59,78.55,"4926,63"
+C00636,46,Female,West,Month-to-month,Electronic check,50,59.12,unknown
+C00237,71,female,West,Month-to-month,Credit card,9999,60.11,1713.29
+C01614,64, M ,East,2 years,electronic CHECK,9,27.91,231.50
+C01085,55,female,West,2 years,electronic CHECK,16,101.17,1597.90
+C02400,27,female,South,One year,Electronic check,46,38.78,$1632.84
+C01139,46,Male, EAST , TWO YEAR ,Bank transfer,54,73.07,"4036,52"
+C00503,25,Male,South,M2M,e-check,11 months,40.63,N/A
+C00792,26,male,East,One year,Electronic check,4,49.63,$196.56
+C00365,48,Male, SOUTH ,Month-to-month,Credit card,16,87.20,1375.27
+C00885,46,Male,West,M2M,Electronic check,14,"113,24","1684,72"
+C00918,32, F ,South,One year,e-check,11,"93,43",1011.76
+C00060, 69 ,Male,North,Two year,Credit card,17,34.34,603.60
+C00624,60,Female,South,Month-to-month,bank transfer,36,26.68,unknown
+C00722,51 years,Female,West,One year,Electronic check,33,"85,36",
+C00190,52,female,East, ONE YEAR ,Electronic check,25,"107,35",2809.48
+C00850,57, M ,North,One year,Bank transfer,16,"62,25",1001.74
+C01511,50,Male,North,annual,Electronic check,10,,N/A
+C01767,47,Male,South,Month-to-month,Bank transfer, 47 ,"75,89",3312.94
+C00200,27,Female,South,Month-to-month,credit CARD,28,22.00,643.23
+C00961,20,Male,South,M2M,Credit card,24,75.45,1915.68
+C01536,55,Male,East,One year,credit CARD, 9 ,"55,11",515.29
+C00666,39, M ,West,One year,Bank transfer,29 months,"107,43",$3091.92
+C00122,54,Female,West,M2M,Bank transfer,57,$57.01,$99999.00
+C00450,unknown, M ,East,Month-to-month,Credit card,69,46.85,3002.11
+C00793,52,Male, WEST , MONTH-TO-MONTH , CC ,53,101.86,5316.96
+C02436,30,Male,East,Two year,e-check,35,76.91,2871.55
+C01310,44,Female,West,One year,Electronic check,65,"57,38",3688.73
+C01405,34 years,Male,South,Month-to-month,Bank transfer,36,73.39,$2540.94
+C00826,33,Male,North, ONE YEAR ,Electronic check,8,61.11,514.03
+C02231,54,Female,south,Month-to-month,Bank transfer,70,45.95,$2934.42
+C02434,58 years,female, NORTH ,annual,electronic CHECK,70,27.50,1777.84
+C02448,68,Male,East, ONE YEAR ,e-check,62,82.13,5286.99
+C01759,45,female,West,Month-to-month,Bank transfer,8,41.37,335.18
+C01921, 65 ,Male,West,Month-to-month,Bank transfer,35,67.88,$99999.00
+C02111,31,Male,South,1 year,Bank transfer,60,62.79,3661.73
+C00929,65,male,West,One year,e-check,70,91.16,$6530.11
+C00689,32 years,Male,West,2 years,Credit card,60,85.78,"5215,67"
+C01577,73,Female,west,One year,Bank transfer,2,90.38,"182,53"
+C00443,20,Female,South,Month-to-month,Electronic check,72,"61,80",$4802.41
+C01892,27,Male,West,One year,Bank transfer,10,"94,26",918.28
+C01598,42,Female,South,Month-to-month,Bank transfer,36,64.61,2374.11
+C01790, 33 ,Female,south,Two year,e-check,6,$99999.00,211.25
+C01766,57 years,Male,East,One year,Electronic check,64,69.43,$99999.00
+C01575,66,male,South,One year,e-check,53,55.71,unknown
+C01866,56 years,Male,North,Two year,Bank transfer,38,72.35,2853.79
+C01265,73 years,Male,South,Month-to-month,electronic CHECK,40,81.15,3057.43
+C02224,61 years,Male,South, ONE YEAR ,Electronic check,19,79.04,1423.24
+C01965,39 years,Female,West,1 year,e-check,64,N/A,4043.81
+C01123,63,Male,North,Two year,credit CARD,69,80.01,5384.21
+C02391,42, F ,West,Month-to-month, BANK TRANSFER ,52,36.60,1943.05
+C01781,64,Female,West,Two year,Electronic check,22 months,85.94,1767.12
+C02113,37 years, M ,West,M2M,Electronic check,56,67.64,3919.31
+C02372,38,Male, WEST , MONTH-TO-MONTH ,e-check,63,$79.74,4796.27
+C01584,61,Female,North,Month-to-month,Credit card,unknown,69.82,2892.10
+C00107, 33 ,Male,South,Two year,bank transfer,56,64.55,$99999.00
+C00440, 34 ,Female,West,One year,Credit card,4,56.73,206.39
+C00222,68,Female,East,One year,Bank transfer,28,56.96,1719.92
+C00362,62,Female,north,Month-to-month,Electronic check,63,37.11,2267.14
+C01551,32,Female,South,One year,bank transfer,32,60.91,$2035.11
+C01159,59,female,North,One year,Bank transfer,31,98.91,3057.75
+C01974,65,Male,North,annual,Electronic check,49 months,22.00,1028.97
+C00728,37,Male,East,1 year,Bank transfer,11,48.19,539.65
+C01558,23,Male,South, MONTH-TO-MONTH ,Credit card, 53 ,50.59,$2626.90
+C01018,69,Male,South,month to month,Bank transfer,9999,"96,92",2732.14
+C01774, 58 ,Male, SOUTH , ONE YEAR ,electronic CHECK,41,76.19,$99999.00
+C00255,32,Male,South,Two year, CC ,64,38.49,2590.24
+C01244,63,Female,North,biennial,Bank transfer,24,65.95,1584.13
+C01462, 38 ,male,East,Two year, CC ,44,61.65,"2829,22"
+C00260, 51 ,Male,East,M2M,Electronic check,45,41.11,$1740.42
+C00618,61, M ,East,Month-to-month,Electronic check, 69 ,42.05,3038.83
+C01526,61 years,female,west,Month-to-month,electronic CHECK,20,"42,73",860.51
+C01471, 54 ,Female,east,One year,Electronic check,45,66.26,2814.07
+C02157,59,Female,South,Two year,Electronic check,34,61.39,1997.69
+C01218,65,Female,west, ONE YEAR ,Electronic check,39,95.52,3525.76
+C02470,45, F ,East,One year,Electronic check,53 months,$60.67,2951.89
+C00581,72,male,East,month to month, BANK TRANSFER ,39,112.78,4608.09
+C02653,67,Male,South,Two year,Bank transfer,61,82.39,4815.92
+C00024,47,male,West,Month-to-month, BANK TRANSFER ,69,52.57,3588.56
+C00853,64, F ,South,Month-to-month,Bank transfer,32,43.40,1361.88
+C00752,34, F , EAST ,Two year,e-check,24,$69.10,1703.40
+C02452,60, F ,South,One year,Credit card,3,43.56,unknown
+C01777,36, M ,South,Month-to-month,Bank transfer, 40 ,N/A,"1428,47"
+C01657,67, F ,West, MONTH-TO-MONTH ,electronic CHECK,6,81.15,$448.72
+C00537,41,male,West,One year,Bank transfer,6,88.90,"488,80"
+C01500, 23 ,Female,East,M2M,electronic CHECK,65,,4221.07
+C01658,37,Female, NORTH , ONE YEAR ,Electronic check,unknown,89.94,3766.26
+C01370,54, F ,East,Month-to-month,bank transfer,1 months,84.52,$82.59
+C01876,56,Male,East, MONTH-TO-MONTH ,e-check,72,$50.68,3489.29
+C01620,19,male,South,Two year,Electronic check,16,85.85,1474.60
+C01260,33,Female,South,annual,Electronic check,38 months,59.11,"2191,03"
+C01705,37,female,north,M2M,Electronic check,13,74.38,892.15
+C00732,24 years,male,North, MONTH-TO-MONTH ,Credit card,61,57.90,3471.67
+C02180,41,Male,East,One year,Bank transfer,71,91.06,6684.37
+C00337,64,Female, EAST ,One year,Electronic check,55,$77.24,4128.98
+C01940,59,Female,north,One year,Electronic check,42 months,48.01,1824.34
+C01458,25,Male, WEST ,annual,Bank transfer,35,76.14,2760.67
+C02641,66 years,Male,East,Two year,Electronic check,15,72.24,1099.08
+C02707, 56 ,Male,East,One year,Credit card, 64 ,22.00,1363.43
+C00986,69,Female,east,Month-to-month, BANK TRANSFER ,22,47.53,941.88
+C01426,60,Female,North,Two year,e-check,43,63.60,2700.37
+C00176,50,male,North,1 year, CC ,45,"91,17",3931.83
+C00578, 73 ,male,East,M2M,Credit card,unknown,59.62,497.81
+C00013,31,Female,North,Month-to-month,Electronic check,21,unknown,1544.91
+C02739,65 years,Male,East, MONTH-TO-MONTH , CC ,unknown,95.25,3492.39
+C00369,36,Female,North,One year,Credit card,45,82.71,3686.85
+C02156,59 years,Male,East,M2M, CC ,42,66.81,"2727,13"
+C02530,54,Female, WEST ,Month-to-month,Electronic check,23,72.67,1563.52
+C00621,50,male,East,1 year, BANK TRANSFER ,8,54.88,$453.72
+C01166,25 years,Female,East,biennial,Electronic check,9999,84.54,971.92
+C02347,30,Female,North,M2M,e-check,17,"47,02",765.95
+C01047,61,Male,East, MONTH-TO-MONTH ,Bank transfer,54,40.49,$2326.96
+C02602,32 years,Male,North,Two year, BANK TRANSFER ,65 months,53.01,3150.37
+C01255,72 years,Male,South,One year,Electronic check,25,69.15,"1840,38"
+C00357,35,female, SOUTH ,Month-to-month,Electronic check,14,$44.38,646.22
+C02271,57,Female,north,Month-to-month,Electronic check,68,23.17,$1446.88
+C00434,52,Male,west,Month-to-month,Electronic check,6,45.18,$267.62
+C01278,57,female,East,One year, CC , 52 ,72.70,"4081,85"
+C00039,49,female,North,One year,Electronic check,9999,22.54,845.27
+C02353,39 years,Male,East,One year,e-check,54,$68.88,3644.41
+C00856, 72 ,Female,West,Two year,Credit card,39,82.83,3484.08
+C01642,39,Male,West,biennial,Electronic check,25,$99999.00,$2550.44
+C01675,63,Male,West,Month-to-month,electronic CHECK,32,77.90,2255.88
+C02242,28,Male,West,One year, BANK TRANSFER ,54,$99999.00,3979.85
+C01548,67,female,east,M2M,Bank transfer,44,$58.25,2602.73
+C01012,51,Male,East,Two year,Credit card,4,39.01,140.50
+C00571,48,Female,East,Month-to-month,Electronic check,47,72.15,3430.61
+C01954,56,Female, EAST ,Two year,Credit card,36,125.00,4295.26
+C02109, 42 ,Male,West,Month-to-month,e-check,6,82.15,519.13
+C01281,45,female,north,One year,Electronic check,63,63.49,3787.29
+C02410,29 years,female,North,Two year,Electronic check,43,89.01,3893.25
+C02148,63, M ,west,month to month,Bank transfer,N/A,$108.17,7598.92
+C00940, 28 ,Male, EAST ,One year,credit CARD, 20 ,51.95,961.74
+C01477,unknown,Female,North,Month-to-month,Electronic check,10,61.18,608.16
+C01623,60,Male,West,One year,Credit card,62,94.58,6201.39
+C00053,50, M ,West,month to month,Credit card,56 months,"89,86",4937.08
+C00726,71,Female,East,1 year,electronic CHECK,37,92.16,3433.39
+C00763,30, M ,East, ONE YEAR ,Electronic check,52,77.04,3665.11
+C01926,44,male,South,Month-to-month,Electronic check,9,80.83,N/A
+C01235,73,Male,South,month to month,Bank transfer,13,33.74,399.96
+C02758,67,Male,South,month to month, BANK TRANSFER ,56,$78.76,4247.08
+C00924,,Male,East, ONE YEAR ,e-check,15,$83.04,1268.88
+C00515,50,Male,East,One year, CC , 28 ,"53,80",1409.20
+C02625,63 years,Male,East,Two year, BANK TRANSFER ,37,$99999.00,4414.10
+C01385,27 years,female, NORTH ,Two year,Electronic check,35,46.66,1742.17
+C02683,37, F , SOUTH ,biennial,Electronic check,44,66.78,2839.09
+C02720,49,Female,East,2 years,Electronic check,43,55.10,2294.74
+C00379,46 years,male,South,Month-to-month,Credit card,56,59.58,3516.62
+C00543,27,Female,East,Month-to-month,credit CARD,43,43.82,unknown
+C01121,42,Male,North,One year,Bank transfer,38,86.91,3200.13
+C02777,24,Male,North,Month-to-month,Bank transfer,10,108.44,991.95
+C00395,55,Female,South,Month-to-month,Electronic check,47,22.00,997.80
+C02126,65,Male,South,month to month,Electronic check,13,34.09,N/A
+C02588,70, F ,South,One year,Credit card, 6 ,"93,63",535.42
+C00309,67,Female,South,One year,Credit card,5 months,$107.36,576.17
+C00874,25,female,North,annual,Electronic check, 4 ,"54,36",209.36
+C02205, 52 ,male,West,Month-to-month,electronic CHECK,34,100.48,$99999.00
+C00854,56 years,male,East,annual,bank transfer,57,108.39,$6119.81
+C00245, 64 ,male,West,Month-to-month,credit CARD,28,81.87,2363.15
+C01386,66,male,West,month to month,Electronic check,9999,41.19,unknown
+C01689, 46 ,Male,East,biennial,Bank transfer,8 months,94.49,unknown
+C01562,23, F ,South,One year, BANK TRANSFER ,55,22.00,1301.87
+C00366, 46 , F ,North,annual,electronic CHECK,,73.37,1271.89
+C01299,71, M ,South,Month-to-month,Bank transfer,53,81.57,4506.25
+C02307,53,Male,South,Month-to-month,Electronic check,27 months,$84.51,2226.47
+C01030,42, M ,West,month to month,Electronic check,31,"50,67",1414.87
+C00296,39,Female,East,Month-to-month,e-check,48 months,92.87,4077.71
+C02594,39,Male,West,annual,bank transfer,71,83.40,5913.14
+C02423,25,Female, WEST ,month to month,bank transfer,8,,715.58
+C00417,59,female,North,Month-to-month,bank transfer,26,78.04,"2002,62"
+C01147,58,male,North, MONTH-TO-MONTH ,Bank transfer,16,60.77,$99999.00
+C02193,N/A,Male, NORTH ,2 years,Electronic check,39,45.57,1736.57
+C01845, 42 ,Female,East, ONE YEAR , CC ,26,62.74,1562.36
+C02582,57, M ,North,One year, BANK TRANSFER ,43,53.40,2379.87
+C02639,28,male, SOUTH ,One year,Bank transfer,36,57.93,2039.22
+C00472, 56 ,Male,West,M2M,electronic CHECK,9,92.64,783.12
+C01140,27,Female,South,2 years,e-check,58,$66.35,3875.36
+C00144,66,Female,North,One year,Credit card,33,56.24,$1937.97
+C02563,19,Female,West, ONE YEAR ,Electronic check,66,64.77,4541.49
+C01904,46,male,North,Month-to-month,Credit card,22,unknown,1188.18
+C02634,49,Male,West,Two year, CC ,38,72.01,2678.90
+C00807,50,Female, NORTH ,Month-to-month,Credit card,1,61.63,66.54
+C00487,24,female,North, MONTH-TO-MONTH , BANK TRANSFER ,23,71.60,1658.97
+C00613,19,Female,West,Month-to-month,Credit card,67,66.48,4754.29
+C02265, 36 ,Male,West, TWO YEAR ,Electronic check,68,116.19,7557.18
+C01776,55, F ,South,annual,Bank transfer,60,$75.05,$4791.68
+C01897,66,female,East,month to month,e-check,2,48.40,96.83
+C01379,39,female,East,Month-to-month,Electronic check,64,63.13,4288.40
+C00147,46,Female,North,Month-to-month,Bank transfer,53,"56,70",2713.21
+C02380,36,Male,North,One year,electronic CHECK,3,97.32,296.13
+C01983,32 years,female,North,biennial,Credit card,60,86.43,4885.79
+C00957,22,male,east, MONTH-TO-MONTH ,Bank transfer, 34 ,73.25,2529.34
+C01375,30,female,South,Month-to-month,electronic CHECK,5,92.37,482.34
+C02710,42,Male,East,Two year,Credit card,,,620.42
+C01884, 28 ,Male,south,Month-to-month,Electronic check,?,74.85,3245.58
+C02321,27,Female,West,M2M,Credit card,13,"64,55",767.83
+C01170,67,Female,west,Month-to-month,Bank transfer,64,90.57,"5797,13"
+C01670,56,Female,West,annual, CC ,3,$91.34,264.05
+C02648,30,Female,East,M2M,Credit card,34,52.06,1722.56
+C02259,64,Female,South,Two year,bank transfer,40,$72.33,"2972,92"
+C02745,30,Male,South,M2M,electronic CHECK,1,92.96,84.77
+C01175,29,Female,West, MONTH-TO-MONTH ,Credit card,7,64.70,451.46
+C02046,43,Male,West,Month-to-month,Electronic check,52,52.45,2635.99
+C00693,60,Male,South,One year,electronic CHECK,42,120.32,5358.70
+C01011,43,Female,East,Two year,Electronic check,53,40.09,2197.27
+C00218,53,Female,West,biennial,Credit card,66,N/A,2962.54
+C01261,60, M ,North, TWO YEAR ,Bank transfer,24,?,$1484.80
+C00640,52,Male,South,Month-to-month,Electronic check,unknown,68.46,1779.12
+C00928,48,male, SOUTH ,Month-to-month,Bank transfer,2,68.26,135.60
+C00121,24,Male,east,2 years,Credit card,54,$114.42,5831.91
+C02668,68,Male,North, ONE YEAR ,electronic CHECK,15 months,73.47,"1183,78"
+C02289,35 years,Male,West,Two year,Electronic check,65,31.94,unknown
+C01886,19,Male,North,One year, BANK TRANSFER ,N/A,67.89,"1835,60"
+C02796,32,Female,East,month to month,credit CARD,8,"94,92",780.86
+C01865,40,Female,North, MONTH-TO-MONTH ,Electronic check,65,42.95,"2544,57"
+C02459,21,Female,East,Month-to-month,Electronic check,5,53.73,245.73
+C01378, 65 ,female,West,One year,Electronic check,54,98.78,4875.29
+C00037,33,Male,West,Month-to-month,Electronic check,unknown,?,4221.97
+C01377,54,Female,West,Two year,Bank transfer,14 months,97.19,1236.52
+C01920,30,male,West,Month-to-month,Bank transfer,58 months,46.21,
+C02477,52,Female,West,One year,Electronic check,6,125.00,690.32
+C00170,23,Male,North,Month-to-month,Credit card,12,51.01,"612,40"
+C00601,28 years, F ,South,Two year, BANK TRANSFER ,38,43.70,1624.88
+C00514,55,female,West,month to month,Electronic check,14 months,unknown,357.96
+C01024,,Female,South,Two year,Electronic check,37,64.76,2164.11
+C02389,69,Male, NORTH ,Month-to-month,Bank transfer,55,38.55,1975.05
+C02187,57 years,female,West,Month-to-month,Bank transfer, 72 ,$103.37,6797.13
+C00340,48,Female,East,annual,Credit card,40,"59,35",$2530.76
+C01204, 42 ,Female,East,2 years,Electronic check,50,40.22,1988.31
+C00815,72,Male,south,Month-to-month,e-check,2,$84.76,"156,26"
+C00314,68,Female,West,Month-to-month,bank transfer, 55 ,66.87,"3395,69"
+C00517, 68 ,Female,West,Two year,Electronic check,9999,76.66,2209.77
+C01684,54,Male,East,One year,e-check,56,43.67,2289.08
+C01853,66 years,Female,East,Month-to-month,e-check,13,45.27,558.95
+C00162,44,Male,North,M2M,electronic CHECK,5,70.44,341.27
+C01098,53 years, M ,South,Month-to-month, CC ,54,112.96,6239.29
+C02153,53, F ,North,Month-to-month, BANK TRANSFER ,33,51.83,1703.51
+C00552,59,Female,North,annual,Credit card,38,58.56,2185.35
+C02007,61,Female,South,Month-to-month,Credit card,9999,28.83,668.68
+C00558,37,Male,East,One year,Bank transfer,53,68.88,3524.06
+C02741, 70 ,Female,East,Month-to-month,Bank transfer,43,$82.25,3773.26
+C02716, 53 ,Male, EAST ,Two year, BANK TRANSFER ,26,$22.00,591.11
+C00759,71,Male,West,One year,credit CARD,,49.30,2252.26
+C00152,34,Female,West,Month-to-month,Electronic check,1,"69,83",64.53
+C01066,21,female,West,M2M,e-check,13,118.01,1592.70
+C00018,56,Female,West,Month-to-month,electronic CHECK,41 months,58.05,2555.49
+C01423,67,Female, EAST ,M2M,Bank transfer,20,71.92,"1329,71"
+C01956,72,Female,North,Month-to-month,electronic CHECK,31,77.44,N/A
+C02724,69,Male,south,Month-to-month,Credit card,17,76.37,1349.74
+C00894,59,Male, SOUTH ,Month-to-month,e-check,5,111.91,583.64
+C01722,72, F ,West,month to month,Electronic check,36,58.94,1975.30
+C02160,54,Male,north,Month-to-month, CC ,42,74.28,3029.07
+C00380,73,Female,West,month to month,Bank transfer,24,N/A,$1450.73
+C02070,42,male,South,Month-to-month,credit CARD,59,$99999.00,$3644.21
+C02431,71,Female,East,Month-to-month,Credit card,60,"52,28",3125.66
+C02171,25,Female,East,M2M,Credit card,43,"41,01",1724.43
+C00150,N/A,Male,South,1 year,Credit card,66,22.00,1490.07
+C01093,68, M ,south,annual,Credit card,60,69.38,4075.95
+C01318,62 years, M , WEST ,Month-to-month, CC ,50,57.84,2753.38
+C02737,60,Male,East,One year,Electronic check,70,unknown,2867.65
+C02733, 66 ,Female,West,month to month, BANK TRANSFER ,26,"53,87",1445.09
+C00332,41,Female,North, MONTH-TO-MONTH ,Bank transfer,40,56.71,$2104.99
+C02269,64,Male,East,Month-to-month,Bank transfer,?,94.02,515.52
+C00438,44, M ,north,One year,Electronic check,35,,"1569,07"
+C01346,53,Female, NORTH ,Two year,Bank transfer, 27 ,95.05,"2432,77"
+C01331,61,Male,East, TWO YEAR , CC ,18 months,66.78,"1218,48"
+C02274,43,Female,West,Two year, CC ,56,55.50,3255.18
+C02655,19 years,male,South,One year,electronic CHECK,58,74.63,4588.91
+C01191,32,Female,South,One year,Bank transfer,unknown,104.25,2430.25
+C01394,29,female,South, ONE YEAR ,Credit card,19,114.91,2221.47
+C01935, 32 ,Male,South,One year, CC ,51,101.77,5206.39
+C01321,70 years,Male,North,One year,bank transfer,61 months,50.02,2899.45
+C01834,40,male,North,annual,credit CARD,41,unknown,$2944.29
+C00234,45,Female,East,Two year,Bank transfer, 13 ,70.75,"886,27"
+C01230,52,male,North,Month-to-month,Electronic check, 68 ,70.44,$4532.19
+C02085,45,Female,East,Month-to-month,Bank transfer,19,86.69,1494.36
+C01909, 50 ,Female,West,Two year,Credit card,7,73.69,$554.95
+C01067,47,Female,North,M2M, CC ,29,109.18,3115.78
+C00404,51, F ,North,Month-to-month,Bank transfer,12,$84.67,1067.61
+C00718,67,Male,East,Two year,electronic CHECK,unknown,32.16,$643.26
+C02670,27,Male,East,biennial,e-check,36,59.11,2036.24
+C00505,61, F ,South,One year,Electronic check,53,$28.33,$1372.97
+C02249,71,Female,North,Month-to-month,Electronic check,35,"64,30",2322.83
+C01041,35,Male,South,One year,credit CARD,59,78.54,4568.48
+C00904,56,female,South,Month-to-month,e-check,45,"121,23",5135.69
+C01839,57,Female,North,Month-to-month,Bank transfer,,59.09,285.02
+C00317,73 years,Male,South,One year, BANK TRANSFER ,20,38.00,745.66
+C00896,23,Male,West,Month-to-month,Electronic check,50,43.08,2032.73
+C02369,33,Female,East,month to month,credit CARD,23 months,"38,23",882.89
+C00749,50,Female,South,Two year,Electronic check,59,65.93,unknown
+C01334,55, F ,East,month to month, BANK TRANSFER , 12 ,105.97,1158.63
+C02382,51,male,North, ONE YEAR , CC ,38,$47.29,$1714.88
+C02412,28,Male, SOUTH ,Month-to-month, BANK TRANSFER ,43,57.29,"2521,41"
+C01036,22, M ,North,Month-to-month,Credit card,38,100.06,3748.00
+C00656,24,Male,west,annual,Electronic check,35,44.69,$1542.29
+C02300,49 years,Male,North,One year,Bank transfer,66,$74.63,"4690,01"
+C01277,21,Female,West, ONE YEAR ,Electronic check,24,36.88,902.25
+C00326,42 years,Male,West, ONE YEAR ,Electronic check,44,22.00,976.39
+C01599,45,Male,North,Month-to-month, BANK TRANSFER , 21 ,"66,53",1407.09
+C01262, 69 ,Male,North,Month-to-month,bank transfer, 33 ,$105.30,"3139,29"
+C01998,61,female,South,One year,Credit card,N/A,87.53,3381.41
+C01704,58 years,Female,West,biennial,Electronic check,7,"80,97",
+C00115,56, M ,West,Two year, BANK TRANSFER ,4,97.06,413.08
+C02405,44, F ,South,One year,Bank transfer,20,52.66,1122.39
+C01118,38 years,Female,South, ONE YEAR ,Electronic check,49,52.89,2365.46
+C01138,24,Female,South,One year,Electronic check,71 months,78.83,5165.28
+C01206,62,Female,West, MONTH-TO-MONTH ,Credit card,48,43.78,2139.88
+C00926,56, F ,South, MONTH-TO-MONTH ,Credit card,64,"115,22",6917.58
+C00849,22 years,Female,north,One year,Electronic check,10,$59.87,$623.22
+C02558,46, F ,West,Month-to-month,Credit card,18,41.35,$760.80
+C01479,24,Female,West,One year,e-check,40,85.79,"3407,53"
+C02050,42,Male, EAST , MONTH-TO-MONTH ,Electronic check,32,59.12,1860.55
+C01802,26,Female,South, MONTH-TO-MONTH ,Bank transfer,66,47.63,unknown
+C02498,29, M ,north,Month-to-month,Electronic check, 61 ,47.93,2864.77
+C01676,27,Female,South, TWO YEAR , BANK TRANSFER ,53,110.44,5694.14
+C00473, 26 ,male,east,Month-to-month, BANK TRANSFER ,unknown,43.08,"1657,18"
+C01968,53,female,South,Month-to-month,Electronic check,?,53.58,313.96
+C02176,66,Male,West,Two year,electronic CHECK,9999,54.28,$1821.88
+C01543,31,female,South,M2M,Credit card,21 months,48.54,1074.71
+C01131,63, F ,north,2 years,Bank transfer,70,64.94,4747.88
+C02551,67,male,North,One year,Bank transfer, 38 ,"23,66",841.83
+C01246,46,Female, WEST ,M2M,Electronic check,62,66.85,3957.45
+C01222,46,Female,West,M2M,Electronic check,21,"77,78",1475.69
+C01525,41,Female, WEST ,One year,Electronic check, 72 ,"81,83",5788.64
+C00700,53,Male,East,Two year,Electronic check,56,47.97,"2624,84"
+C01565,34, F ,West,Month-to-month,bank transfer,6,62.73,403.14
+C01692,38,Female,South,Month-to-month,Bank transfer, 17 ,$81.09,1255.09
+C02744,62,Female,South,Month-to-month,Electronic check,N/A,56.71,"688,98"
+C00483,62 years,Male,North,Month-to-month,Credit card,19,57.77,992.31
+C02752,29,Male,West, MONTH-TO-MONTH ,credit CARD,17,68.40,$1230.45
+C02534,73 years,female,West,month to month,Electronic check, 23 ,64.41,?
+C00865, 56 , F ,south,Month-to-month,e-check,47,86.56,3761.00
+C02420,62,Male, WEST ,One year,electronic CHECK,44,49.33,"2128,77"
+C00436, 25 , F ,north,Month-to-month,Bank transfer,55,53.74,3058.94
+C01971,42,Female, NORTH ,Month-to-month,Electronic check,55,"85,90",5043.69
+C00028,29, M ,East,Month-to-month,credit CARD,13,102.51,"1253,79"
+C00133,38, M ,East,Month-to-month, CC ,61,104.10,$99999.00
+C00146,31,Female,East,2 years,Electronic check,63,113.47,unknown
+C00193,41, M ,North,Month-to-month,Electronic check,13,54.12,unknown
+C01305,59,Female,West,Month-to-month,Electronic check,40,86.67,3593.39
+C00694,20, F , NORTH ,biennial,electronic CHECK,,"109,20",?
+C01005,24,Female,east,Two year,credit CARD,72,$73.94,5036.86
+C01569,45,Female, EAST ,Month-to-month,bank transfer,49,59.18,2788.30
+C00916,68,Male,west,One year,Electronic check,59 months,93.60,5165.51
+C00504,27,female,west,Month-to-month,bank transfer,33,$83.55,$2735.36
+C02428,24,Male,South,Month-to-month,e-check,60 months,42.10,
+C00971,27, F ,West,month to month,bank transfer,24,73.46,$1814.52
+C00041, 34 ,male,North,Two year,Electronic check,39,$37.23,"1412,91"
+C00746,56,Female,North,Month-to-month,electronic CHECK,9999,N/A,2571.61
+C01059,57,Male,South,Two year,Bank transfer,9,86.08,706.91
+C02543,25,female,South, TWO YEAR , CC ,50,84.80,4224.02
+C01040,33 years, F ,North, TWO YEAR ,e-check,,76.47,"351,63"
+C00020,34,Female,north,Month-to-month,Credit card,10,$56.33,"562,19"
+C02779,67,female,West,One year,Bank transfer,?,$67.50,345.40
+C02540,56,Female,North,Month-to-month,Credit card,65 months,66.74,"4569,94"
+C01724, 56 ,Female,South,M2M,e-check,57,46.98,2413.93
+C00875,45,female,East,Month-to-month, BANK TRANSFER ,31,52.19,"1687,71"
+C00397, 59 ,Female,East,Month-to-month,Electronic check,20,$82.23,"1529,66"
+C01076,56,Female, WEST ,month to month,Bank transfer,14,57.65,752.83
+C02211,34,male,west,Month-to-month, CC ,2,34.51,66.84
+C02584,73, F ,South,M2M,Bank transfer,31,80.12,2572.45
+C01621,36,Male, NORTH , MONTH-TO-MONTH ,Bank transfer,38,"80,32",3274.01
+C01062,71,Female,East,Month-to-month,Bank transfer,15,59.92,$947.95
+C02008,23, M ,North,One year,Bank transfer,22,67.01,$1345.74
+C01765,44,male,West,Two year,Credit card,28,85.12,"2567,78"
+C00777,44,female,West, ONE YEAR ,credit CARD,34,59.71,2124.76
+C00104,57 years,female,South,month to month,Electronic check,30,67.72,$2035.27
+C00562,46 years,Female,South,One year,Credit card,18,69.55,1317.73
+C00557,46,Female,West,month to month, BANK TRANSFER ,52,$82.92,3910.82
+C01013,23,Male,East,annual,Electronic check,55,61.06,$3205.00
+C01591,71,Female,South,One year,Electronic check,70,70.86,4886.96
+C00829,41,male,East, MONTH-TO-MONTH ,bank transfer, 50 ,54.30,2737.32
+C02003,61, F ,east,Month-to-month,Electronic check,65,"44,97",3121.30
+C00741,30,Female,East,biennial,e-check,N/A,93.41,4064.76
+C01182,39, M ,North,month to month,Credit card,15,79.15,1106.51
+C02712,34,Male,West,Month-to-month,electronic CHECK,12,84.34,1056.53
+C01397,72,Male,North,One year,Bank transfer,69,54.72,3655.12
+C01836,73,male,South,Two year,Electronic check,22,74.96,1597.95
+C00619,49,male,East,1 year, CC ,25,$79.48,"2103,28"
+C02107,49, F ,West,month to month,Bank transfer,31,87.29,"2547,25"
+C00164, 30 ,Female,North,Month-to-month,Bank transfer,47,103.16,$4794.04
+C00187,68,Male,East,One year,e-check,24,59.94,$1312.84
+C02364,33,Female,West,Two year,Electronic check,35,84.45,2893.64
+C01804,66,Male,South,Month-to-month,e-check,9999,$75.93,1743.23
+C02017,24,Female,West,M2M,electronic CHECK,48,$99999.00,"4199,46"
+C00033,54,female,East,month to month,Bank transfer,3,104.55,?
+C00414, 47 ,Male,West,Month-to-month,Electronic check,48,$117.60,5674.81
+C00998,26,Male,East,Month-to-month,e-check, 5 ,"46,36",230.19
+C02162, 35 ,Female,south,month to month,bank transfer,48,51.86,2497.40
+C00635,45,Male,east,One year,Electronic check,34,53.75,$1846.55
+C01196,51, F , WEST ,Month-to-month,Electronic check,63,81.87,4754.77
+C00932,55 years,female, EAST ,month to month,electronic CHECK,62 months,51.19,2988.35
+C00474,?,Male,South,annual,Credit card,5,49.03,221.45
+C00549,46,Male,North,annual, CC ,26,52.55,1336.46
+C02097,51, F ,South,Month-to-month,Electronic check,10,107.91,987.72
+C02062, 39 ,Female,North,Month-to-month,electronic CHECK,67,106.33,7546.48
+C01214,70,Male,South,One year,Credit card,48,58.28,2814.70
+C02735,60,Female,East,M2M,Electronic check,68,N/A,$1624.60
+C00959,30,Male,South,Two year,Electronic check,20,$87.38,1699.67
+C00426,46, M ,West, ONE YEAR ,e-check,64,81.30,5230.69
+C00880,59,Male,North,One year,Credit card,30,78.86,2539.16
+C01796, 39 ,male,East,One year, BANK TRANSFER ,20,$77.10,"1444,29"
+C01674,45,Female,West,Two year,e-check,N/A,66.42,"4425,80"
+C02247, 21 ,Female,East,One year,Electronic check,38,$60.90,"2292,90"
+C02614,28, M ,East,M2M, CC ,43,"71,97",3052.06
+C01668,57, M ,North,Month-to-month,Electronic check,27,72.60,1777.19
+C01003,26 years,Female, EAST ,One year,Bank transfer,18,72.42,"1246,98"
+C00775,21,Male,North,Month-to-month,electronic CHECK, 42 ,54.83,2183.67
+C00768,30, M ,North,Two year,e-check,52 months,84.29,"4445,58"
+C01522,38,male,West,Month-to-month,Electronic check,34,54.71,N/A
+C00882,58, M ,West,1 year,bank transfer, 45 ,$125.00,5126.37
+C01849,50 years,Male,West,1 year,Bank transfer,1 months,49.20,47.26
+C01870,73,Male,South,Two year,e-check,58,59.31,3650.70
+C02393,34,Female,North,month to month,Electronic check,43,27.56,$99999.00
+C02014,65,Female,North,annual,Electronic check,62,81.91,5473.50
+C01664,51,Male, SOUTH ,One year,e-check,56,N/A,4081.57
+C00168,36 years,Male,West,Month-to-month,e-check,43,"60,91","2730,51"
+C02630,67,Female,East,Month-to-month,credit CARD,13,110.80,1535.80
+C01648,73,Male,East,One year,Electronic check,2,85.58,181.19
+C01723,42,Female,West,biennial,Bank transfer,67,49.06,3353.62
+C00611,42, M ,North, TWO YEAR ,bank transfer,46,57.94,2770.15
+C01125,67 years,Male,West,One year, CC ,1,99.46,94.02
+C02438,25 years,Male,South,month to month,Bank transfer,16,65.90,"1014,46"
+C01252,28 years,Female, WEST ,Month-to-month,Electronic check,52,82.36,4282.28
+C00912,72,Male,South,One year,Credit card,26,58.04,1617.21
+C02501,46,Female,West,month to month,Electronic check,42,54.26,"2407,84"
+C01442,40,Male,south,M2M,Electronic check,29,24.08,651.68
+C02725,72,Female,south,Month-to-month,Electronic check,16,83.77,1329.34
+C02461,24,female,West, TWO YEAR ,Bank transfer,21,73.95,1452.10
+C01033,31 years,Male,North,biennial,e-check,48,$46.50,2031.15
+C02236,45,Male,South,M2M,Electronic check,44,85.20,3744.70
+C02136,66,Female,East,Month-to-month,Electronic check,4,125.00,$99999.00
+C01775,45,Female,west, MONTH-TO-MONTH ,e-check,69 months,36.93,2548.16
+C02381,57,Male,South,month to month,Credit card,26,68.77,1678.02
+C00898,60 years,Male,East,annual,bank transfer,51,89.25,4304.30
+C02488,37, F ,south, TWO YEAR ,credit CARD,69,36.26,2584.20
+C00805,49,Male,East, MONTH-TO-MONTH ,Electronic check,29 months,125.00,$3624.61
+C02650,64,Female,West,One year,Credit card,36,89.65,3312.76
+C01871,61,Male, WEST ,Month-to-month,Electronic check,35,73.17,$2476.17
+C02392,35,Male,West,One year,Electronic check,12,31.31,375.98
+C02598,20,Female,West,1 year,electronic CHECK,67,$73.17,5169.95
+C00212,53,Male,South,One year,e-check,5,57.38,$267.24
+C00616, 43 , F ,East,month to month,Credit card,42,25.40,1141.82
+C00143,63,male,West,annual,electronic CHECK,31,108.63,"3448,04"
+C00056,29, M ,North,One year,Bank transfer,63 months,$67.06,4439.59
+C01509,32,Male,North,Two year,Bank transfer,43,$68.21,$2859.75
+C02732,33, M ,East,Two year, CC ,14,78.60,1011.58
+C00206,26,Male,north,Month-to-month,Bank transfer,11,104.59,1099.88
+C02248,unknown,Male,North,2 years,Credit card,12,84.49,1077.57
+C02131,19,female,west, MONTH-TO-MONTH ,Electronic check,66,,$2766.81
+C01573,49,female, WEST ,One year, BANK TRANSFER ,51 months,87.10,4496.44
+C02048,31,Female,North,Month-to-month,Electronic check,48,55.81,2751.38
+C02784,N/A, F ,North,1 year,e-check,60,74.25,$4622.64
+C00587,59, M ,South,Month-to-month,Credit card,44,65.65,2953.66
+C02044,22 years,Female,South,One year,Credit card,53,96.21,4769.70
+C01313,54,male,West,annual,Credit card,20 months,78.71,1457.57
+C00356,52, F ,north,One year,Credit card,15,54.05,$799.37
+C02775,19,Male, WEST ,annual,Electronic check,42,$82.24,3512.20
+C02283,53,Female,South,biennial,Electronic check,38,65.16,2305.71
+C00087,24, M ,East,One year,Bank transfer,50,125.00,5642.92
+C01058,36,Male,east,One year,Credit card,30,87.43,2498.52
+C00951,32,male,South,Month-to-month,electronic CHECK,27,?,2688.32
+C02297,?,Female,South,Month-to-month,Electronic check,59,26.83,1675.84
+C00674,19,male,East, MONTH-TO-MONTH ,Electronic check,55,56.08,3114.07
+C00096,56,Male,South,1 year,electronic CHECK,5,61.66,291.76
+C01320,39,Male,West,2 years,electronic CHECK,53,71.59,"3813,29"
+C02214,37, F ,East,Month-to-month, CC , 60 ,$68.74,"4264,37"
+C02447, 33 , F ,North,Two year,Electronic check,59,65.86,3972.20
+C02346,57,Male,West,One year,Credit card,63 months,"99,84",6334.36
+C01859,24 years, M ,South,Month-to-month,credit CARD,60,95.42,"5154,25"
+C01895,64 years,male,South,Month-to-month,Bank transfer,65,114.97,7656.23
+C00819,43,female,West, MONTH-TO-MONTH ,e-check,36,84.77,$3243.42
+C00169,58,Female,South,annual,Electronic check,13,71.15,$977.23
+C01128,66,Female,West,One year,Electronic check,3,,162.98
+C02575,35,female,East,One year,Bank transfer,14,78.60,1134.95
+C02366,28,Female,North,month to month,Electronic check,7,105.46,"715,48"
+C01487,52,female,West,Month-to-month,Electronic check,65,"32,06",1909.31
+C00354,58,Male,North,Month-to-month,Bank transfer,70,67.12,N/A
+C02487, 68 ,male,North,Month-to-month,e-check,70 months,,4694.95
+C00422,58,male, SOUTH ,One year,electronic CHECK,46,29.19,1381.21
+C00253,33,Female,west,Month-to-month, BANK TRANSFER , 25 ,80.85,2019.88
+C00858, 54 ,Female,south,Month-to-month, CC ,29,96.82,2636.65
+C01530,28,Female,North, MONTH-TO-MONTH ,electronic CHECK,28,55.99,1503.66
+C00089,33,male,South,Month-to-month,Electronic check,13,"56,23",709.13
+C00573,46, F ,east,Month-to-month,Electronic check,62,66.80,4237.54
+C01008,24 years, F ,South,M2M,electronic CHECK,67,72.07,4666.01
+C00778,72,Female,North,Month-to-month,Credit card,58,71.90,3904.36
+C01447,25,Male,South, MONTH-TO-MONTH , CC ,52,66.62,3583.33
+C02774, 65 ,Female, SOUTH ,Month-to-month,Electronic check,70 months,84.71,"6275,15"
+C00067,36,Female,south,Month-to-month, CC ,45,81.81,"3869,46"
+C02492,57,Female,South,Two year,Bank transfer,11,45.18,453.08
+C02363,40,Female,South,One year,Credit card,54,58.26,3146.88
+C01296, 38 , M ,South,One year,Electronic check,29,"48,21",1449.33
+C00214,65,Male,West,M2M, BANK TRANSFER ,11,82.52,$884.33
+C00428,42,Male,North,Month-to-month,Bank transfer,56,98.03,5258.56
+C01823,61, F ,West,Month-to-month,Electronic check,29,"22,00",668.42
+C00036,70 years,Male,West,annual,Credit card, 43 ,"22,00","903,34"
+C02296,54 years,male,East,One year,Credit card,26,106.21,$2964.12
+C00376,19, F ,West,One year,Electronic check,40,90.81,3374.73
+C00554,73,Female,north,M2M,Credit card,48,88.63,4032.17
+C02407,55,Female,East, MONTH-TO-MONTH ,electronic CHECK, 4 ,65.39,259.07
+C01810,53,Female,west,Month-to-month,Electronic check,39 months,53.41,1902.27
+C00639,28,Female,South,One year, BANK TRANSFER ,30 months,94.60,"2871,59"
+C02311, 38 ,male,South,Month-to-month,Electronic check,58,39.78,$2077.38
+C00093,42, M ,East,Month-to-month,bank transfer,9999,93.45,2337.25
+C00025,54,Female,South, ONE YEAR ,Bank transfer,29,unknown,1834.68
+C02355,44,Male,South,Month-to-month,electronic CHECK,43,93.68,4055.88
+C02121,35,Male,north,month to month,credit CARD,10,56.63,526.49
+C00026,55, M ,West,Two year, BANK TRANSFER ,61,82.07,4849.58
+C01721, 59 ,Female,South,Two year,electronic CHECK,24,$91.17,1976.81
+C01779,24,Male,North, TWO YEAR ,e-check,21,44.32,969.06
+C01896,41,Female,South,Two year, CC ,?,103.09,"674,06"
+C01929, 67 ,Female,West,Month-to-month,credit CARD,58,$68.66,3869.17
+C00811,21,Female,West,Month-to-month,Credit card,72,66.98,"4886,77"
+C00030,63,Male,North,Month-to-month,Credit card,70,72.50,4821.70
+C01632,55,Male,South,Month-to-month,Electronic check,25,"77,90",1870.90
+C02024,26,male, NORTH ,Month-to-month,Electronic check,12,103.71,1133.07
+C00599,50, F ,North,One year,Credit card,9999,55.48,732.01
+C01410,52,Female,North,One year,Credit card,72,"54,49",3823.97
+C00841,48, F ,East,Month-to-month,Bank transfer,48,31.86,1393.94
+C02574,26,Male,East,One year,Electronic check,69,"22,00",1384.00
+C02233,55,male,West,Month-to-month,Credit card,20,108.29,$2045.78
+C00606,40,female,West, TWO YEAR ,electronic CHECK,46,62.74,2851.46
+C00323,, F ,South,One year,Bank transfer,9,$76.50,$682.48
+C01549,19,Male,East,biennial,Electronic check,65,unknown,5078.25
+C00032, 35 ,male,East,Month-to-month,electronic CHECK,52 months,$73.19,3601.20
+C00007,60, M ,West,Month-to-month, CC ,22,78.20,1798.88
+C00747,38 years, M ,west,Two year,Electronic check,26 months,35.21,884.33
+C00008,23,Male,West,Month-to-month,Credit card,54,48.46,2529.57
+C01116,48, M ,West,One year,Electronic check,32,73.04,2378.21
+C02385,30,Female,West,Month-to-month,electronic CHECK,43 months,90.48,3956.64
+C00937,N/A,Female,North, MONTH-TO-MONTH ,Credit card,34,59.27,1902.52
+C01271,52,female,East, MONTH-TO-MONTH ,Electronic check,39,46.39,1779.05
+C01695,59,Female,South, MONTH-TO-MONTH ,electronic CHECK,5,92.98,$431.40
+C01186,64,Male,West,One year,e-check, 46 ,"86,20",4262.62
+C00842,32,female, WEST ,One year,Electronic check,71 months,103.85,"7612,54"
+C00006,47,Male, WEST ,Month-to-month, CC ,N/A,36.58,1729.06
+C01414,36, M ,East,Month-to-month,Electronic check, 69 ,$69.51,5019.08
+C01439,24,Female,north, MONTH-TO-MONTH ,Electronic check,11,,"543,53"
+C02638,32,Female, WEST ,One year,Electronic check,61,84.27,5197.95
+C01869,37,Male,East,1 year,e-check,46,71.59,3207.71
+C00647,25,Male,West,One year,Credit card,71,$99999.00,6719.08
+C00814,64 years,Female,South,M2M,Bank transfer,5,88.38,421.48
+C00541,65,Male,South,M2M,Credit card,18,$72.28,1229.55
+C00651,20,Female,North,month to month,Electronic check,16,$99.22,$1599.37
+C00180,43,Male,East, MONTH-TO-MONTH ,Credit card,67,67.71,4840.39
+C02295,71,Male,West,1 year,Credit card,68,26.27,1730.99
+C00630,30,Female,West,month to month,credit CARD,34,61.86,2051.09
+C00481,52,Female,South,1 year,bank transfer,31,$47.13,1386.09
+C02039,50,Female,South,Two year,credit CARD,49,83.06,$4139.55
+C00730,37,male,south,annual,Credit card, 18 ,41.10,700.62
+C01537,72,Female,West, ONE YEAR ,Bank transfer,49 months,61.47,2732.67
+C01243,48,Male,South,2 years,Electronic check,65 months,"41,45",2651.75
+C01820,59, M ,West,Month-to-month,Electronic check,3,85.25,270.63
+C02483,19,Female,North,Month-to-month,Electronic check,23,"72,88",1808.49
+C01567,57 years,Female,South,Month-to-month, CC ,61,76.06,4526.61
+C00469,47 years, M ,North,Month-to-month,Electronic check,44 months,73.02,3426.16
+C02090,57 years,Male,West,1 year,Electronic check,67,72.19,5139.97
+C00005,66,female,West,2 years,Credit card,46,$100.30,4211.03
+C00463,41, M ,South, TWO YEAR ,Credit card,9999,60.22,539.24
+C02730, 49 ,Male,north,M2M,Credit card,19,93.30,$1890.40
+C01284,25, M ,North,One year,Bank transfer,4,67.11,243.90
+C00023,25,Female,South,Month-to-month, BANK TRANSFER ,50,28.28,1368.87
+C00863,45,male,East,month to month,Credit card,53,"77,23",3920.20
+C00631,35,Male,East,One year,Electronic check,2,"87,82",164.03
+C00353,67 years,Female,East,Month-to-month,Electronic check,,66.76,517.78
+C02449,33 years,Female,North,Two year,Credit card,2 months,90.45,192.74
+C00883,9999,Female,South,Month-to-month, CC ,67,85.17,$5222.90
+C00375,70, M ,North,M2M,Electronic check, 23 ,$92.59,2233.18
+C00833,66, F ,West,Two year,Bank transfer,17,103.06,"1871,35"
+C00221,34,Male,North,One year,Credit card,61 months,92.18,5273.21
+C01975,31, M ,North,1 year,Bank transfer,29,?,
+C01393,71, M ,south,Month-to-month,electronic CHECK,52 months,78.03,3867.68
+C01519,28,Male,North,Month-to-month,credit CARD,35,43.49,"1406,40"
+C01939,39,Female,West,One year,Credit card,19,89.14,$1676.91
+C00488,32,Male,South,One year,Credit card,64,59.32,3540.39
+C02495,24,Female,East,One year, CC ,46,$75.96,3300.06
+C00835,70,Female,West,M2M,bank transfer,64,57.00,3693.02
+C00983, 51 , F ,West,annual,Credit card,35,42.09,?
+C00679,53,Male,West,One year,bank transfer,48,"59,18",2715.94
+C02511,67,Male,North,Month-to-month,credit CARD,65,$99999.00,4987.51
+C01269,64,Female,West,month to month,Bank transfer, 61 ,116.04,7606.21
+C00649,23,male,East,1 year,electronic CHECK,63,105.18,6794.02
+C02494,71,female, EAST ,month to month,electronic CHECK,20,58.96,1249.22
+C00703,23,Female, SOUTH ,Two year,Electronic check,6,95.60,$541.49
+C02465,?,Female,South,Month-to-month,Bank transfer,24 months,67.24,1639.63
+C02516,25,Male,South,month to month,e-check,32,57.43,1856.11
+C00118,31,Female,South,One year, CC ,48,43.09,$1880.47
+C01357,38,Female,east,Month-to-month,Electronic check,N/A,62.50,1779.71
+C00471,62,female,North,One year,bank transfer,1,"22,00",22.75
+C00575,61,Female,East,Month-to-month,Electronic check,15,74.81,1204.82
+C00464,63, F ,West,One year,Electronic check, 58 ,98.52,6015.92
+C02640,59,male,North,Month-to-month,bank transfer,8,45.10,$334.95
+C00155,69,female,west,Month-to-month,Electronic check,41,78.38,3420.11
+C01588,54, F , SOUTH ,1 year, BANK TRANSFER ,33,40.76,1378.81
+C01436,36, M ,South,Two year,Credit card,1,"69,18",unknown
+C01401,61 years,male,North,Month-to-month,Credit card, 1 ,118.76,116.65
+C02317,54,female,South,month to month,Electronic check,43,"22,00",856.04
+C00627,50,Female,East,One year, BANK TRANSFER ,26,99.35,2370.05
+C00869,62,male,East, MONTH-TO-MONTH ,Electronic check,67,"72,41",4492.64
+C00976,59, M ,North, ONE YEAR ,Electronic check,69,$100.47,$99999.00
+C02336,30 years, M ,North,Month-to-month,Electronic check,49,78.96,4041.40
+C02681,66,female,south, MONTH-TO-MONTH ,Bank transfer,10,$106.79,1124.90
+C02794,59,Male,West,One year,Bank transfer,25,94.70,2533.42
+C00716,25,Male,North,month to month,Bank transfer,3,70.10,"226,42"
+C02116,45,female,East,Month-to-month,Electronic check,9,$71.96,"647,64"
+C00432,41 years, F ,North,Month-to-month,Electronic check,37,70.51,2790.39
+C01113,51,Female,North,Month-to-month,bank transfer,45,$82.09,3863.72
+C01937,27, F ,West,1 year,Electronic check,68,87.94,"6217,23"
+C01022,70,Female,West,annual,credit CARD,66,73.31,5214.63
+C01962,50, M ,North,One year,Bank transfer,59,59.10,3179.07
+C00398,64,Female,West,M2M,Electronic check,53,N/A,5058.04
+C02042,61 years,Female,west,Month-to-month,electronic CHECK,46,27.10,1130.16
+C02439,31,Male,North,One year,Electronic check,70 months,"64,12",4814.89
+C00094,71,male,West,M2M,Electronic check,27 months,42.05,
+C01561, 26 ,Male,East,Month-to-month,Electronic check,72,81.07,$5292.84
+C01618,54, M ,South,1 year,e-check,11,97.26,1080.61
+C02424,58,Male,West,One year,bank transfer,17,60.91,1082.90
+C00192,31,Female,West,annual,Electronic check,9999,117.13,7441.59
+C02797,27,Female,South,Two year,electronic CHECK,63,85.03,5224.57
+C01491,64,Male,North,One year,Bank transfer,55,63.52,?
+C00159,34,Male,South, MONTH-TO-MONTH ,Credit card,51,45.95,2304.57
+C02644,53,female, SOUTH ,Month-to-month, CC , 35 ,73.82,2498.25
+C02314, 51 ,Female,North,One year,Electronic check,7,75.65,$487.01
+C01086,42, F , WEST ,One year,bank transfer,8,$66.75,485.54
+C00931, 43 ,Male,South,Month-to-month,credit CARD,46,52.10,2362.08
+C01485,73,Female,South,One year,Electronic check,23,63.22,1380.40
+C00667,61, F ,East,Two year,bank transfer,70,107.38,7611.49
+C02761,40, F ,East,Month-to-month, BANK TRANSFER ,21,64.88,1296.34
+C01944,70,female, SOUTH , TWO YEAR , CC ,64 months,69.81,"4461,06"
+C02142,40,female,South,Two year,Bank transfer,54,N/A,4231.08
+C02665,65 years,male,north,One year,Bank transfer,25,31.28,822.36
+C02398,43, M ,West,Month-to-month,Electronic check,64,$81.69,5320.45
+C02421,45, M ,South,annual,Bank transfer,29 months,"22,00",$583.52
+C00536,68,Female,East,Two year,bank transfer,21,40.07,808.16
+C02612,27,Female,North,One year,Bank transfer,31 months,54.97,1818.11
+C02067, 30 ,Female,North,Month-to-month,Electronic check,52,69.65,3421.54
+C01858,30,female,south,One year,electronic CHECK,25,61.73,1480.72
+C02675, 30 ,Female,West,One year,Credit card,41,65.54,$2633.13
+C01273,66,male,North,Two year,Bank transfer,68,91.91,6131.18
+C02624, 71 , F ,West,Month-to-month,Credit card, 68 ,65.58,4032.83
+C00199,58,Male,North,M2M,Credit card,17 months,51.13,$854.29
+C01585,48 years,female,West,Month-to-month,Electronic check, 68 ,60.77,4461.67
+C00919,52,Female, EAST ,Month-to-month,Bank transfer,60 months,100.72,$6312.20
+C00508, 22 , F , EAST ,M2M,electronic CHECK,9,124.23,1041.73
+C02368,53,Female,North, TWO YEAR ,Credit card,26 months,22.00,610.75
+C00201,26,Male,north,Two year, BANK TRANSFER ,10,53.50,488.87
+C02390,20, M ,West,One year, BANK TRANSFER ,21,104.32,2304.71
+C01063,29, F ,South,M2M,bank transfer,61,22.00,1238.93
+C00139, 25 ,Male,West,Month-to-month,credit CARD,58,88.53,4818.61
+C01873,49,female, WEST ,Two year,Credit card,N/A,91.56,"3900,66"
+C02413,69,male,east,One year, CC ,24,$80.13,$1816.07
+C02467,66,Female,South,One year, BANK TRANSFER ,59 months,95.26,5393.60
+C01783,49,Female, WEST ,month to month,e-check,56,51.27,"2597,25"
+C02277,39,Female,South,1 year,credit CARD,25,"78,92",1831.18
+C00042,43,Male,West,M2M, BANK TRANSFER ,65 months,"27,42",1794.41
+C00774,34,male,west,Month-to-month,electronic CHECK,57,N/A,4051.87
+C02757,33,male,South,Month-to-month,Bank transfer,9999,62.31,$1182.98
+C02373,21,Male,South,M2M,Bank transfer,43,90.22,3793.35
+C02691,62,Male,West,Two year,Bank transfer,23,71.17,1576.75
+C00243,51, M ,South, ONE YEAR ,Electronic check,38,$43.47,$1557.41
+C01505,23,Male,North,One year,Credit card,5,"94,07",430.84
+C01193,71,male,North,month to month,Bank transfer,41 months,60.95,2691.01
+C00113,47,Male,South, ONE YEAR ,electronic CHECK,66,"86,30",6131.19
+C00453,65, F , SOUTH ,One year,credit CARD,54,92.17,$5255.04
+C00917,59,female,South,annual,e-check,38,"112,24",4508.66
+C00668,30,Male,North,Month-to-month,Electronic check,26,49.81,?
+C01554,30, M ,West,Two year,Electronic check,54,22.00,unknown
+C01527,66,Female,East,annual,Electronic check,10 months,79.76,811.85
+C02250, 51 ,female,East,One year,electronic CHECK,64,67.35,4165.27
+C00782,20,Female,South,M2M,Credit card,55 months,$40.30,2280.85
+C01586,25, M ,east,One year, BANK TRANSFER ,53,49.18,$2775.22
+C01395,41,Male,North,Month-to-month,bank transfer,30,97.35,unknown
+C00271,20,Male,East, MONTH-TO-MONTH ,electronic CHECK,31 months,67.13,1904.56
+C02298,36, F , EAST ,Month-to-month,bank transfer,49,62.16,2973.46
+C00302,44,Female,East, ONE YEAR ,Credit card,65,62.28,4127.66
+C01645,,Male,North,annual,e-check,68,33.17,?
+C02031,23,Male,South,One year,Credit card,68,69.16,"4592,03"
+C00765,64 years,Female,West,Month-to-month,Credit card,,125.00,"3247,16"
+C00638,26,Female,South,One year,Electronic check,51 months,?,2712.75
+C02022,72,Male,North, MONTH-TO-MONTH , BANK TRANSFER ,23,110.37,2410.74
+C00788,33,male,South,Month-to-month,Bank transfer,30,69.01,1902.00
+C02370,59,Female,East,One year,Electronic check,9999,"75,03","2737,69"
+C01132,36, F ,East, ONE YEAR , BANK TRANSFER ,18,76.61,1360.59
+C01630,62 years,Female,North,One year,Bank transfer,35 months,84.62,2723.88
+C02105,62, F ,South, TWO YEAR ,Bank transfer, 1 ,53.40,56.14
+C01994,64,female,East,Two year,Electronic check,N/A,83.19,882.68
+C01878,60,Male,East,One year,credit CARD,52,61.76,"3139,04"
+C00867,33,Female,East,One year,bank transfer, 53 ,$109.74,"5600,32"
+C00698,25,Male,West,Two year,electronic CHECK,8,24.11,186.62
+C01523, 53 ,Female,East,M2M,Bank transfer,23,52.79,1285.98
+C00294,40,female,West,Month-to-month,Bank transfer,10,83.61,894.54
+C00022,36 years, F ,West,One year,electronic CHECK,22,89.56,1846.98
+C00737,70, M ,South,One year,Credit card,34,67.92,"2163,39"
+C01428,45,Female,east, TWO YEAR ,Electronic check,54 months,97.10,4823.04
+C02402,35,female,North,Month-to-month,e-check,72,49.89,3774.88
+C00461,35,Male,South,Two year,Electronic check,17,"80,32",1339.90
+C01583,56,Female,west,biennial,Bank transfer,8,40.77,314.95
+C01274,N/A, M ,West,One year,Bank transfer,9999,105.96,4569.51
+C00736,71,Female,West,One year,Electronic check, 21 ,54.81,$1138.62
+C02441,50,female,West,Two year,Credit card,62,"63,43",3690.99
+C00839, 61 , M ,West,One year,Credit card,7 months,68.01,"470,46"
+C02403,52,Male,East,One year,Electronic check,?,87.93,?
+C01188,39 years, F ,South,One year,Credit card,31 months,63.18,$2058.87
+C02108,41,Female,North, ONE YEAR ,credit CARD,21,61.67,1350.23
+C02130, 72 ,female,West,Month-to-month, CC ,15,106.44,1701.10
+C00519, 49 ,female, SOUTH ,M2M,Bank transfer,59,?,$4185.41
+C00256,38,female,west,One year,Credit card,39,57.04,2061.78
+C01323,71,Female,North,Month-to-month,Bank transfer,9999,$56.27,1903.60
+C01919,43,Male,South,One year,Bank transfer,36,"56,55",1919.32
+C00529,35,Male,West,month to month,electronic CHECK,72,76.20,
+C00247,72,Male,North,M2M,Bank transfer,51,73.82,3562.35
+C02747,48,Male,North, ONE YEAR ,electronic CHECK,38,90.79,$99999.00
+C00555,59,male,North, MONTH-TO-MONTH ,e-check,17,77.33,1353.21
+C00795,71 years,Male,north,2 years,e-check,71,$40.92,2878.83
+C01340,53,Male,West,month to month,Bank transfer,63,58.40,3789.95
+C00165,,female,east,Month-to-month,Electronic check,1,$105.70,102.04
+C00299,28, M ,north,Month-to-month, BANK TRANSFER ,52,$87.83,4580.27
+C00066, 42 ,Female,South,Month-to-month,Electronic check,48,105.82,4660.48
+C02151, 35 ,Male, WEST ,Month-to-month,electronic CHECK, 52 ,"79,70",4410.73
+C02127,48,Female, WEST , MONTH-TO-MONTH ,electronic CHECK,N/A,70.64,1945.53
+C01718,72,Female,West,Two year,Electronic check,2,55.02,108.97
+C01806,19,Female, NORTH ,Month-to-month,Credit card,67,"63,05",4524.57
+C00244,31,Female,North,Month-to-month, CC ,57,99.37,5694.19
+C02760,39,male, WEST ,month to month,e-check,36 months,73.34,2392.53
+C00172,51,Female,North,One year, CC ,2,39.43,71.35
+C02591, 73 ,Female,South,Month-to-month, BANK TRANSFER , 34 ,59.49,2126.09
+C00069, 46 ,female,east,One year,Electronic check,N/A,$51.33,3392.03
+C01430,45, F ,West,Month-to-month,bank transfer,71,"70,82",4743.43
+C02291,34,Female,South, MONTH-TO-MONTH ,Credit card,33,"112,53",3843.79
+C01659,29,Male,north,Month-to-month, BANK TRANSFER ,45,34.06,1579.91
+C01183,32,male,North,Month-to-month,Electronic check,38,79.54,2909.09
+C00758,41 years,male,East,M2M,electronic CHECK,22,50.67,1087.38
+C00156,36,Female,South,Two year,credit CARD,15,69.96,1057.48
+C00913, 58 ,Female,North,Month-to-month,electronic CHECK,46,54.40,2540.89
+C00447,21, M ,South,Month-to-month,Electronic check,53,76.39,"4238,14"
+C02223,67 years,Male,South,Month-to-month,bank transfer,24,73.90,1761.76
+C01622,25,Male,South,One year,e-check,4,81.29,309.39
+C01168,49,Female,West, MONTH-TO-MONTH ,Bank transfer,7,70.04,458.33
+C01635,70,Female,South,Month-to-month,Credit card,44,71.53,3377.87
+C01969,45,Male,East,One year,Credit card,10,95.90,"876,87"
+C02043,73,Female,North,Month-to-month,Electronic check,28,79.17,2241.03
+C01091,62,female,East,Month-to-month,Bank transfer,43,106.84,4728.90
+C00078,43,Female,West,Month-to-month,bank transfer,31,"90,01",2573.30
+C01105, 56 ,Female,north,Month-to-month,electronic CHECK,,78.69,"4348,43"
+C01683, 29 ,female,North, ONE YEAR ,Bank transfer,53 months,99.25,5392.18
+C01770,65, M ,South, ONE YEAR ,Credit card,28,$99999.00,2700.71
+C00751, 67 , M ,West,Two year,Bank transfer,18,50.45,951.42
+C01786,30,Female,North, TWO YEAR , CC ,2,"94,62",?
+C02480,71,Female,South,month to month,Credit card, 8 ,?,"729,79"
+C00796,57, M ,East,month to month,e-check,39,83.52,"3267,07"
+C01991, 27 ,Male,North,Two year,Electronic check,48,125.00,5553.29
+C02695,29,Female,East,1 year, BANK TRANSFER ,24,71.00,1761.05
+C00277,55,Male,West, MONTH-TO-MONTH ,Electronic check,66,41.97,2627.09
+C02094,72,female,South,month to month,electronic CHECK,27,$86.72,2499.78
+C00315,73,Female,East,Month-to-month,Electronic check,17,74.56,N/A
+C00134,65,Female,South,M2M,Credit card,67,59.48,3714.45
+C01289,72,Male,West,One year,Electronic check,1,53.59,51.81
+C01596,34, M ,West,One year,Bank transfer,40,100.18,3910.88
+C01915,25 years,Female,West,Month-to-month,Bank transfer,13,39.39,466.34
+C00903,37,female,South,Month-to-month,Credit card,26,56.22,1512.70
+C02065,65,male,East,annual,e-check, 63 ,$66.57,4427.66
+C02196,71, M ,South,Two year,Electronic check,32,69.94,$2389.35
+C00908,28 years,Male,north,2 years,Bank transfer,12,36.93,"415,75"
+C02073,49,Female, NORTH ,biennial,electronic CHECK,60,"56,29",3634.09
+C01358,72,Female,West,month to month,Electronic check, 40 ,48.80,2058.89
+C01009,19,Male,South,biennial,Bank transfer,38,72.33,2694.13
+C01992, 58 , M ,North,One year,bank transfer,57,86.41,?
+C01710,34,male,north,One year,Bank transfer,17,$36.92,592.30
+C01626,56, M ,West,M2M,Credit card,23,73.37,"1803,37"
+C02795,52,Male,West,1 year,electronic CHECK,71,45.45,$3144.39
+C01607,41,Female,North,Two year,Electronic check,13,89.32,$99999.00
+C00081,42,Male,East,One year,Bank transfer,50,$89.44,4709.59
+C02651,23, F ,North,Month-to-month,credit CARD,68,22.00,"1503,97"
+C02333,38,Male,east,Month-to-month,Bank transfer,60,$99999.00,3421.73
+C01441,23, F ,west,month to month,Electronic check,18,83.77,1382.30
+C02702,49 years, M ,West,One year,Credit card,59 months,84.40,4950.35
+C00745,40,female,West, TWO YEAR ,bank transfer,34,36.69,1339.63
+C01885,37 years, F ,South,One year,credit CARD,19,70.52,N/A
+C02035,72,Male,South,One year,Electronic check,2,60.09,118.00
+C01021,23,Male,South,Two year,bank transfer,67,"56,02",3660.27
+C01881,56,Female,South,One year,Credit card,26,"33,28",866.10
+C01906,29,Male,East, MONTH-TO-MONTH ,Bank transfer,39,58.18,2089.57
+C00878,58 years,Male, SOUTH ,One year,Bank transfer,58,$81.05,N/A
+C00753,61,Male,North,Month-to-month,e-check, 9 ,79.87,$697.74
+C01176,58,male,North,M2M,credit CARD,68,74.36,$99999.00
+C00498,?, F ,North,One year,bank transfer,65,72.72,4929.78
+C00466,53,Female,West,One year,Bank transfer, 50 ,70.56,3520.39
+C01687,63,Female,East,One year,Credit card,57,$70.56,3851.67
+C00385,39 years,Male,South,One year,e-check,60,100.85,5879.86
+C01136, 68 ,Female,West,One year,Electronic check,4 months,41.69,171.20
+C01547,27,Male,east,Two year,Bank transfer,29,61.80,1891.24
+C01734,29, M ,West,Month-to-month,e-check,29,unknown,2333.29
+C01369,unknown,Male,south,Month-to-month,credit CARD,17,66.48,1068.16
+C00739,46, M ,West,Month-to-month,electronic CHECK,10,29.84,300.87
+C00851,59,Male,North,Month-to-month,Bank transfer,20,31.16,?
+C00755,71, M ,west,One year,Electronic check,14,75.23,$1131.09
+C00564,54 years,Female,North,One year,e-check,13,?,$1062.94
+C01404,55, F , WEST ,month to month,Electronic check,61 months,125.00,6965.13
+C02471,40,Female,South,biennial,Credit card,46,60.80,2796.58
+C02358,41, M ,South, TWO YEAR ,Electronic check,62,74.10,4895.26
+C01653,24,Male,West,Month-to-month,credit CARD,47,81.49,3606.93
+C00364,19,Female,South,Two year,Electronic check,60,86.17,4874.47
+C01253,35, F , NORTH ,annual,Credit card,21,125.00,$2821.48
+C02190,61, F ,East,month to month, BANK TRANSFER ,23,$83.79,$1754.44
+C00655,72,Male,West,One year,Bank transfer,51,22.00,1193.53
+C01941,40, M ,East,1 year,bank transfer,20,71.98,N/A
+C02560,32,Female,West,Month-to-month,Credit card,10,50.01,"521,10"
+C01665,35,male,West,Two year,Bank transfer,4,80.89,292.73
+C02276,24,Female, EAST , ONE YEAR ,Bank transfer,69,N/A,5832.99
+C00345,37,Female,west,Month-to-month,Credit card,51,71.02,3474.26
+C00531,69,female,North, MONTH-TO-MONTH ,Electronic check,57 months,55.60,3342.85
+C01541,24,Female,West,One year,e-check,47,"79,21",3535.19
+C02569,34,female,North,Month-to-month,electronic CHECK, 43 ,63.12,unknown
+C00279,51 years,Male,East,One year,Bank transfer,1 months,50.08,$52.21
+C01888,60, F ,East,2 years,Credit card,21,$99999.00,1956.85
+C00374,63 years,female,East,One year,Electronic check,65,104.56,6548.70
+C00864, 33 ,Male,East,Two year,Electronic check,28,77.49,2338.63
+C01616,34,Male,East,Month-to-month,Credit card,57,40.31,2294.33
+C00135,41,Female,South,annual,Credit card,50,90.05,4367.64
+C01424,69 years,Female,South,Month-to-month,bank transfer,64,80.64,"5126,47"
+C01673,71, F ,East,One year,Electronic check,46,69.31,3250.97
+C00248,45, M ,east,M2M,Credit card,52,56.52,2838.63
+C00043,70,Female,East,Month-to-month, CC ,54,93.40,4736.61
+C02186,51,Male,South,Month-to-month,electronic CHECK,41,77.96,"2945,21"
+C00884,30 years,Male,South, TWO YEAR , BANK TRANSFER ,26,"76,40",2045.60
+C01227,46,Male,West,Month-to-month,Bank transfer,40,73.86,3120.65
+C01205,69, M ,North,Month-to-month,electronic CHECK,54,65.04,3450.26
+C02041,62,female,north,One year,credit CARD,72,83.26,$6444.68
+C00401,57,Female,East,One year,Electronic check,69 months,53.05,3686.51
+C01720,28,Female,West,annual,Electronic check, 72 ,"56,13",4059.28
+C02427,53, F ,North,Month-to-month,e-check, 46 ,$95.92,4432.28
+C02579,24,Male,West,month to month,Bank transfer,17,42.57,730.09
+C00987,30,male,East, TWO YEAR , BANK TRANSFER ,49,70.28,"3707,29"
+C00861,53,Female,North,2 years,credit CARD,36,40.56,1317.02
+C02546,30,Female,East,Month-to-month, BANK TRANSFER ,34,72.99,2412.36
+C02198,38,Female,West,One year,Bank transfer,48,44.09,1964.99
+C00729,70, M ,North,annual,Credit card,25,78.67,2085.09
+C01019,64,Male,South,M2M, CC ,23,24.67,$520.41
+C00378,63,female,West,Month-to-month,Electronic check,34,46.80,1671.06
+C01112,59,Female,north,Month-to-month,Bank transfer,unknown,"29,91",1399.56
+C01644,28, F ,East,1 year, CC , 10 ,"63,23",660.25
+C01411,67,Female,west,One year,e-check,15 months,69.81,975.99
+C02782,39,Female,West,One year,Electronic check,13,106.54,1258.14
+C02581,31 years,male,North,annual,electronic CHECK,40,"45,69",1773.97
+C00068,21,Female,West,annual,Credit card,2,93.20,177.48
+C01280,37, M ,North,Month-to-month,bank transfer,,82.00,2478.89
+C00392, 68 ,female,South,One year,e-check,unknown,63.43,1129.16
+C02101,71,Male,North,Month-to-month,Electronic check,29,$66.31,"1804,30"
+C00967,N/A, F ,North,Month-to-month,electronic CHECK,20,101.75,1910.79
+C00233,21,Male,North,Month-to-month,Bank transfer, 67 ,64.34,4097.22
+C01753,63,Male,East,Month-to-month,Credit card,5,125.00,602.25
+C00659,19,female, EAST ,Two year, CC ,50,$83.36,3863.45
+C00944,21,Female,West,Month-to-month, CC ,39,55.39,1975.99
+C02208,68,Male,South,Two year,e-check, 64 ,37.92,2418.29
+C02122,29,Male, EAST ,M2M,Credit card,42,65.27,$2663.23
+C01276,38,Male,North,annual,bank transfer,69 months,33.54,2351.95
+C01412,53,male,East, MONTH-TO-MONTH ,Credit card,30,50.06,1352.84
+C00542, 53 ,male,West,M2M,credit CARD,20,69.47,1319.94
+C00239,52,Female,West,Two year,Electronic check,13,83.16,974.53
+C01550,62,Female,North,Month-to-month,Bank transfer,19,80.15,1372.27
+C00054,49, M ,West,Month-to-month,Electronic check,11,37.05,391.23
+C00361,69,Male,west,month to month, BANK TRANSFER ,17,"38,03",623.84
+C00014,38 years,Female,South, TWO YEAR ,Electronic check,70,66.19,4271.36
+C00492,47,Female,East,Month-to-month,Credit card,68,85.22,5899.98
+C00021,50 years,Male,West,One year,Electronic check,6,68.31,"400,51"
+C02587,28,Female,East,Two year,Electronic check,49 months,61.27,2732.96
+C01955,60 years,Male,west, MONTH-TO-MONTH ,Bank transfer,62,112.65,6669.77
+C02083,36,Female, EAST ,Month-to-month,Credit card, 44 ,89.11,4121.78
+C02519,66, M , EAST ,Two year,Bank transfer,14 months,83.35,$1164.69
+C02287, 69 ,female,North,One year,Bank transfer,43,80.44,3442.59
+C01291,60,male,West,annual,e-check, 32 ,29.13,$864.51
+C01913,37, M ,West,One year,Electronic check,1,$66.40,"65,86"
+C01729,23, M ,north,annual,electronic CHECK,43,33.70,1326.53
+C00427,48,female,West,Month-to-month,Electronic check, 24 ,"92,82",2387.18
+C02499,37,Female, NORTH ,biennial, BANK TRANSFER ,39,$99999.00,2860.91
+C02529,21,female,south, ONE YEAR ,Bank transfer, 66 ,31.45,"2149,30"
+C01324,23,Female,West,One year,credit CARD,38,74.60,2648.77
+C02036,31,Female,West,Month-to-month,Electronic check,63,111.06,7334.27
+C01703,20,Male, SOUTH ,Month-to-month,credit CARD, 25 ,"125,00",3238.72
+C01560,48, M ,West,Month-to-month,Credit card,9999,43.03,3145.36
+C00478,46,Male, WEST , ONE YEAR ,Bank transfer,39,22.80,$819.06
+C00051,42 years,female,south,Month-to-month,Bank transfer,66,$43.96,3017.08
+C00355,42,Female, WEST , MONTH-TO-MONTH ,Electronic check,4,75.07,$275.18
+C00291,30,Male,east,1 year,Bank transfer,41,79.70,"3152,84"
+C02371,37,male,north,month to month,electronic CHECK,40 months,23.65,"872,51"
+C01248,31,Male,South,Month-to-month,Bank transfer,16,79.75,1170.76
+C01156, 66 ,Female,North,One year,electronic CHECK,2,61.11,130.27
+C02365,55, F ,East,M2M,Electronic check,30 months,37.29,"1088,73"
+C02610,N/A,Male,North,One year,Electronic check,63,44.60,2638.95
+C01745,19,Female,North,One year,e-check,51,"120,98",$6213.00
+C00429,23 years,male,North, MONTH-TO-MONTH ,Electronic check,49,85.27,$3838.40
+C00808,50,Male,South,Month-to-month,Bank transfer,38,78.20,2796.04
+C02016,61, F , NORTH ,Two year,Electronic check,52,111.29,5535.46
+C01619,25, F ,North,One year,Bank transfer, 56 ,28.64,1665.57
+C01755,60, M ,North,1 year, CC ,65,84.41,5514.79
+C00462,31, F , EAST ,Two year,Electronic check,18 months,68.95,1276.86
+C01950,58,Male,West,Month-to-month,Bank transfer, 29 ,63.99,1959.20
+C00574,60, F ,South, ONE YEAR , CC ,15,64.69,1008.02
+C02201,43,Female, NORTH ,One year,Credit card,11,87.09,"1015,95"
+C00673,57,male,South,Month-to-month,Bank transfer,52,72.35,$3596.38
+C00812,28,Female,South,One year,Bank transfer,59,66.32,$3589.03
+C00846,54,Female,East, MONTH-TO-MONTH , BANK TRANSFER ,42,"108,49",4519.92
+C01295,71,male,West,Month-to-month,Bank transfer,63,"72,35",4316.31
+C01883, 32 ,Male,East,Two year,electronic CHECK,13,94.70,1205.12
+C02486,35,female,North, MONTH-TO-MONTH ,Bank transfer,57,60.18,3322.37
+C02520,43 years,Female,East,Two year,Electronic check,66 months,"42,44",2576.86
+C00818,23,male, SOUTH ,One year,electronic CHECK,67,80.36,?
+C01169,23,female,North,Month-to-month,Bank transfer,8,$65.10,497.57
+C01571,32 years,Female,North,Two year,Electronic check,23,"82,05",1942.74
+C01073,30,male,East,One year,Bank transfer, 23 ,48.35,1092.86
+C02175,71 years,Male,South, ONE YEAR ,Electronic check,36,,$1488.62
+C02694,28,Female, SOUTH , TWO YEAR , CC ,50,94.95,4797.16
+C00719,44,Male,East,One year,Bank transfer,?,73.83,2047.64
+C02267,25,Male,South, ONE YEAR ,Credit card,60,49.94,3195.15
+C01272, 31 ,female,North,biennial,Electronic check,67,24.06,1623.51
+C02518,9999,Male,north,month to month,electronic CHECK,25,48.53,1146.05
+C00614,64, M ,East,Month-to-month,credit CARD, 12 ,74.48,806.04
+C01794,43,Male,east,biennial,Credit card,25,"97,13","2518,09"
+C00131,40, M , SOUTH ,Two year,Credit card,9999,114.89,326.09
+C00274,54,Male, EAST ,Month-to-month,Electronic check,26 months,$46.24,1092.07
+C02576,43, M ,West,Two year,Credit card,35,55.18,1843.08
+C02770,27,Female,West, ONE YEAR ,e-check,34,"64,76",2206.09
+C00420,42,female,North,Month-to-month,credit CARD,27 months,54.92,1491.79
+C02478,42,female,East,One year,bank transfer,64,112.96,"6576,49"
+C00895,32,Female,South,Month-to-month,Credit card,9999,"63,28",1111.75
+C01911,23,Male,west,annual,Bank transfer,31,77.82,2439.20
+C00419,54,Male,North,M2M,electronic CHECK,24,"81,28",2044.30
+C01949,27,Male,East,2 years, BANK TRANSFER ,45,55.70,2308.67
+C00712,72 years,male,East,biennial,Electronic check,unknown,69.19,4737.80
+C02689,46,Female,North,Month-to-month,Credit card,62,71.12,4345.23
+C00522,39,female,South,One year,Bank transfer,64,99.23,6255.35
+C01735,41,male,West, MONTH-TO-MONTH ,credit CARD,23,83.78,$2056.26
+C00692,65, M ,South, MONTH-TO-MONTH ,bank transfer,68,76.44,4840.31
+C02182,72,male,North,Month-to-month,Electronic check,45,53.84,2459.79
+C00333,unknown,female,east,1 year,Bank transfer,16,92.16,1517.89
+C02128,39,Male,North, MONTH-TO-MONTH ,Bank transfer, 65 ,87.69,"5928,49"
+C02004,22,Female, SOUTH ,One year,Electronic check, 59 ,69.30,3927.11
+C00784,44,Male,North,One year,Bank transfer,45,26.51,1265.04
+C01931,37 years,male,South,One year,Bank transfer, 31 ,22.00,647.31
+C00495, 20 ,Female,North,Month-to-month,electronic CHECK,72 months,59.66,4124.75
+C00204,?,Female,west,Two year,Bank transfer, 69 ,"59,64",3994.79
+C01399,49,Female,West,month to month,credit CARD,,"33,41",1187.67
+C02751, 62 ,Female,East,Month-to-month,bank transfer,28,84.80,2177.63
+C01347,23,female, NORTH ,Month-to-month, BANK TRANSFER ,20,84.34,1521.43
+C00435, 34 , M , WEST ,One year,Bank transfer,67,54.44,3922.91
+C02063,65, F ,North, ONE YEAR ,Electronic check,51,64.40,$3382.63
+C00685,65,male,North,One year,credit CARD,56,65.46,"3815,12"
+C02155, 28 ,male,East,One year,Credit card,29,"81,28","2251,33"
+C02717,55,male,East,M2M,Electronic check,18,56.42,926.42
+C02161,39,Male,East,Month-to-month,electronic CHECK, 53 ,101.30,N/A
+C00289,37, F ,South,annual,bank transfer, 5 ,$62.44,312.65
+C02191,64,male, WEST ,Month-to-month,Electronic check,46,47.67,"2046,19"
+C01656,59,Female,East,1 year,Bank transfer,26,$71.58,1854.64
+C00848,51,Male,East,1 year,Bank transfer,32,79.87,$2415.74
+C01453,33,female,West,month to month,electronic CHECK,35,87.38,3090.75
+C02704,35,Female,North, ONE YEAR ,Bank transfer,42,57.12,2356.68
+C00408,52,Male,East,One year,Bank transfer,2,,"108,22"
+C00687, 64 ,female,South,annual,Credit card,28,"101,02",2981.39
+C00781,34, F , WEST ,Two year,Electronic check,33,102.18,3589.10
+C02763,20 years,Male,West,Month-to-month,Electronic check,27 months,72.39,N/A
+C02481,20 years,male,South,month to month,Electronic check,65,56.97,$3918.49
+C00142, 23 , F ,west,M2M,electronic CHECK,9,72.97,
+C01903,31,female,East,Month-to-month,Bank transfer,14,63.72,$878.32
+C01506,59, M ,West,Two year, CC ,49,106.05,4760.23
+C00980,42,male,West,M2M,e-check,36,86.71,?
+C01127,73,Male,north,One year,credit CARD,8,$53.46,395.88
+C00048,22 years,Female,East,One year,Bank transfer,1,96.73,"103,84"
+C00338,40,Female,East, MONTH-TO-MONTH ,electronic CHECK,38,67.94,2744.75
+C02071,51 years,Male,South,month to month,electronic CHECK,,75.46,3708.42
+C02318,72,Female,East, TWO YEAR ,Electronic check,52,73.36,"3769,16"
+C02229,27,Male,North,Month-to-month,e-check, 35 ,89.49,2985.13
+C00283,69,Male, NORTH ,Month-to-month,bank transfer,39,N/A,3389.14
+C01161,23,male,North,One year, BANK TRANSFER ,53,50.78,"2618,37"
+C00953,73,Female,North,Month-to-month,credit CARD,25,62.14,1541.36
+C00322,?,Male,South,One year,electronic CHECK,44 months,22.00,974.59
+C01361,28, F ,North,M2M,Electronic check,23,114.64,2436.77
+C02485,23,female,West,One year,Bank transfer,10,34.52,364.22
+C00174,33,Male,North,2 years,Credit card,41,48.08,
+C02750,27,Female,West,annual,e-check,47,52.38,$2378.97
+C00791,36,male,South,M2M,Electronic check,33,60.82,1936.29
+C00293,46, M ,East,M2M,Bank transfer,33,$92.47,"3110,36"
+C01947,37,Male,South,Month-to-month, BANK TRANSFER ,49,89.57,$4355.10
+C00163,27,Female,East,month to month,bank transfer,17,45.07,754.41
+C01068,63,Male,East, ONE YEAR ,Electronic check,15 months,"88,54",1254.95
+C02232,44,Male,West, MONTH-TO-MONTH ,Bank transfer,28,78.35,2182.07
+C00544, 25 ,male,South,1 year, BANK TRANSFER ,unknown,?,3360.56
+C01846,62, M ,South,M2M,e-check,53,110.06,5698.82
+C02615, 59 , M ,East, ONE YEAR ,Credit card,49,34.86,1767.04
+C00566,45 years,Male,west,month to month, BANK TRANSFER ,51,76.67,3586.40
+C00095,54,Male,South,One year,Credit card,59,89.88,5045.41
+C01470,29,Female,East,Two year,electronic CHECK, 58 ,N/A,6339.81
+C02357,9999, M ,South,Month-to-month,Electronic check,4,95.36,403.71
+C01120,22,Female,South,One year,credit CARD,unknown,$55.40,1506.04
+C00465,40,Male,south,M2M,Electronic check,34 months,89.73,3190.75
+C01636,41,Male,East,M2M,electronic CHECK,67,$99999.00,4676.18
+C01407,21 years, M , EAST ,1 year, CC ,14,54.43,800.73
+C00727,72,Female,south,Month-to-month,electronic CHECK, 46 ,$67.39,2877.78
+C02149,47 years,Female,South,One year,Bank transfer,7,,744.99
+C00991,43,Male,North,Month-to-month,electronic CHECK,49,"96,15",4750.38
+C00321,55,Female,North,Month-to-month,Bank transfer,25,"105,02",2504.45
+C01256,66,male,North,One year,Bank transfer,33 months,95.99,3179.15
+C01081,49,Male,west,Month-to-month,credit CARD,unknown,36.01,1153.36
+C02677,31,male,North, MONTH-TO-MONTH ,Electronic check,71,30.32,2162.41
+C01016,30,Male,South,One year,Electronic check,2,47.19,101.42
+C01856,39, M ,North, MONTH-TO-MONTH ,Electronic check,18,29.66,546.75
+C02458,45,Female,North,M2M, CC ,4,66.15,239.70
+C01842, 66 , F ,north, ONE YEAR ,Electronic check,49,95.48,4339.40
+C02463,64,Male,South,annual,Electronic check,45,117.37,5307.86
+C00923,21,Female,East,One year,Credit card,65,88.77,6084.93
+C00892,32,Female,North,2 years,bank transfer,20,$67.74,"1401,70"
+C00399,68, M ,east, TWO YEAR ,Credit card,9999,109.51,$1638.62
+C01826,22,Female, EAST ,M2M,Electronic check,68,78.08,5049.91
+C01315,23, F ,East,Month-to-month,Credit card,22,,$1338.17
+C01476,31,Female,south,One year,e-check,23,67.71,1528.04
+C02234,27 years,Female,East,Two year,Electronic check,53,31.11,"1657,14"
+C00662,45,male,South,One year,Electronic check,2,75.82,?
+C00306,49,Female,West,1 year,Electronic check,28,103.05,2650.79
+C01989,42,Male,East,M2M,electronic CHECK,55,64.54,3472.83
+C00470,60,Female, EAST ,Month-to-month,bank transfer,72,73.03,4796.78
+C02379,28,male,South, TWO YEAR ,Electronic check,7 months,"76,23",568.11
+C01084,35,Male, SOUTH ,Month-to-month,Credit card,47 months,57.62,2596.19
+C02394,39,Male,North,Month-to-month,Credit card,49,"32,50",1707.28
+C00866,45,Male,North,Month-to-month,Electronic check,39,52.99,$99999.00
+C01301, 20 ,male,North,annual,Electronic check,7,55.88,402.10
+C00167,34, M ,South,Month-to-month,Credit card,4,61.97,$257.51
+C01482,unknown,male,South,Month-to-month,Electronic check,56,65.33,3513.34
+C00982, 59 ,Male,East,One year,Credit card,17,$92.53,1520.14
+C01799,54,Male,west,One year,Electronic check,22,80.00,1696.28
+C02682,27,Male,South,Month-to-month,Bank transfer,9999,56.66,$1285.41
+C01110,47, M ,West,annual,Electronic check,17,$70.18,"1269,82"
+C00660,33, M ,East,Two year,Electronic check,49,35.37,1870.64
+C01326,40,Male,West,1 year,Bank transfer,4,36.15,155.45
+C02568,35,Male,North, TWO YEAR , CC ,68,"69,56",4961.11
+C00161,73, M ,East,Month-to-month,Electronic check,43,61.35,2642.87
+C00797, 66 ,male,south, MONTH-TO-MONTH ,Electronic check, 7 ,76.97,551.94
+C01893,19, F ,North,One year,Credit card,58 months,64.37,3623.24
+C02278,56, F ,east,One year,Electronic check,50 months,79.51,$3834.70
+C01373,58,male,South,biennial,Electronic check,5 months,"76,84",
+C00941,61, M ,South, TWO YEAR ,Electronic check,9999,"74,94",221.97
+C01539,33, F ,South,Two year,Electronic check,1,86.72,"88,80"
+C01351,47,Female,North,month to month,Electronic check,54,35.00,1859.42
+C01092,23,Female,South,Month-to-month,Electronic check,9,43.09,364.55
+C02601,43, M ,East,biennial,Bank transfer,18,40.14,721.89
+C02095,58 years,Male,West,biennial,bank transfer,25,97.46,2285.88
+C00738,42, F ,east,annual,Credit card,42,94.63,4234.33
+C01825, 22 ,Male,North,Two year,electronic CHECK,,$22.00,1152.21
+C02091,73, F ,West,M2M,electronic CHECK,62,57.11,$3321.62
+C01151,64, M ,West,annual,electronic CHECK,60,$61.30,3782.92
+C00713,,Male,West,Month-to-month,e-check,27,72.07,1934.52
+C01480,49,male,North,1 year,Credit card, 13 ,45.24,?
+C00250,51,Male,East, TWO YEAR , CC ,?,78.64,1602.33
+C00602, 72 ,male,South, MONTH-TO-MONTH ,Bank transfer, 67 ,41.32,2687.13
+C00681,23, M ,South,Month-to-month,Electronic check,44,65.09,3091.58
+C00530,51,male,West,1 year,Electronic check,66,"92,65",6334.07
+C00547,31, M ,North,Two year,Credit card,38 months,105.47,4229.21
+C02015,51,Male,North,biennial,Bank transfer,17,$73.87,"1227,96"
+C01155,60,Male,south,annual,electronic CHECK,45,72.60,3444.17
+C01122,32,Male,south,Two year,Credit card,62,76.26,4562.08
+C00886,70,female,West,Month-to-month,electronic CHECK,58,64.50,"3830,20"
+C01064, 43 ,Male, WEST ,One year,Credit card,21,68.57,1398.65
+C02599, 41 ,Male,East,Month-to-month,Electronic check,60,81.00,4815.85
+C02609, 42 ,Male,East,Month-to-month,Bank transfer,16,$125.00,1871.98
+C02251,21,male,East,Month-to-month,electronic CHECK,42 months,"72,25",3170.35
+C00421,56, M ,south, MONTH-TO-MONTH ,Bank transfer,15,78.70,1069.79
+C01031,69,female,West,biennial,Bank transfer,38,$57.32,2238.70
+C00158, 61 ,Male,South,M2M,Electronic check,43,91.40,"3826,49"
+C01488, 19 ,female,South,One year,Electronic check,27,72.60,1905.58
+C01566,?,Female,South,M2M,Bank transfer,44,$61.21,2461.90
+C02522,67, M ,North,Month-to-month,Electronic check,N/A,$125.00,3416.99
+C01532, 33 ,Male,North,Month-to-month,electronic CHECK,7,$71.17,464.02
+C02611,59,female,East,month to month,Electronic check,unknown,unknown,$1977.00
+C02510,62 years,Female,East,Two year,bank transfer,9999,79.64,$2499.95
+C01247,37 years,Male,west,1 year,Electronic check,50,"53,58",2437.24
+C00798,42,Female,West,One year,Bank transfer,27,30.38,872.93
+C02585,28,Female,South, ONE YEAR ,Electronic check, 41 ,58.42,2558.94
+C01251,44,Female,West,M2M,Electronic check,24,?,1419.39
+C01187,67,Female,East,One year,credit CARD,?,$68.15,996.28
+C00658,35,Female,North, MONTH-TO-MONTH ,Credit card,51 months,"76,34",3648.81
+C00625, 35 , F ,West,Month-to-month,Electronic check,11,125.00,1260.59
+C01409,34,Male,East,Month-to-month,Bank transfer,32,$86.57,"2953,66"
+C01882,25,Female,South,Month-to-month,electronic CHECK,50,$73.53,3348.25
+C00077, 68 ,male,West, MONTH-TO-MONTH ,bank transfer, 39 ,"43,39",$1818.23
+C01743,26 years,Male, NORTH ,One year,Credit card,30,81.51,2611.82
+C00455,59, F , NORTH ,month to month,bank transfer,53,63.79,3427.71
+C01010,29, F ,East,One year,Credit card, 38 ,,N/A
+C00310,37 years,Female,East,Two year,Electronic check,5,36.62,180.65
+C01760,34,Female,East,month to month,bank transfer,20 months,64.09,1238.60
+C00933,50, F ,West, MONTH-TO-MONTH ,Credit card,21,78.46,1701.25
+C00511,67, F ,North,Month-to-month,Electronic check,13,54.80,691.19
+C01938,27,Male,West,Month-to-month,bank transfer,2,52.25,97.14
+C00576,43,Male, SOUTH ,M2M,Electronic check,53,46.64,"2642,58"
+C00476,60,Male,North,Two year,Bank transfer, 19 ,68.29,1231.16
+C00410,64, M , NORTH ,1 year,Electronic check,28,93.56,2461.56
+C01144,20,Female,East,Month-to-month,electronic CHECK,23 months,"61,50",1509.05
+C00186,57,Female,West,Two year, BANK TRANSFER ,53,118.14,5678.47
+C02203,24,Male,South,Month-to-month, BANK TRANSFER ,32,80.94,2699.00
+C00240,29, M , NORTH , ONE YEAR ,Electronic check,39,51.72,1948.07
+C00509,29,Male,North,Month-to-month,Credit card,46,68.50,3257.43
+C02783,31,female,West,Month-to-month,bank transfer,25 months,83.31,2042.67
+C01342,25,Female,South,Month-to-month,e-check,70,43.25,2912.28
+C02690,31,Male,East,One year,e-check,45,22.00,958.49
+C02320,39, F ,east,Two year, CC ,33,"34,26",1056.09
+C02086, 60 ,female,South, ONE YEAR ,bank transfer,27 months,85.53,2407.64
+C02360,51,Female,North,Two year,Electronic check,5,95.12,442.56
+C00217,38,Female,west,Month-to-month,bank transfer, 72 ,79.90,5604.43
+C00590, 29 ,Male,East,One year,Credit card,64,106.53,"6978,58"
+C02219, 71 ,female,West,One year,Electronic check,63,45.33,2622.63
+C00963,39,male,East,annual,Electronic check,27,82.14,1997.52
+C02507,64,Female,South,Two year,Bank transfer,26,86.54,2218.92
+C02645,69,Female,North,Month-to-month,Electronic check,52,$113.16,5506.95
+C00830,57,Female,West,One year,e-check,22,65.91,1342.86
+C01146,47 years,Female,East, MONTH-TO-MONTH ,Credit card,12 months,"59,57",705.80
+C01124,23 years, M ,North,Two year,Electronic check,9,73.87,646.65
+C01948,26, F ,East,2 years, BANK TRANSFER ,48,61.09,$2645.12
+C02633,20,female, WEST ,One year,Electronic check,22,57.99,1237.91
+C00238,67,Male,South,Two year,Electronic check,1,51.84,50.21
+C02764,65 years, M ,west,Two year,Electronic check,19,65.92,1143.77
+C01082,33, M ,North,One year, BANK TRANSFER ,26,73.38,1829.77
+C01747,43,Female,East, MONTH-TO-MONTH ,e-check,2,41.58,81.70
+C00756,61,Female,South,annual,credit CARD,68,53.45,3349.52
+C01337,52, F ,North, MONTH-TO-MONTH ,Electronic check,22,43.05,$1010.87
+C01258,41 years, M ,North,Month-to-month,Bank transfer,39,35.36,"1419,97"
+C00905, 56 ,Female,South,One year,Electronic check,16,87.14,$1376.36
+C00887,58,female,North,M2M,Credit card,58 months,$67.81,$3632.30
+C01726,71, F ,South,Month-to-month,Credit card,52,$72.65,3748.95
+C02308,35 years,Female,West,Month-to-month,Bank transfer,54,93.10,"4543,78"
+C01813,43,female,West,Two year,e-check, 42 ,$49.91,1911.34
+C00178,20 years, M ,North,Month-to-month,Electronic check,29,45.29,1301.18
+C01017,?,Female,North,Two year,e-check,26 months,102.97,2758.45
+C00955,29,Male, WEST , MONTH-TO-MONTH ,Bank transfer,65,53.90,$3408.17
+C00264,40,Male, EAST ,1 year,Bank transfer,28,85.50,2206.27
+C00831,37, M ,South,1 year, CC ,57,95.17,$4893.76
+C00845,51,Female,North,One year,Bank transfer,36,71.48,$2448.38
+C01352,38,Male,North,Two year,Bank transfer,20,50.41,941.83
+C01245,56, F , EAST , ONE YEAR ,Credit card,40,77.97,3252.65
+C01052,65 years,Female,South,Month-to-month,electronic CHECK,8,82.52,665.80
+C02723,69 years,female,West,One year,electronic CHECK,50,53.91,2784.81
+C01970,38,female,west,One year, CC ,,86.58,4759.60
+C00526,59,Male,North,Month-to-month,Bank transfer,63,82.72,5499.03
+C00633,70,female,West,Two year,Credit card,9999,51.93,2907.02
+C00760,51,female,North,M2M, CC ,65,93.31,6262.01
+C00216,71,Male,north, TWO YEAR ,Credit card,32,67.57,2001.53
+C02387,45,Male,North,One year,Credit card,12,"52,06",631.72
+C00002,38,Male,South,annual,Electronic check,3 months,92.81,268.47
+C01406,45,Male,east,One year,Electronic check,45,49.61,2093.97
+C02526,60,Female,East,One year,e-check,53,68.38,3494.66
+C01851,N/A,Female,South, TWO YEAR ,e-check,62,71.71,4040.74
+C00413,22,Male,North,month to month,Bank transfer,26,73.08,1812.48
+C02305,49,Male,West, TWO YEAR ,electronic CHECK,3,?,360.60
+C01750,52 years,Male,West, ONE YEAR ,Credit card,49,56.08,2789.60
+C00723,62,Female,North,Two year,Bank transfer,41,69.00,2555.12
+C01046,71,Male,East,Two year,electronic CHECK,23,74.95,$1685.76
+C01473,62,Male,East,Month-to-month,credit CARD, 16 ,51.55,"886,70"
+C00877, 64 ,Male,south, TWO YEAR ,Electronic check,35,68.88,2188.53
+C00583,63,male,South,One year,credit CARD,61,"71,18",3992.35
+C01001,71,Male,West,Month-to-month,electronic CHECK,22,"64,80","1406,64"
+C02092,47, F ,East, TWO YEAR ,e-check,1,22.00,
+C01314,34, M ,North,month to month,electronic CHECK,42 months,108.95,4886.05
+C00405,72 years,male, SOUTH ,One year,Electronic check,65,76.10,4638.03
+C02030,30,Female,south,Two year,Electronic check,66,$37.17,2617.83
+C02327,48,Male,East,One year,Electronic check,11,72.29,?
+C01958,31 years,Female,East,annual,Bank transfer,34,$63.25,2191.14
+C00907,60,Female,West,One year,e-check,10,$99999.00,unknown
+C01232,48,male,North, MONTH-TO-MONTH ,bank transfer,23,71.45,1543.66
+C01708,46,Female,East, MONTH-TO-MONTH ,electronic CHECK,61,37.32,"2348,44"
+C02455,35,female,West,M2M, CC ,46,"101,29",4963.69
+C01048,52,Male, NORTH ,M2M,Credit card,41,84.58,3316.18
+C02009,25, M ,North,Month-to-month,Electronic check,31,53.95,1693.82
+C01148,32, M ,West,Month-to-month,electronic CHECK,10,39.70,418.57
+C00270,73,Male,South,Two year,bank transfer,51 months,67.06,3376.10
+C02422,33,female,West,1 year,electronic CHECK,18,67.96,1125.36
+C00612,19 years, F ,south,One year,Bank transfer,48 months,73.97,3638.93
+C02112,35,male,West,One year,Electronic check,33,57.79,2019.74
+C01440, 40 ,male,South, ONE YEAR ,Bank transfer,23,,2539.70
+C01418,40,Female,North,Month-to-month,Credit card,23,49.54,?
+C00688,26 years,Female,North,Two year,Credit card, 19 ,$39.45,728.37
+C00101, 68 ,Female,South,Two year,Electronic check,58,99.20,"5201,08"
+C00373,29,Female,South,One year,e-check,,40.58,1475.67
+C00148, 20 ,Female,North,1 year, CC ,33,22.86,753.07
+C01446,60,male,East,One year,Electronic check,,51.48,481.64
+C01993,44,Female,North, ONE YEAR ,Electronic check,47,22.00,$1072.54
+C01933,72,Male,west,1 year,Bank transfer, 26 ,100.51,N/A
+C01624,51, F ,East,2 years,Bank transfer,66,$73.17,$4763.05
+C00278,67,Male,East,One year,credit CARD,44,46.10,1932.57
+C00439,61,female,North,Month-to-month,Electronic check,N/A,79.51,160.04
+C00360, 46 ,Female,West,One year,Bank transfer,6,"33,51",192.71
+C00055,73,Male,east,Month-to-month,Electronic check, 40 ,93.07,3360.08
+C00617,19 years, M ,North,Month-to-month,Electronic check,40,59.06,2502.64
+C01822,49,Female,West,Month-to-month,Electronic check,46,51.27,2237.14
+C02748,71,Male,north,One year,Electronic check,64,57.39,"3729,37"
+C00298,37, M ,North,month to month,Credit card,16,$54.60,$921.19
+C01343, 39 , M ,East,1 year,Bank transfer,12,$43.49,538.92
+C01267,47 years,female,West,Month-to-month,Credit card,,59.87,1061.17
+C01045,69,female,South,One year,Electronic check,34,67.67,2078.05
+C01268,36,Female,East,Month-to-month,electronic CHECK,13,69.89,884.61
+C00363,38,male,South, MONTH-TO-MONTH ,electronic CHECK, 3 ,59.73,$166.53
+C02066,73,Female,South,Two year,Bank transfer,4,57.68,223.30
+C01843,73,female,West,Month-to-month,Electronic check,14,89.87,1250.52
+C02743,35,Male,East,annual,Electronic check,57,63.86,3716.31
+C02699,22,Female,East,biennial,Electronic check,34,22.00,691.37
+C00787,54,male,South,Month-to-month,Bank transfer,34,40.46,1415.65
+C00484,38,Female,North,Month-to-month,credit CARD,25,61.84,1465.37
+C02144,38,Male,West,Month-to-month,Electronic check,20,47.19,887.17
+C00327,unknown, M ,East,Two year,Electronic check,4,$37.78,156.43
+C01814,22,female,East,Two year,Electronic check,39 months,34.80,1436.67
+C00669,35,female,East,biennial,Electronic check,22,57.39,1217.25
+C00346,23 years, M ,South,One year,Electronic check,38,64.84,$2489.62
+C01999,58, M ,East,Month-to-month,credit CARD, 68 ,75.59,4841.52
+C00313,36,Male,East,Month-to-month,Credit card,35,$85.11,2939.49
+C02565,70,Male,East, MONTH-TO-MONTH ,Credit card,72,79.21,5422.14
+C00626,54,Female,North,month to month,Credit card,8,68.96,532.06
+C00215,47,Female,South,One year,Bank transfer, 19 ,67.00,1213.39
+C00480,36, F ,West, MONTH-TO-MONTH ,Credit card,26,94.57,2443.57
+C01317,73 years, M ,East,biennial,Electronic check,63,123.89,7026.78
+C00699,60,Male,South,One year,credit CARD,53,25.43,?
+C01448,N/A,Female,East, ONE YEAR ,electronic CHECK, 50 ,55.11,2695.07
+C00402,29,Female,North,One year,e-check,4,64.03,274.07
+C00412,55,Male,North,Month-to-month,Electronic check,25 months,41.13,1009.88
+C00491, 35 ,Male,north,2 years,Electronic check,39,51.36,2086.39
+C01180,51 years,Female,West, MONTH-TO-MONTH ,bank transfer,8,72.11,621.64
+C00391, 36 ,Male,South,1 year,bank transfer,68,"54,17",3354.04
+C00677, 66 ,male,North, MONTH-TO-MONTH ,electronic CHECK, 23 ,77.80,1817.21
+C02005,59 years, M ,South,Month-to-month,Electronic check,47,$53.64,2381.44
+C02592,65,Female,West,biennial,Credit card,61 months,83.13,5064.34
+C01055,39 years, F ,east,Month-to-month,Electronic check,13,"38,22",$469.56
+C01419,39,Female,West,Month-to-month,credit CARD,6,$100.03,554.15
+C01100,46 years, M ,East, MONTH-TO-MONTH ,Credit card,4,91.55,$371.43
+C01311,49,female,east,month to month,Credit card, 8 ,$86.83,654.06
+C01115,28,Male,East,Two year,e-check,35,119.67,3860.31
+C00672,47,Female, EAST ,1 year,credit CARD,27,64.18,1832.31
+C01637,23,Male,North,Month-to-month, CC ,N/A,70.37,$99999.00
+C00632,47 years,Male,South,Two year,Credit card,65,74.93,4873.02
+C02104,22, M ,north,Month-to-month,Electronic check,26,56.35,1436.22
+C01077,45,male,West,One year, CC ,58,$82.78,4757.42
+C01498,,Male,East,biennial,Bank transfer,71,33.14,
+C02212, 63 ,Female, SOUTH ,Month-to-month,Electronic check,70,75.24,5535.22
+C00862,19,Male,West, TWO YEAR ,Credit card,42,100.14,4185.95
+C01736,37,female,North, ONE YEAR ,Bank transfer,28,$99999.00,1366.20
+C01868,51,Male,East,Month-to-month,e-check,27,37.58,970.81
+C01960,24,male,North,One year,Bank transfer,57,"88,73",5231.43
+C01438,37,Male,West,Two year,electronic CHECK,2,"62,27",$121.88
+C01195,51,Female,North,biennial,Electronic check,50,60.82,$2864.30
+C01579,21 years,Male,north,Month-to-month, BANK TRANSFER ,9999,$28.37,1055.03
+C01300,62 years,male,North,One year,Electronic check,47,86.40,3946.70
+C01697,33,Male,East,2 years,Credit card,11,67.18,748.36
+C02544,47,Male,North,2 years,Bank transfer,58,$99999.00,5635.30
+C02769,49,Female,North,M2M,Credit card,67,75.45,$4807.33
+C02117, 22 ,female,west,1 year,Bank transfer,56 months,95.48,$5628.22
+C01316,33, M ,West,Month-to-month,credit CARD,52,70.41,3373.78
+C00641,19,Female,South,month to month,Electronic check, 2 ,66.16,133.73
+C02181, 53 , F ,East,Month-to-month,Electronic check,37,65.59,2497.43
+C00282,47,Male,South, ONE YEAR , CC ,9999,"98,81",909.48
+C00292,40,Male,North,Month-to-month,Bank transfer,69,47.04,3078.83
+C01126, 40 ,female,West,M2M,e-check,35,$57.40,2058.77
+C01773, 69 ,Female,North,Two year,Electronic check,5,33.22,168.85
+C01174,54, M ,West,Two year,Electronic check,62,73.72,4518.76
+C01298, 44 ,male,North,M2M,Bank transfer,26,$57.36,1354.07
+C02446,56,Male,East,One year,Credit card,10 months,28.44,289.20
+C02154,73,Female,West,Month-to-month,e-check,48,86.40,3771.83
+C01417,29,Male,north,Month-to-month,Electronic check,33,81.29,$2588.92
+C02123,32,Male, EAST ,1 year, BANK TRANSFER ,1,61.35,62.75
+C00004,62 years, F ,North,Month-to-month,credit CARD,58,89.27,4691.04
+C01339,41,Male,East,Month-to-month,electronic CHECK,25 months,48.35,"1091,58"
+C02680,21,Male, EAST ,Two year,Electronic check,13,"85,96",1108.13
+C00523,31,Male,East,month to month,Bank transfer,29,82.71,$2162.87
+C02542,43,female,South,Month-to-month,Credit card,30,25.50,775.24
+C01725,27,Male,West,One year, CC ,26,89.32,
+C01355,70 years, M ,East,One year,Electronic check,63,?,5351.66
+C01590,43, M ,South,One year,Credit card,11,28.71,305.84
+C00560,?,male,East,Month-to-month,Bank transfer,23 months,75.77,$1643.18
+C01075,70,Female,West,1 year,Electronic check,36,55.17,1947.76
+C02800,24,Male,south,One year,Electronic check,17,$98.06,1644.89
+C02238,46 years,Female,West,1 year,e-check,32,74.61,"2200,72"
+C00205,69,Female,South,Two year,electronic CHECK, 69 ,88.94,5766.46
+C01934,25,Male,East,One year,bank transfer,37,45.21,"1633,86"
+C02068,39,Male, NORTH ,Month-to-month, BANK TRANSFER ,59,,5682.15
+C01924,47, F ,South,One year,electronic CHECK,52,111.76,5324.11
+C00433,63,Male,West,Month-to-month,Electronic check,12,74.38,886.48
+C00114,36,Male,West,month to month,e-check,16,"51,68",868.14
+C01714,56, F ,East,One year,Electronic check,20,22.00,456.12
+C02787,51,Male,West,Month-to-month,bank transfer,1,84.27,$86.29
+C00513,68,Female,East,Month-to-month,e-check,3,51.46,151.43
+C00968,48 years,Male,east,M2M,Electronic check,43 months,41.50,"1629,03"
+C00570,38,Male,West,Month-to-month,electronic CHECK,44,44.45,1894.91
+C01219,34,Female,North,month to month,e-check,15,66.60,966.95
+C01023,28 years,Male,South,One year,Credit card,67,66.00,4276.23
+C00539,33 years,male,East,One year,credit CARD,28,$70.25,1990.31
+C02669, 60 , F ,West,One year, BANK TRANSFER ,45,95.41,3934.76
+C01557,51 years,Female,North, MONTH-TO-MONTH ,Bank transfer,56,81.32,4455.48
+C02667,66 years,Female,West,1 year,electronic CHECK,28,$60.03,1704.42
+C02188,44,male,South,One year,electronic CHECK,16,63.73,997.99
+C02253,60,Male,East,One year, BANK TRANSFER ,58,$99999.00,2605.44
+C00265,68, M ,South,M2M,e-check,37,80.07,2933.02
+C00533,72,Female,West,Month-to-month,credit CARD,2,47.38,?
+C00074,54 years,male,West,One year,Credit card,5,56.33,295.96
+C00622, 46 ,Female,West, MONTH-TO-MONTH ,Bank transfer,14,38.56,536.72
+C02666,45, M ,North,Month-to-month,Electronic check,56,"87,78",4577.28
+C00229,60,Female,South,One year,Electronic check,28,56.15,1537.34
+C00721,45,Female,East,One year,Electronic check,20,59.47,"1181,02"
+C00029,61 years,Female,East,One year,Electronic check,47,32.68,1404.32
+C00138,34,Female, EAST ,One year,Credit card,22,46.93,936.50
+C02629,29,Male,East,One year,Bank transfer,8,97.72,$811.32
+C01513,66,Female,West,One year,Electronic check, 17 ,"69,25",1131.70
+C01499,64,Female, SOUTH ,Month-to-month,electronic CHECK,12 months,80.43,"1005,60"
+C01192,68,Male,West,One year,e-check,17,28.28,458.66
+C01032,36,male,North,Two year,Bank transfer,34,75.01,2416.46
+C01338,36,Male,East,Two year, CC ,17,"58,50",1037.32
+C02349,53,Male, WEST ,month to month,Credit card,51,57.64,2910.24
+C02559,52,Male,North,biennial,Electronic check,69,22.96,1626.13
+C02072,64,Female,North,Two year,Electronic check,N/A,"66,04",$1541.16
+C02660,23, F ,East, ONE YEAR ,Bank transfer,72 months,76.32,5904.90
+C02310,27,male,South,One year,bank transfer,56,53.13,?
+C01990,31,Female,North,Month-to-month,Electronic check,49,110.09,$5687.68
+C01986, 41 ,male,North,annual,electronic CHECK,30,$69.98,1980.13
+C02316,41,Female,West,Month-to-month,electronic CHECK,36,86.49,2945.25
+C00690,32,Male,East,Two year,Bank transfer,60,57.74,$3726.22
+C00609,29 years,Male,West,month to month,Bank transfer,12,"56,69","673,01"
+C01467,65,Female,East,One year,bank transfer,26 months,$56.24,1451.98
+C01739,20,Female,West,1 year,Bank transfer,61,89.27,5691.57
+C02517,39,Male,East,Month-to-month,Credit card,37,72.21,2859.11
+C01719,unknown,female,south,Month-to-month,Electronic check,24,$72.49,"1713,59"
+C00900,65,Male,North,Month-to-month,electronic CHECK,N/A,95.19,"3050,56"
+C01879, 19 ,Female,North,M2M,electronic CHECK,55 months,38.79,"2067,75"
+C02280,57, F ,East,One year,Credit card,,?,5384.78
+C01325, 61 ,female,North,1 year,Credit card,31,$79.18,2560.95
+C00930,20,Female,south,Month-to-month,Credit card,3,99.95,"282,49"
+C01922,68, F ,South,Month-to-month,Bank transfer,46,51.92,2403.41
+C00304,27, F ,north,Two year, BANK TRANSFER ,52,74.77,3797.18
+C02504,27,Female,South,One year,Bank transfer,5,105.66,"500,62"
+C00449,72,Male,South,Two year,e-check,68,80.72,$5061.00
+C01887, 38 , F ,West,1 year,Electronic check,67,86.76,5521.90
+C01208, 30 ,Male,West,One year,e-check,39,111.86,"4688,60"
+C02304,36,Female,South,One year,Electronic check,3,74.22,"228,64"
+C02240,68,Female,South,One year,electronic CHECK,22,N/A,1843.84
+C02257,58,Male,South,biennial,Credit card,25,72.82,1795.06
+C01701,35,Male,East,One year,electronic CHECK,20,98.09,"1795,41"
+C01135,72,Female,South,One year,Credit card,29,"38,65",1064.63
+C02552, 69 , M ,North,Month-to-month,Bank transfer,29,90.05,2643.71
+C00973,38,Male,East,Month-to-month,Bank transfer,20,58.76,1139.77
+C02179,53, M ,West,Month-to-month,credit CARD,48,53.61,2402.45
+C01587,50,Female,West,Month-to-month,Bank transfer,3,46.33,$129.78
+C01963,50,female,West,Two year, BANK TRANSFER , 9 ,27.18,256.48
+C00012,48 years,Female,East,Month-to-month,bank transfer,42,36.84,1621.00
+C00485,60,Female,West,One year, BANK TRANSFER ,67,"68,43",4365.28
+C02152,34,Male,South,Two year,e-check,N/A,78.90,"3978,98"
+C00387,39,male,North,month to month, CC ,49,80.26,$3941.56
+C01535,48,Male,South,Two year,e-check,25,55.19,1483.87
+C02618,53 years,female,South,Month-to-month,Credit card,5,87.05,$456.20
+C01450,61,male,South,One year,Credit card,69 months,78.29,5663.60
+C01029,68,male,East,Month-to-month,Credit card,35,"75,74",2657.19
+C00494,55,female,East, MONTH-TO-MONTH ,Credit card,36,50.67,$1781.98
+C00657,53,Male,West,Month-to-month,Electronic check,69,57.85,"4164,66"
+C00045,24,Female,West,One year,Bank transfer,60,83.33,5051.73
+C00145,35,Male,North,biennial,Electronic check,,$64.19,$1629.66
+C00017,34,Female,south,2 years,electronic CHECK,21,44.11,900.12
+C00499,22,Female,East,One year, CC ,9999,$66.03,1318.13
+C02018,32,Male,West,One year,Electronic check,52,$83.62,$4022.25
+C02266,62,Male,South,One year,credit CARD,58,84.74,4521.14
+C01199,64,male,east,One year,Bank transfer,53,101.10,4850.90
+C02244,52,Female,West,Two year,e-check,8,57.14,481.97
+C01348,49,Female,South,M2M,Electronic check,60,54.98,3478.92
+C00579, 66 ,Female,South,One year, CC , 48 ,56.29,2524.57
+C02715,29,male,west,Month-to-month,Credit card, 55 ,39.65,2288.05
+C00956, 58 ,Male,South,month to month,credit CARD,16 months,$61.75,933.69
+C01629,53,Male,East,2 years,Credit card,49,70.14,$3093.25
+C01985,73, M ,South,Two year,Credit card,66,77.12,4843.14
+C01237,69,Female,East,One year,bank transfer,?,$37.07,2240.75
+C01891,38,Male,South,Month-to-month,e-check,5,$63.88,"313,94"
+C00124,22,Male,South,1 year,electronic CHECK,N/A,68.33,4161.56
+C02703,66,male,West,Two year,bank transfer,29 months,43.65,1261.61
+C01671, 63 ,male,North,1 year,credit CARD,19,$55.96,1103.18
+C01403,53 years,Female,South,Month-to-month,bank transfer,56,82.26,4804.24
+C00762,24,Female,West,Month-to-month,Electronic check,56,100.64,5281.17
+C02332,35, F ,south,2 years,credit CARD,37,92.58,3488.33
+C00720,54,Male,West,One year,Electronic check,69,54.05,"3446,77"
+C00458,67,Female,North, ONE YEAR ,Credit card, 50 ,73.29,$3584.47
+C01111,53,Female,North,Month-to-month,Credit card,48,63.08,3263.03
+C02064,25,Male,East,Month-to-month,Electronic check,62 months,unknown,3659.41
+C00232,24,Male,East,Two year,electronic CHECK,9999,96.27,1328.78
+C00945,26,male,North,Month-to-month,Electronic check,49,89.37,4441.97
+C01454,57, F ,West,Month-to-month,electronic CHECK, 9 ,38.84,322.58
+C00371,42,Male,West,Two year,bank transfer,18,50.35,839.09
+C00582,67,female,East,Month-to-month,bank transfer,24 months,40.11,$99999.00
+C01570,38 years,Female,South,Month-to-month,Electronic check,42,"113,07","4335,53"
+C00661,44,Female,West,Month-to-month,Bank transfer,20,105.66,2042.87
+C00838,21,Female,West,Two year,e-check,36,69.69,2564.16
+C02165,57,Female,North,Month-to-month,Bank transfer,17,"74,58",1163.47
+C00507,23,male,North,One year,Credit card,18,70.40,1334.84
+C01628, 29 ,Male,North,Month-to-month,Electronic check,23,70.46,1529.92
+C02417,39,Male,South,annual,Bank transfer,10,70.87,?
+C00847,26,Female,East,Month-to-month,Credit card,39,22.00,896.27
+C00084,51,Female,South,Two year,bank transfer,52,75.63,4164.28
+C02589,9999,Female,East,M2M, CC ,32,73.64,N/A
+C02397,45,Female,north,month to month,Bank transfer, 8 ,51.86,425.16
+C00816, 27 , F ,West,biennial,Electronic check, 62 ,51.13,2900.34
+C00207,57,female,South,month to month, BANK TRANSFER ,,unknown,3742.39
+C01899,50,Male,West,Month-to-month, CC ,42,88.45,3493.56
+C01425,42 years,female,North,Month-to-month,Electronic check,21,73.12,"1557,74"
+C00287, 62 , F ,West,M2M,Credit card,39 months,79.75,2876.05
+C01400,27 years,Female,North,2 years,Bank transfer,67,61.66,4276.63
+C01221,43 years,Female,North, ONE YEAR , BANK TRANSFER ,7,82.51,597.68
+C00235,19, M , NORTH ,Month-to-month, BANK TRANSFER ,61,66.19,3747.55
+C02731,19,female,South,Month-to-month, BANK TRANSFER ,40,$99999.00,$2898.47
+C01640,42,Female,North,Month-to-month,Bank transfer,17,67.16,1132.85
+C02303,61,Female,North,One year,Credit card,21,63.01,1269.68
+C01327,32,Male,South,Month-to-month,Bank transfer, 4 ,100.03,368.81
+C02533, 26 ,Female,North,2 years,Electronic check,62,88.28,5291.55
+C02620,51,Male,East,Two year,credit CARD,5,$65.82,$338.04
+C01071,26,female,East,Month-to-month,Credit card,5,108.68,549.95
+C01171,64,male,West,Two year,Bank transfer,26,99.74,"2632,28"
+C02140,33 years,Male,South,Month-to-month,credit CARD,40,68.20,"2825,78"
+C02000,52,Male,East,One year,Electronic check,66,$60.23,3816.98
+C01435,70,Female,East,Month-to-month,e-check,39 months,89.82,3588.28
+C01930,43,Female,North,One year,Credit card,67,85.13,6003.93
+C00993,38 years,Male,West,One year, CC ,64,"59,78",3981.22
+C00743,24,male,East,One year,Bank transfer,71,121.80,7982.36
+C02740,40,Male,West,Month-to-month,Electronic check,21 months,39.93,$827.89
+C00058,45 years,Female,South,One year, BANK TRANSFER ,66,62.01,4285.36
+C02399,53,Male,East,2 years, BANK TRANSFER ,32,"75,17",2498.44
+C01816,65,Female,West,One year,electronic CHECK,35,47.10,1626.86
+C01359,9999,Male,West,Two year, BANK TRANSFER ,68,88.35,6296.50
+C02557,31,Female,East,Month-to-month,Electronic check,31,79.99,2585.65
+C01000,N/A,Female,East,biennial,electronic CHECK,?,95.01,"3337,97"
+C01072,36,Male,South, MONTH-TO-MONTH , BANK TRANSFER ,52,85.89,4801.33
+C01101,48, M ,West,M2M,Bank transfer,28,112.04,3047.53
+C02772,43,Male,east,One year,Electronic check,22,$70.36,1499.95
+C02607, 60 ,Female,West,Month-to-month,Electronic check,4 months,31.53,120.58
+C02164,28,Male,North,Two year,bank transfer,56,76.15,4018.70
+C02216,60 years, F ,South,Month-to-month,Credit card,,$63.99,?
+C02197,45,Male,East,One year,e-check, 61 ,43.23,"2475,49"
+C00803,61,Male, WEST , TWO YEAR ,credit CARD,44,68.82,2807.40
+C01060,39,Female,East,Month-to-month,Electronic check,51,$97.45,"4763,75"
+C02178,70,Male,East,M2M,Electronic check,22 months,77.54,?
+C00783,28, F ,south,Two year,Electronic check,47,76.37,$3624.18
+C00804,27,Male,West, MONTH-TO-MONTH , BANK TRANSFER ,10,125.00,$1267.56
+C02709,57,Female,West,annual,Bank transfer, 27 ,73.57,$1798.30
+C01103,47,Male,East, TWO YEAR ,Electronic check,9,91.63,752.52
+C01422,41,Male,North,biennial,Credit card,9,64.77,$601.62
+C00646,47,female,South,Month-to-month,e-check, 51 ,72.03,3929.45
+C02776,68,Male,South,One year,Electronic check,69,87.48,5625.99
+C02293,30,Female,South,Month-to-month,Electronic check, 70 ,71.46,4880.21
+C00779,67, F ,South,biennial,Bank transfer,45,68.82,2818.73
+C00501,25,Male,West,One year,Electronic check,19 months,88.97,1554.80
+C01264,44, M ,West,annual,Electronic check,67,44.92,2873.50
+C02672,54,Female,West,Month-to-month,bank transfer,1,46.00,"48,83"
+C01793,25, M ,West,One year,bank transfer,66,96.46,5969.57
+C00665, 51 ,Female,North,annual,Credit card, 13 ,"102,03",$1404.99
+C00224,67, F ,North,One year,Electronic check,29,?,"597,00"
+C00211,35,Female,East, TWO YEAR ,Electronic check,19,$49.23,928.16
+C00330,48,Male,East,Two year,Bank transfer,9 months,28.72,234.76
+C02120,33,Female,West, MONTH-TO-MONTH ,electronic CHECK,7,58.23,393.95
+C02566,24,male,South,annual,Electronic check,68,108.61,?
+C02239,25,male,south,M2M,Bank transfer, 21 ,75.78,1703.64
+C01528,39, M ,East,One year,electronic CHECK, 63 ,95.03,5876.29
+C02102,43,Male,East,Month-to-month,credit CARD,17 months,35.59,?
+C00994,45,Male,North,month to month,Bank transfer,72,80.92,$5553.07
+C00040,36,female,West,One year,Bank transfer,6,115.92,719.33
+C01275,52,Female,West,Month-to-month, CC ,44,"36,16",1564.40
+C02134,26, F ,West, ONE YEAR ,Credit card,40,87.60,"3572,50"
+C01362,33 years, F ,East,Month-to-month,Electronic check,29,71.99,2133.05
+C02570,68,Female, SOUTH ,Month-to-month,Electronic check,12 months,84.32,$1041.58
+C01663,53, M ,West, MONTH-TO-MONTH , BANK TRANSFER ,32,$60.61,2032.94
+C00966,43,Female,West,One year,electronic CHECK,10,$68.08,"719,13"
+C01172,37,Female,North,Month-to-month, CC ,14,77.46,"1114,51"
+C01840,51,male, SOUTH ,1 year,electronic CHECK, 55 ,51.77,?
+C00663,48,Female, SOUTH ,Month-to-month,Bank transfer,5 months,"36,36",189.41
+C01293,42, M ,south,Month-to-month,electronic CHECK,10,"46,60",481.56
+C02330,39, F ,west,1 year,Credit card,56,66.16,3962.45
+C01764,21,Female,North, TWO YEAR , CC ,58 months,83.70,4742.07
+C02791,58,Male, WEST ,Month-to-month,Credit card,32,107.52,3660.16
+C01641,,Female,North,annual,electronic CHECK,11,$78.66,$820.26
+C00553,73,Male,East,Month-to-month,Electronic check, 4 ,39.42,151.52
+C02722,73,female, EAST ,2 years,Bank transfer,30,95.74,3085.65
+C01207,,Female,North,annual,bank transfer,3,$69.58,197.38
+C01157,64, F ,North, TWO YEAR ,Electronic check,47,37.41,"1592,22"
+C01106,20 years,Female,West,Two year,Bank transfer,11,52.25,607.52
+C02786,51,Female,East,month to month, BANK TRANSFER ,17,"96,92",1772.18
+C01672,28,Male,North,2 years, BANK TRANSFER ,61,78.82,4559.46
+C02719,73,female,north,One year,bank transfer,19,110.87,2158.55
+C00431, 44 ,Female,West,One year,Electronic check,N/A,93.40,386.10
+C00227,71,female, SOUTH ,annual,Bank transfer, 7 ,$81.73,581.03
+C01610,42,Male,West,Month-to-month,Credit card, 38 ,63.60,2357.62
+C01134,68,Female,East,Two year,Electronic check,18,$57.97,1122.68
+C01680,53,Male,West, MONTH-TO-MONTH , CC ,22 months,45.04,988.22
+C01051,48,Female,north,Month-to-month,electronic CHECK,25,29.24,$757.58
+C02245,40,female, WEST ,annual,electronic CHECK,10,"61,55",$603.23
+C02374,54,Female,North,Month-to-month,e-check,61,79.03,"5099,08"
+C00890,31,female,West, MONTH-TO-MONTH , CC ,37,53.47,1918.23
+C02527,44,female,South,One year,e-check,16,58.05,"973,08"
+C01685,42,Female,West,Two year,Credit card,56,67.38,?
+C00813,66,Female,North,One year,Bank transfer,49,87.84,4159.36
+C00339,22,Female,North,M2M,Bank transfer,16,71.04,1194.08
+C01102,55 years,Female,west,Month-to-month,Credit card,1,67.63,$69.52
+C02788,31 years, M ,South,One year,Electronic check,54,$89.51,4990.41
+C02237,27, M ,East,One year,Electronic check,3,105.06,303.55
+C00486,unknown,Male,west,Month-to-month,e-check,28,26.66,700.24
+C02643,63,Female,South, ONE YEAR ,electronic CHECK,46,61.96,2635.83
+C02603,20,female,West, MONTH-TO-MONTH ,electronic CHECK,13,59.51,792.06
+C00446, 33 ,Female,West,One year,Electronic check,44,64.74,N/A
+C01154,70,Female,North,One year,Credit card,28,52.50,1342.46
+C02586,44,Male,East, MONTH-TO-MONTH ,Bank transfer,36,80.17,2794.60
+C02114,66, M ,West,Month-to-month,Electronic check,54,85.37,4801.05
+C02664,29, F ,South,Month-to-month,Electronic check,45 months,115.01,5337.34
+C00276,40,male,North,One year,Credit card,10,71.93,694.80
+C00208, 55 ,Male,East, TWO YEAR ,Credit card,54,80.72,4262.02
+C01711,48,female,South,month to month,Bank transfer,39,59.31,2240.53
+C01263, 21 ,Female,South, ONE YEAR ,Credit card,58,unknown,4765.69
+C00196,44,Male,North,M2M,Credit card, 20 ,37.67,678.40
+C02053,48,female,east, ONE YEAR ,bank transfer,66,58.52,$3661.90
+C00226,unknown,Female,East,Month-to-month,electronic CHECK, 27 ,72.46,
+C01365,56, F ,North,One year,Bank transfer, 1 ,61.15,55.57
+C02756, 55 ,Male,south,One year,bank transfer,18,44.67,785.84
+C01862,30,Male,North,One year,bank transfer, 18 ,84.16,"1627,84"
+C02539,32,female,West,Month-to-month,Credit card,66,$99999.00,4846.94
+C02608,69, M ,West,Month-to-month,Electronic check,42,105.17,"4210,85"
+C00915, 47 , M ,North,Month-to-month,credit CARD,56,69.39,$3569.27
+C02555,66,female,North,One year,Bank transfer,?,83.38,2184.69
+C01229, 47 ,female,East,M2M,Electronic check,15,24.61,387.05
+C00834,22 years,male,South,1 year,Electronic check,22,39.91,830.46
+C00802,47,Female,East, MONTH-TO-MONTH ,e-check,23,107.88,2461.62
+C02074,62,male,South,Month-to-month,Bank transfer,15,38.54,548.64
+C02034,?,Male, EAST ,One year,Bank transfer,47 months,"50,28",2376.38
+C01762, 68 ,Male,South,Month-to-month,e-check,23,79.38,1791.29
+C01173, 50 , F ,East, ONE YEAR ,Bank transfer,72,49.88,3367.71
+C00288,59 years,Female,West,Month-to-month,Electronic check,5,22.00,103.25
+C02279,59,Male,South,Month-to-month,Credit card,6,68.58,435.86
+C00824,43 years, M ,North,Month-to-month,Electronic check,67,$44.16,$3126.71
+C01078,22, F ,East,M2M,Bank transfer, 34 ,119.59,4180.56
+C01028,25,Female,East,M2M,Electronic check,52,125.00,6023.93
+C02254,54,Male,West,annual,bank transfer,8,,574.35
+C02721,19,Male,North,One year,Bank transfer,52,70.03,3823.53
+C00569,64,Female,South,Month-to-month,electronic CHECK,61,25.32,1574.89
+C02326,37,Male,South,M2M,Electronic check,47,"54,17",2477.37
+C01069,27 years, F ,South,Month-to-month,Bank transfer,4,82.57,352.64
+C01376,61,Male,North,M2M,e-check,9999,70.95,3782.97
+C00117,62,Female, WEST ,Month-to-month,Electronic check,22,$67.50,1453.29
+C02647, 73 ,male,East,Month-to-month,electronic CHECK,unknown,44.94,948.64
+C00936,21,Female,South,M2M,Electronic check,56,76.03,4486.37
+C01203,46,Female,East,1 year,Credit card,35,69.51,2334.72
+C01769,68,Male,West,Month-to-month,Bank transfer, 25 ,59.98,N/A
+C01880,46,Male,north,One year,Bank transfer,16,,"1089,94"
+C00303,52,Male,West,One year,Credit card, 66 ,71.37,$4372.69
+C02026,27,Male,North, MONTH-TO-MONTH ,Bank transfer,28,61.73,1575.60
+C01189,58,Female,south,Month-to-month,Electronic check,58,49.83,"2989,82"
+C00173,37,Female,North,Month-to-month,Bank transfer, 60 ,39.97,$99999.00
+C01367,57,Male,West,Month-to-month,Bank transfer,18,44.62,836.66
+C02023, 56 ,Female,south,One year,Electronic check,3,31.54,87.81
+C01177,40,Female,south,1 year,Electronic check,51,90.33,4548.99
+C01815,40,Male,South,Two year, CC ,60,?,4331.17
+C00844,36,Female,East,biennial,Electronic check,12,75.88,852.61
+C00828,65,male,West,One year,Credit card,50,"54,01",2740.54
+C00383,69, F ,North,Month-to-month,Electronic check,16,,$1158.31
+C02059,48,Female,North,Month-to-month, BANK TRANSFER ,N/A,$56.18,4092.65
+C00942,50,Male,East,Two year,Bank transfer,5,79.64,416.36
+C00710,70,Female,South,Month-to-month,e-check,56,38.82,N/A
+C02646,57,Female,south, ONE YEAR ,Bank transfer,1,71.36,71.75
+C01216,23,female,South, MONTH-TO-MONTH ,Bank transfer,19,86.43,1770.34
+C00367,57,Female,West,Month-to-month,Bank transfer,39,$60.17,2223.68
+C00027,52,Male,north,Two year,Electronic check,6,$22.00,122.22
+C02170,61,Male,South,Two year,Electronic check,29,70.06,"1832,12"
+C02010,59,Female,East,Month-to-month,Electronic check, 6 ,99.45,?
+C01593,26,Male,north,One year,Credit card,10,46.47,495.09
+C00202,69 years,Male,West,One year,electronic CHECK,32,$75.39,2562.17
+C01038, 54 ,Male, NORTH ,annual,Credit card,11,69.95,740.14
+C02475,26,Male,North, ONE YEAR ,Electronic check,28,85.73,2562.81
+C00348,38, F ,South,month to month,bank transfer, 1 ,"74,42",73.87
+C00975,33,Male,East,One year,Electronic check,9999,100.89,1581.49
+C00016,55,Female,South,M2M,Bank transfer,31,84.38,2606.26
+C00409,36,Male,North,Month-to-month,Bank transfer,21,63.66,1292.66
+C00691,62,Male,West,M2M,Electronic check,28,51.76,1420.11
+C01437,65,female,East,M2M,Electronic check,46,63.43,"2857,75"
+C00524,56,male, SOUTH ,Two year,Bank transfer,39,82.68,3437.00
+C01784,40, M ,West,1 year,Electronic check,46,62.58,"2856,25"
+C01307, 19 ,Female,west,Two year,e-check,71,59.22,3914.66
+C00407,72 years,female,South,Month-to-month, CC ,71,57.87,4236.48
+C02235,51,Male,east,Month-to-month,Bank transfer,68,34.45,2373.24
+C01389,59, F ,South,Month-to-month,Electronic check,31,66.42,1862.49
+C02426,63,male,north,Month-to-month,bank transfer,24,88.07,2116.85
+C02767,61, M ,North,annual,credit CARD,53,53.35,2771.94
+C00080,44,Female,south,Two year,Electronic check,N/A,56.14,523.50
+C01860,27,female,North,2 years,Bank transfer,66,55.88,3342.33
+C01035,56, F ,North, MONTH-TO-MONTH ,bank transfer,40,75.67,2973.23
+C02622,47,Female,North,Month-to-month,e-check,8,34.65,$99999.00
+C02554,49,Female,East,Two year,e-check,56,42.16,unknown
+C02613,66,male,East,Two year,Electronic check,65,63.58,3735.70
+C01556,72,Male,East,Month-to-month,e-check,62,119.65,"7432,74"
+C00468,N/A,female,east,Month-to-month,Credit card, 39 ,82.74,$3053.05
+C02445,73 years,Female,East,1 year,Electronic check,22,60.92,"1366,87"
+C01354,31,Female,South, ONE YEAR ,Electronic check,38,85.77,2972.21
+C01190, 59 ,Female,South, ONE YEAR ,Electronic check,24,59.72,1375.94
+C01552,22,Female,North,2 years,Bank transfer,33,85.65,
+C02061,34 years,Female,West,biennial,Electronic check, 61 ,22.00,1343.18
+C00528,42,Female, SOUTH ,Month-to-month, CC ,50,62.28,2854.81
+C00209,9999,Female,West,One year,e-check, 68 ,$57.50,4186.98
+C00160, 41 , M ,North,One year,bank transfer,23,87.13,1851.94
+C01240,33,Female, WEST ,One year,Bank transfer,2,65.60,$126.93
+C02472,52,Male,North,annual,e-check, 38 ,105.12,4189.03
+C00891, 47 , F , NORTH ,Month-to-month,Bank transfer,40,,1881.10
+C02021,33,Female,North, MONTH-TO-MONTH ,Bank transfer,72,88.51,6688.89
+C02378,57,Female,South,Two year,Electronic check,46,25.17,1063.68
+C01006,37,male,East,month to month, BANK TRANSFER , 10 ,85.33,783.91
+C01576,35,Male,North,Month-to-month,bank transfer,15,92.59,"1444,50"
+C00242,40,Male,North,annual,Electronic check,unknown,"98,13",4588.70
+C02762,63,Female,South,Month-to-month,Credit card,37,58.06,2006.07
+C00297,54,Female,North,Month-to-month, CC ,50,72.35,"3672,00"
+C01507,27, M ,North,Two year,Bank transfer,56,113.34,$5961.63
+C00949,26,Male,East,annual,Credit card,8,$45.18,"382,84"
+C00396,25,male, EAST ,annual, CC ,27,$62.46,
+C00580,19,Female,South,annual,Credit card,57,41.46,2289.41
+C02262,35,Male,South,M2M,Electronic check,70,58.60,4105.43
+C00019,57 years,Male,South,Two year,Bank transfer,34,$77.86,2748.85
+C00586,59,female, SOUTH ,Month-to-month,Electronic check,51,"47,09","2282,66"
+C01594,69,Female, WEST ,month to month,Credit card,43,88.00,unknown
+C00424, 31 ,Male,South,Two year,Electronic check,21,33.44,"705,10"
+C00670,39,Male,west,Month-to-month, BANK TRANSFER ,19,$67.00,1338.49
+C02627,59,Female, NORTH ,Month-to-month,Bank transfer,46,22.00,961.19
+C01107, 65 ,Male,West, MONTH-TO-MONTH ,Credit card,18,32.27,526.83
+C02506, 37 ,Female, WEST ,One year,Credit card,28,22.00,576.85
+C02685,53,Male,West, TWO YEAR ,Electronic check,17,66.71,1147.68
+C02541,66,Male,West,Month-to-month,Electronic check,45,100.28,"4572,54"
+C01855,73,Male,South,Month-to-month, BANK TRANSFER ,37,"96,89",3485.28
+C01646,30,Female,East,Month-to-month,credit CARD,10,$86.72,884.07
+C01150,67,Female,east,Month-to-month,Electronic check,33,"109,28",$3593.87
+C01979, 34 ,Male,east,One year,e-check,16,75.27,1270.89
+C01392,51 years,Male,South,Month-to-month,Electronic check,?,117.37,3269.61
+C01631, 20 ,Female, EAST ,One year,bank transfer,36,87.89,3411.99
+C01817,70,female, EAST ,Two year,electronic CHECK,1,22.00,22.10
+C00608,47,Male,east,M2M,electronic CHECK,22,80.21,1686.44
+C00312,40,Male,West,Month-to-month,Credit card,16,22.00,376.84
+C00109,40,Female,North,Month-to-month,Credit card,58 months,34.11,2107.74
+C02451,41, M ,East,month to month,Credit card,19,33.27,$633.84
+C00584,42,Male,South,Month-to-month,Electronic check,44,125.00,$5495.36
+C01492,64,Male,South,Two year, BANK TRANSFER ,42,68.46,2729.97
+C00623,38,Male,West,1 year,Electronic check,14,55.41,717.24
+C00166,42,Male,West, TWO YEAR ,Bank transfer,59 months,74.92,4035.87
+C00065,36, F ,West,One year, BANK TRANSFER ,57,73.74,4441.36
+C02711,64,Female,North, ONE YEAR ,e-check, 66 ,N/A,5332.63
+C01445,46,Female,West,Month-to-month,Electronic check, 2 ,$74.81,153.66
+C02227,29,Female,South,1 year,Credit card, 15 ,,1211.03
+C00394,57,male,North,month to month,Credit card,11,75.39,unknown
+C02356,46,Female,north,1 year,Electronic check,?,120.96,5384.39
+C00177,25,Female,South,M2M,Credit card,39,61.34,2173.27
+C01353,56,female,North,1 year,Bank transfer,37,100.14,3425.31
+C02714,19,male,East,Month-to-month,Electronic check,47,22.00,1040.86
+C01694,70,Male,West,Month-to-month,Bank transfer,45,"39,46",$1878.71
+C02482,64,Female,west,Month-to-month, BANK TRANSFER ,67,63.78,4198.09
+C02686,56,Male,East,Month-to-month,Credit card,41,118.00,4767.10
+C00946, 35 ,male,West,annual,credit CARD,4,119.00,"450,57"
+C00790,63,Male,East,Month-to-month, BANK TRANSFER ,52,22.00,1049.71
+C01097,19, F ,East,Two year,Electronic check, 30 ,"66,29",1793.74
+C02513,47,Male,West,2 years,Electronic check,39,64.76,2681.88
+C02476,70, M ,South,Month-to-month, BANK TRANSFER ,8,53.93,398.27
+C00565,71, M ,East,Month-to-month,Electronic check,26,28.59,"677,76"
+C01615,61 years, F ,North, MONTH-TO-MONTH ,Credit card,44,47.53,2131.31
+C01381,46,female,South,Month-to-month,electronic CHECK,9999,59.28,$3008.43
+C02604,47,Male, WEST ,Month-to-month,Bank transfer,56,56.93,2988.65
+C02342,29 years,Male,East,One year, CC ,57,83.15,"4633,81"
+C01812,40,Male, SOUTH ,Month-to-month, CC ,32,"45,40",?
+C01497,58,male,North,month to month,Electronic check,18,$112.16,2078.17
+C01835,24, F , NORTH , TWO YEAR ,Electronic check, 30 ,65.73,1980.05
+C00610,61 years, F ,West,1 year,Credit card,48,"63,97",3120.73
+C00254, 35 ,Female,West,Month-to-month, BANK TRANSFER ,18,39.07,unknown
+C01374,44,Male,East,Month-to-month,Bank transfer, 43 ,59.86,2595.88
+C02166,59, F ,West,Month-to-month,bank transfer,45,51.54,2391.90
+C00411,34 years, M ,East,biennial, BANK TRANSFER ,69,44.07,3177.30
+C00183, 50 ,Female,East,Month-to-month,Electronic check,18,86.70,1517.34
+C00319,24,Male,South,One year, CC ,5,$63.95,
+C01512, 24 ,Male, WEST ,Month-to-month,Electronic check, 2 ,"90,83",175.53
+C02383,50,Male,South,Two year, BANK TRANSFER ,71 months,$44.84,3408.51
+C01061,50,Male,South,One year, BANK TRANSFER ,unknown,83.12,5065.83
+C02027,45,Female,South, MONTH-TO-MONTH , BANK TRANSFER ,17,22.00,
+C02286,35, M ,West,Month-to-month,credit CARD,50,98.40,4449.29
+C02384,N/A,Female,North,Month-to-month,bank transfer,62 months,$46.99,2836.99
+C00960, 67 ,Female,North,Month-to-month,Credit card,70,$60.98,4247.72
+C00920,,Male,North,One year,bank transfer,41,68.88,$2596.99
+C00010,19,Female,East,Month-to-month,Electronic check,35,99.00,"3583,98"
+C00978,47,Male,East,Month-to-month, CC ,10 months,$57.29,"538,98"
+C01104,24,Female,North,Month-to-month,Bank transfer,58,97.50,"5805,82"
+C00119, 60 ,Female,East,One year,Electronic check,9999,22.66,$541.79
+C02450,19 years, F ,West,One year,e-check,27,23.07,624.80
+C02679,65 years, F ,east,M2M, CC ,54,114.88,$6289.50
+C00195,57, M ,South, MONTH-TO-MONTH , BANK TRANSFER ,29,37.01,966.62
+C02033,55,female,East,M2M,credit CARD,N/A,62.58,2796.70
+C01137,20,Female,East,One year,Credit card,63,$99999.00,$7842.17
+C01612,63,Female,West,month to month,e-check,72,52.77,3949.23
+C02573,69,Male,South,month to month, BANK TRANSFER ,17,85.70,1427.44
+C00372, 41 ,Female,East,annual,Credit card,48 months,65.33,3240.84
+C02270, 46 ,Male, EAST ,annual,Electronic check,12,50.04,647.42
+C00097,61,Female,North,Month-to-month,electronic CHECK,59,42.48,"2593,23"
+C01686,25,Female,East,Month-to-month, BANK TRANSFER , 49 ,84.02,4188.33
+C02202,59,Male, WEST ,Month-to-month,Credit card,61,$76.81,$4432.60
+C00520,33,male,West,Month-to-month,Electronic check,14,68.11,983.46
+C01811,57, F ,North,One year,electronic CHECK,43,44.57,"2059,40"
+C02474,32,Male,South,Month-to-month, BANK TRANSFER , 61 ,"67,07",4212.29
+C02284,32,Female,east,Month-to-month,Electronic check,60,125.00,7964.83
+C00742,64, F ,North,Two year,e-check,69 months,48.03,"3292,19"
+C02789,40, M ,East,annual,Electronic check,9,78.70,740.41
+C02226,50,Male,West,Month-to-month,credit CARD,38,39.23,1423.08
+C01582,62,female,East,One year,Bank transfer,35,67.24,2234.86
+C02051,72,Female,East,month to month,Credit card,40,56.89,2214.24
+C02561,61,female, NORTH ,One year,e-check,46,$90.20,4089.55
+C01465,60,Female,East,Two year,e-check,44,53.57,$2434.35
+C02118,58,Male,North,1 year,Electronic check,13 months,52.10,621.42
+C02661,33,Female,north,2 years,e-check,37,N/A,2256.02
+C02684,54,Female,South,M2M,Bank transfer,38,62.72,$2502.95
+C02183,35, M ,West, MONTH-TO-MONTH ,bank transfer,35,98.57,3566.89
+C01459,69,Female,West,Month-to-month, CC ,39,37.59,1563.63
+C02115,28,male,East,Month-to-month,Electronic check,12,?,624.49
+C01953,70,Female,North, ONE YEAR ,Electronic check,33,83.43,"2926,27"
+C00836,68,Male,East,One year,Electronic check,61,40.28,2542.39
+C01538,35,Male,East,Month-to-month,bank transfer,22,57.99,1215.04
+C02663,57 years, F ,North,One year,Credit card,28,86.42,2435.39
+C00500,34,male,West,Two year,electronic CHECK,56,44.33,$2641.12
+C02081,N/A,Female,North,Month-to-month,Electronic check,24 months,67.78,1608.08
+C02220,30,Male,East,Month-to-month,Bank transfer,8,39.97,$308.25
+C02376,56,Female,West,biennial,Bank transfer,54,61.58,unknown
+C01601,49,female,west,One year,Electronic check,35,"51,24",1801.28
+C02729,unknown,Female,South,2 years,e-check,?,25.10,889.20
+C01117,23,Male,West,2 years,Bank transfer, 28 ,47.37,1248.44
+C01517,42,female,West,Month-to-month,Electronic check, 37 ,82.09,3208.44
+C01792,27, F ,west,Month-to-month,Electronic check,24,N/A,2162.92
+C00925,58, F ,North,month to month,Electronic check,53,$125.00,6128.59
+C01178,73,Female,West,One year,Electronic check,48,54.10,"2557,57"
+C00776,53, M ,East,Month-to-month,Credit card,17,87.31,1444.57
+C01119,28, M ,South,M2M,credit CARD,65,66.47,4597.01
+C01413, 50 ,Female,North,month to month, BANK TRANSFER ,15,39.52,621.21
+C01306,60,Male,West,Month-to-month,bank transfer,43,64.23,2762.77
+C00950, 33 , F ,East,2 years,e-check,65,51.23,3130.37
+C01905,24,female,East,Two year,electronic CHECK,18 months,95.25,1681.70
+C01292, 61 ,Female,east, MONTH-TO-MONTH ,electronic CHECK, 37 ,66.81,2264.58
+C01133,37,Male,South,Two year,Electronic check,17,$85.33,1338.73
+C01918,21,Female,West, MONTH-TO-MONTH ,e-check, 41 ,28.54,1154.96
+C00634,61,Female,South,biennial,Electronic check,68,95.40,6023.89
+C02440, 51 ,Male,East,Month-to-month, BANK TRANSFER ,52,$86.02,4469.23
+C00740,54 years,male,South,month to month,Credit card, 8 ,"76,57","600,43"
+C01238,22 years,Female,south,1 year,Credit card,?,72.12,$4765.95
+C01627, 39 ,Male,West,Two year, BANK TRANSFER ,44,44.09,1939.45
+C00686,64,Female,North,2 years,electronic CHECK,39,72.16,2938.63
+C02002,65,Female,North,2 years,Bank transfer,?,40.61,996.38
+C02055,27,female,South,One year,Bank transfer,6,34.76,$192.74
+C02158,59,Male,south,annual,Electronic check, 55 ,"33,24",1903.91
+C01226,53,Male,South,M2M, BANK TRANSFER , 57 ,39.42,2059.31
+C01270,19,female,West,One year,bank transfer,33,74.54,2368.42
+C01877,63,Male,South,Month-to-month,credit CARD,17,60.77,1068.29
+C02437,54, F ,west,Two year,Electronic check,17,61.11,1030.34
+C02432,34,male,East,One year,electronic CHECK,60,$57.27,3487.33
+C01546,57,Male,West,Month-to-month,Credit card,10,81.43,849.06
+C01129,71, F , EAST ,Month-to-month,electronic CHECK,47,84.10,"3824,86"
+C01713,49,Male,North,annual,e-check,10,22.00,209.82
+C01609,52,female,South,Month-to-month,Electronic check,12 months,22.00,251.20
+C00350,51 years, M ,North,Month-to-month,Credit card,35,47.09,1510.55
+C01213,29,Female,North,M2M,Electronic check,N/A,50.65,$388.92
+C00872,59,female,East,One year,Bank transfer,64,104.66,6616.47
+C00198,26,Male,West,One year, CC ,?,$39.00,1567.20
+C01733, 27 , M ,North,Two year,electronic CHECK,17 months,63.95,1057.21
+C00249,32,female,North,One year,electronic CHECK,24,$29.21,724.25
+C01034,41 years,male,East,Two year,Electronic check,17 months,62.96,1097.70
+C00295,68,Female,South,Month-to-month, BANK TRANSFER ,54,67.51,3846.18
+C00521,72,Female,east,Month-to-month, BANK TRANSFER ,33,"73,78",?
+C00615,41,Male,South,One year,Electronic check,9 months,59.72,493.51
+C02052,58,Female,South,M2M,Credit card,37,82.31,"3200,64"
+C01761,71,Male,North,Month-to-month,Credit card,13,93.08,1265.25
+C01952,66 years,Male,North, MONTH-TO-MONTH ,credit CARD,21 months,66.13,1282.39
+C02742,63,Female,South,Two year,Electronic check,10,"88,94",816.09
+C02343,66, M ,North,1 year,Bank transfer,46,69.68,3242.20
+C00157, 30 ,Female,North,Two year,e-check,43 months,"81,46",?
+C02395,69,male,east,2 years,electronic CHECK, 19 ,32.22,"606,42"
+C00031, 61 ,male,West,Month-to-month,credit CARD,57,"96,48",5600.43
+C00637,70,Male,East,Month-to-month, BANK TRANSFER ,43 months,113.75,5092.37
+C02315,25,female,South,Month-to-month,electronic CHECK,65,54.15,3749.86
+C00605,59,Female, WEST ,Month-to-month,Bank transfer,56,67.96,4058.08
+C02088,53,Female,north,annual,Bank transfer,29,46.85,1298.54
+C00100,39,Female,east, MONTH-TO-MONTH ,Bank transfer,,51.90,401.89
+C02755,26,Male,North,Month-to-month,Bank transfer,23,46.04,973.20
+C01531,19, M ,west, MONTH-TO-MONTH ,credit CARD,26 months,95.94,2587.24
+C00911,63,Female,South,Month-to-month, CC ,5,45.62,246.15
+C01200, 28 ,Female,east, MONTH-TO-MONTH ,Credit card,47,44.01,2128.71
+C00996,49 years,Female, SOUTH ,Two year,Credit card,4,$61.55,242.11
+C02143,39 years,Female,South,M2M,Bank transfer,10,45.18,471.90
+C00695,44,male,East,biennial,Electronic check,57,57.87,$3185.02
+C02396,67, M ,East,Month-to-month,credit CARD,38 months,"40,94",1537.56
+C01472,35, M ,North,M2M,Bank transfer,26,58.34,"1609,66"
+C01580,21, M ,South,Month-to-month,bank transfer,49,83.07,4367.78
+C00832,26 years,female,North,One year,e-check,5,99.69,526.02
+C02414,36,Female,West,One year,bank transfer,57,97.76,5839.86
+C01828,56,Female,West,Month-to-month,Electronic check,72,59.14,"4542,13"
+C01279,22,Female,South,Month-to-month,Credit card,3 months,67.18,189.33
+C01241,24, F ,North,Month-to-month,credit CARD,37,68.69,2387.39
+C01039,61,female,north, MONTH-TO-MONTH ,Credit card,68 months,93.13,"6126,98"
+C01559,58,Male,West,One year,bank transfer, 8 ,76.26,554.56
+C02489,61,female,West,2 years, BANK TRANSFER ,59,52.87,2943.16
+C00359,69,Female,North,1 year,Bank transfer, 27 ,59.72,1536.13
+C01737, 44 ,Male,East,Month-to-month,Credit card,26,113.22,2957.43
+C00754,47 years,Male,West,1 year,Credit card,33,61.64,2018.90
+C01290,66,male,South,One year,Credit card,5,58.38,308.79
+C02082,71 years,Male,West, MONTH-TO-MONTH ,e-check,11 months,52.83,"605,18"
+C00347,72 years, M ,east,1 year,Bank transfer,50,42.52,"1978,65"
+C01688,65,Female,East,Month-to-month,bank transfer,14,46.12,589.25
+C00704,40,female,East,Month-to-month,Electronic check,71,77.72,5938.54
+C02628, 50 ,Male,North,M2M,e-check, 20 ,53.31,"981,95"
+C00070, 33 ,Male,West,2 years,Electronic check,42,$61.05,2339.75
+C00678,53,Male,South,M2M,Electronic check,64,"37,39",2230.52
+C02260,26,male,East,Month-to-month,electronic CHECK,39,103.78,3840.36
+C02252,27,Female,South,One year,Electronic check,25 months,$70.81,1834.18
+C02659, 62 , F ,East,Month-to-month,Electronic check,52,50.13,2642.00
+C02418,55,male,South,2 years,electronic CHECK,36,56.26,2094.65
+C01242,19 years,Female, EAST ,One year,Credit card,14,75.66,1055.47
+C01788,42, F ,West,month to month,Bank transfer,N/A,"71,13",528.98
+C02129,35 years,Male,West,annual,Bank transfer,64,$25.81,1567.48
+C02199,56,Male,East, TWO YEAR ,Electronic check,62,70.99,"4257,98"
+C01501,62,female, SOUTH ,Two year,Electronic check, 12 ,$99999.00,737.33
+C02099,52,Male,East,One year,Credit card,26 months,$68.67,1641.20
+C00545,48,Female,North,2 years,Electronic check, 26 ,67.76,1723.70
+C01211,54,Male,North, TWO YEAR , BANK TRANSFER ,44,44.21,1897.17
+C00588,57, F ,East,One year,Credit card,32,22.00,706.02
+C01639,23,Male,North,One year,Electronic check,56,"94,88",5235.60
+C02139,34,Male,East,Month-to-month,Electronic check,67,50.86,3628.36
+C00989,28,male, NORTH ,month to month,Credit card,48,$61.55,unknown
+C01602,39,Female,West,One year, CC ,47,89.36,4044.29
+C01751, 53 ,Male,South,month to month,Bank transfer,9999,46.88,?
+C01928,21,Male,West,Month-to-month,Bank transfer,63,$58.16,3396.77
+C01065,63,Female,East,One year,Credit card,26 months,45.94,1264.33
+C02698,68 years,male,North,Month-to-month, BANK TRANSFER ,3,"47,64",153.37
+C02272,71,Male,south, MONTH-TO-MONTH ,e-check,22 months,104.01,2461.20
+C01451,38, M ,South,Two year,electronic CHECK,65,45.72,2810.31
+C01875,52,Female,South,Month-to-month,Credit card,28,71.27,2105.71
+C01782,53,Female,south, MONTH-TO-MONTH ,Electronic check,55,56.36,"3089,37"
+C00475,39,Female,South,Month-to-month,Bank transfer,54,119.67,6250.53
+C00603,66,Female,north,M2M, BANK TRANSFER ,48,48.60,2218.02
+C00079,19,Male,West,One year,Electronic check,55,59.01,3320.54
+C01309, 40 ,Male,South, ONE YEAR ,Bank transfer,47,95.59,4599.33
+C01398,, F ,South,biennial,Bank transfer,45,52.68,2539.04
+C00914,38,Male,south,month to month,Electronic check, 41 ,79.14,3215.83
+C00600,62 years,female, WEST ,M2M,Electronic check, 34 ,22.00,686.03
+C02502,22, M ,East,Two year,Credit card,23,31.76,759.27
+C00510,40,male,West,Month-to-month,Electronic check,52,90.71,"5044,80"
+C02713,47,Male,North,Month-to-month,Bank transfer,29 months,58.25,1816.94
+C00921,70, F ,South,Two year,Credit card,8,$66.37,561.72
+C00682,71,male,North,Month-to-month, CC , 31 ,101.67,3228.86
+C00307,56,Female,North,One year,electronic CHECK,66 months,"96,02",6664.87
+C01677,54,Male,North,Month-to-month,electronic CHECK,13,80.95,unknown
+C00228,54, M ,East,Month-to-month,Bank transfer,7,52.45,393.52
+C00125,9999,Male,North,Month-to-month,Bank transfer,64,,2586.65
+C01014,19,Male,East,One year, CC ,22,70.18,1614.55
+C02301,32,Female,West,One year,Bank transfer,33,62.27,2066.61
+C02635,72, F ,North,One year,Credit card,3,"76,28",241.18
+C02753,52,Female,West,One year,Credit card,49,"63,53",2899.37
+C01223,25,male,East,One year,Bank transfer,70,68.73,4360.44
+C00902,41 years,Male,East,Month-to-month,electronic CHECK,42,91.99,?
+C01872,25,Male,North,Two year,Bank transfer,13,74.53,1021.11
+C00648,71,Male,North,M2M,Bank transfer,58,75.97,$4261.83
+C00351,41,male,South,Month-to-month,e-check,58,63.51,3907.31
+C02593, 38 , M ,North,One year,Electronic check,49,unknown,1582.37
+C02012,47,Female,North,Month-to-month,Electronic check,20 months,83.53,1668.73
+C02388,60, M ,East,month to month,credit CARD,7 months,$80.63,$592.76
+C01475,39 years,male,West,Month-to-month,Bank transfer,5,77.30,350.71
+C01484,30,Male,West,One year,Bank transfer,14,"87,93",1116.43
+C02457,65, M , WEST ,One year,Bank transfer,57,78.48,4467.84
+C01540,40 years,Female,South,1 year,e-check,70,55.00,3668.08
+C00800,58,Female, EAST ,Month-to-month,Credit card,,$35.18,690.43
+C02637,69,Male,West,One year,Electronic check,64,83.33,5062.42
+C00389,36 years,male,North,One year,Credit card,70,85.32,5578.25
+C00272,42,Female,north,One year,Electronic check, 54 ,48.63,2562.78
+C01605, 38 ,Male,South,Two year, BANK TRANSFER ,38,44.31,$99999.00
+C01464,71, M ,East, ONE YEAR ,Bank transfer,14,76.66,991.73
+C00001,30,Male,South,One year,Electronic check,2,89.32,$188.45
+C00181,33,Female, WEST ,One year,Credit card,?,43.92,"593,43"
+C01478,37,Female,West,month to month,Credit card,7,$102.68,724.59
+C02362,29,male, WEST ,One year,bank transfer,31,"94,38",$2967.93
+C00550,69,Male,South,1 year,Bank transfer,27,"63,23",1568.35
+C02299,43,male,South,Month-to-month,Electronic check,24,74.36,1913.17
+C02571,54,Female,West,Month-to-month,Electronic check,18,50.03,968.89
+C01984,35,Male,East,One year,e-check,51,74.28,3669.61
+C02548,52,Female,West,M2M,Credit card,67 months,63.66,4188.21
+C00009,73,female,North,Month-to-month,electronic CHECK, 47 ,77.09,3302.01
+C01463,45,Male,south,One year,credit CARD, 25 ,45.01,1022.02
+C01966,71,male,West, TWO YEAR ,Credit card,18,83.85,1628.20
+C01057,57,Female, NORTH ,Month-to-month,Credit card, 41 ,69.10,2869.74
+C01589,54,Female,North, TWO YEAR ,Bank transfer,56,70.28,4039.03
+C02145,32,Male,East,Two year,Electronic check,27,58.01,1643.03
+C02632,28, F ,South,Month-to-month,e-check,19,78.32,1591.14
+C02706,40, M ,North,Two year,Bank transfer,35,37.52,1234.18
+C01329,9999,female, EAST ,Month-to-month,Bank transfer, 52 ,"79,37",3861.65
+C01457,65,Female,East,month to month,Credit card,11,45.40,515.58
+C02246,59,Male,South,One year,e-check,69,$98.22,7046.83
+C01332,9999,Female,south,M2M,Bank transfer,22 months,106.22,2486.16
+C01468,20,Male,east,annual,electronic CHECK,24,"108,25",2677.60
+C01890,69,female,East,Two year,Bank transfer,21,45.28,944.06
+C01564,61,Male,South,One year,Credit card,47,$94.61,4551.06
+C02678,71, F , EAST ,1 year,Bank transfer,40,97.95,?
+C01889,37,Female,South,Month-to-month,Bank transfer,27,36.44,N/A
+C00567,62,Female,East, MONTH-TO-MONTH ,bank transfer,57,112.85,6743.55
+C00711,26,male,South,Month-to-month,bank transfer,38 months,78.82,3196.83
+C02292,51,Female,West,Two year,Electronic check,10,74.98,?
+C01201,66,Male,north, MONTH-TO-MONTH ,Credit card,10,40.98,$391.80
+C01980, 60 ,Female,North,One year,Credit card,15,36.15,531.80
+C01382,39,Female,West,biennial, BANK TRANSFER ,67,"82,34",5585.80
+C00572,57 years, F ,West,Month-to-month,Credit card,8,93.57,790.96
+C00868,59,Female, NORTH ,M2M,e-check,26,80.53,2223.42
+C02693,49,Male,South,Two year,Bank transfer,35,$88.18,2830.69
+C00518,54,female,East,Month-to-month,Electronic check,48,51.40,"2461,38"
+C01336,30, M ,North,One year,Bank transfer,18,67.12,$1199.24
+C00136,67, M ,West,One year,Electronic check,47,38.36,1760.13
+C00922,40 years,Female,North,Month-to-month,credit CARD,66,62.04,3945.17
+C01297,53,female,South,Month-to-month,Credit card,16,54.57,822.90
+C01690,37, M ,North,Two year, CC ,11,66.41,725.38
+C01787,29,Male,East,Month-to-month,Credit card,9999,65.19,2485.65
+C00595,66,Female,East,Month-to-month,credit CARD,21,54.06,"1203,85"
+C00591,?,Male,East, ONE YEAR ,Electronic check,69,73.85,4884.36
+C02047,55 years, F ,North,One year,Credit card,5,77.91,368.69
+C01194,73,male,south,One year, BANK TRANSFER ,37,72.05,"2481,07"
+C01368,44, F ,North,Month-to-month,Bank transfer,10,53.63,556.00
+C01831,42,Female,West,month to month,Electronic check,66,58.51,"3782,97"
+C01830,68,female,north,biennial,Electronic check,3,82.99,254.74
+C00577,23,Male,East,Month-to-month,Credit card,20,65.11,1337.72
+C02649,47,Female,East,One year,bank transfer,67,48.74,unknown
+C01740,67, F ,South,month to month,Electronic check,36 months,76.25,2690.58
+C02590,60,female,North,One year,Credit card, 2 ,"119,40",236.90
+C00334,58,male,North,One year, BANK TRANSFER ,59 months,43.51,$2477.07
+C01210,31,Male,West,Month-to-month,bank transfer,20,"24,98",460.53
+C00709,64,Male,East,Two year,electronic CHECK,7,61.73,418.87
+C02464,22 years,Male,South,month to month,Bank transfer,N/A,99.42,"1910,80"
+C02125,unknown,Female,east,Month-to-month,e-check,3 months,109.11,298.39
+C01094,30, F ,North,Month-to-month,Bank transfer,32,"36,18",$1216.56
+C00390,39,Male,North,One year,electronic CHECK,23,119.64,2962.83
+C02676,45 years,female, NORTH ,M2M,e-check,69 months,32.44,2328.00
+C00897,57,Female,South,Month-to-month,bank transfer, 59 ,52.07,2800.51
+C00106,43,Male,West,Two year,Credit card,61,"46,11",2923.70
+C02671,48, F ,north,1 year,Bank transfer, 56 ,"76,62",3945.59
+C02696,40, M ,East,M2M,electronic CHECK,56,$89.51,4909.05
+C01987,66,Female,West,Month-to-month, BANK TRANSFER ,17,46.24,847.92
+C02509,69,female,east,Two year,electronic CHECK,16,37.29,626.89
+C01901,40, F ,North,One year,Bank transfer,72 months,58.60,3826.95
+C01638,52, M ,North, MONTH-TO-MONTH ,Electronic check,35,46.89,1626.34
+C00909,37,Male,North,One year,Electronic check,55,48.40,?
+C02768,43,Male,East,Month-to-month,electronic CHECK,23,$99999.00,$482.70
+C01510,66,Female,North,Month-to-month,Bank transfer,31,52.97,1625.34
+C00965,30,Male,South,Month-to-month,bank transfer,29,46.94,"1280,61"
+C02200,46, M ,North,Month-to-month,Electronic check,47,75.49,3794.01
+C01143,67,Female,South, TWO YEAR ,Credit card,40,53.90,2193.59
+C01863,40,female,North,Two year,Bank transfer,37,"74,08",$2811.99
+C01857,38,female,North, MONTH-TO-MONTH ,Bank transfer,39,$48.51,1781.96
+C02324,38 years,Female,North,Two year,e-check, 3 ,$99999.00,202.17
+C01371,29,Male,East, ONE YEAR ,Electronic check,66,$36.86,2480.49
+C01181, 53 ,Female,South,Month-to-month,Electronic check,41,95.21,4098.60
+C01520, 68 ,Female, SOUTH ,One year,Electronic check,6 months,$33.20,196.77
+C02013,62, M ,East,Month-to-month,electronic CHECK,30,46.24,1448.48
+C00352,36, F ,West,month to month,Electronic check,6,72.20,447.76
+C01744,44, M ,East, MONTH-TO-MONTH ,credit CARD,62,"89,61",5658.30
+C02524,31,Male,west,One year,Credit card,48,94.94,"4349,31"
+C02466,26,Female,West,Month-to-month,Bank transfer,unknown,82.15,$4125.80
+C02583,38,male,East,2 years,Electronic check,51,125.00,6824.29
+C00057,32 years, M ,West,Month-to-month,Bank transfer,72,125.00,8228.61
+C00112,53, F ,West,One year,e-check,53,58.37,3037.57
+C01004,29,Female,North, TWO YEAR ,e-check,6,93.01,"511,86"
+C01741,34,Female,North,Month-to-month,credit CARD,65,$82.85,$5439.34
+C01095,19,Female,North,month to month,bank transfer,68 months,72.32,4478.56
+C00997,48, F ,West,Month-to-month,Bank transfer,56,89.16,4922.14
+C00188,44, F ,South,1 year,e-check,35,65.19,2079.26
+C00696,69,male,West,Month-to-month,Electronic check,41,48.01,$1787.00
+C02054,61 years,male,east,annual,Credit card,24,64.55,1449.88
+C00939, 20 ,male,South,Month-to-month,Electronic check,42,"79,71",unknown
+C00275,unknown,female,North,Month-to-month,Bank transfer, 12 ,71.61,885.82
+C02172,9999,Female,North,One year,Bank transfer,69,57.92,4274.06
+C01294,29,female,West,Two year,Electronic check,24,52.17,?
+C02344,58,Male,North,annual,Credit card,20,93.60,$1815.80
+C00935,65, F ,West,month to month,electronic CHECK,17 months,46.62,784.22
+C00437,24,male,South,M2M,e-check,35 months,86.49,2735.72
+C01285,21,female,South,One year,bank transfer,69,81.50,5885.93
+C02169,21 years,Female,west,Month-to-month,Electronic check,27,77.45,1966.18
+C00258,32,Male,East,One year,Credit card,9 months,$69.47,573.49
+C01503,61 years,female,East,biennial,Credit card,43,82.41,3266.80
+C00210,65,Male,East,month to month,bank transfer,20,75.68,$1541.58
+C02596,28 years,male,North,One year,Electronic check,39,79.10,2941.71
+C01700,40, M ,north,One year,Electronic check,53,44.63,2226.10
+C01027,26,female,East,Month-to-month,Credit card, 64 ,35.57,2269.69
+C02773,63,Female,West,Month-to-month,credit CARD,50,$59.94,2705.53
+C01581,43,Male,East,Two year,Electronic check,41,51.61,$2096.42
+C02406,38,Female, EAST ,Month-to-month,Electronic check,35,22.00,695.35
+C01236,56,male,North,M2M,e-check,1,65.41,66.41
+C02335,46,female,South,Month-to-month,credit CARD,3,52.52,160.96
+C01234,36,Male,West, MONTH-TO-MONTH , CC , 35 ,60.85,2151.72
+C00273,65 years,Male,South, MONTH-TO-MONTH ,Electronic check,72,100.33,6692.98
+C02076,70,Male, EAST ,Month-to-month,Bank transfer,unknown,78.79,2142.78
+C00086,23,Female,East,Month-to-month,Electronic check,44,"65,65",$2774.03
+C01574,29,Male,South,Two year,bank transfer,38,,2655.23
+C02749,59,Female,South,month to month, CC ,15,40.48,647.98
+C02213,20,male,East,One year,Bank transfer,50,68.09,"3395,03"
+C00860,22 years,Female,North,biennial,Credit card,72,50.44,3564.95
+C00697,72,Female,South,One year,Credit card,26,102.32,2816.85
+C02409,25,Male,South,Two year,Credit card,33,54.31,1798.24
+C02386,27,Female,east,Month-to-month,e-check,37,$99.21,3651.31
+C00628,27,female,West, TWO YEAR , BANK TRANSFER , 7 ,"29,94",202.62
+C00108,34 years,Female,North,One year,e-check,67,67.51,4779.08
+C01916,59,Male,West,One year,e-check, 25 ,58.45,1408.61
+C02147,37,Female, WEST ,One year, BANK TRANSFER ,30,unknown,2648.25
+C01742,35,Female,West,Month-to-month,Bank transfer,49,37.32,1870.73
+C00870, 65 ,Male,East,Month-to-month,Bank transfer,19,76.93,1502.27
+C02351,29 years,Male,East,annual,Electronic check,30,39.55,
+C00561,9999,Female,East,2 years,Bank transfer,47,52.13,2255.10
+C00927,64 years,Female,North,M2M,Credit card,58,98.27,5360.77
+C02313, 66 ,Female,South,annual, BANK TRANSFER ,57,96.31,5280.93
+C02564,31,Female,East,month to month,Credit card,61,54.24,3557.96
+C00418,48, F ,West,1 year,Electronic check, 44 ,58.81,2743.87
+C01483,19,female, WEST ,month to month,bank transfer,?,"70,09",$4026.66
+C02106,38,Male,North, MONTH-TO-MONTH ,e-check,19,N/A,1392.26
+C00786,53,Male,South,month to month,Credit card,53,40.66,$2176.71
+C01959,29,Male,East,2 years,Electronic check,51,92.19,4736.67
+C00044,30, F ,East,Month-to-month, BANK TRANSFER ,71,83.71,"5636,82"
+C02345,30, M ,North,One year,electronic CHECK,34,67.02,2319.86
+C00490,30,female,South,M2M,Electronic check,35,22.00,720.44
+C02654,71,Female,South, MONTH-TO-MONTH , BANK TRANSFER ,43,"90,61",4108.13
+C00358,25,Male,North, ONE YEAR , CC ,47,45.50,"2222,26"
+C01832,36,Male, WEST ,One year,Bank transfer, 59 ,75.44,4281.28
+C02281,51 years,female,West,Month-to-month,Bank transfer,50,$61.30,3093.60
+C02708,22,Female,West,Two year,Credit card,40,$81.68,$3003.36
+C02537,45,Female, WEST ,One year,Credit card,,47.26,697.88
+C00683,54,Male,East,One year, CC ,58 months,56.13,3281.17
+C00477,23,male,South, MONTH-TO-MONTH ,Credit card,22,70.48,1446.99
+C01141,25,male,west,Month-to-month,Electronic check,65,46.34,$3000.32
+C02595,59, M ,South,1 year,Electronic check,67,104.63,7055.46
+C00154,54,Male,West,M2M,Electronic check,30 months,$75.62,2223.05
+C00876,32,Male,West,month to month,Bank transfer,65,95.06,5982.01
+C00223,45 years, M ,South,Month-to-month,Electronic check,32,59.91,1868.88
+C02793,37,Female,West,One year,electronic CHECK,43,78.74,3102.68
+C01709,34, F ,East,1 year,e-check,7 months,125.00,885.42
+C01757,70,female,West,Two year,Credit card,17,92.15,"1544,42"
+C00604,40,female,West,Month-to-month,e-check,8,22.00,$178.16
+C02408,50 years,Female,west,1 year,Bank transfer,50,N/A,4726.76
+C00645,33,Male,north,Month-to-month,e-check, 6 ,69.41,$434.48
+C01848,50 years,Female,west,Month-to-month,Electronic check,35 months,85.87,2802.85
+C00977,46, F ,West,Month-to-month,Electronic check,28,"65,97",1811.60
+C02621,34,Female,west,Month-to-month, BANK TRANSFER ,43,$70.93,"3251,77"
+C00789,59,male,South, TWO YEAR ,Bank transfer,unknown,72.52,$4949.01
+C00286,26,Female,East,annual,Bank transfer,33,72.94,2389.66
+C00386,51,Female, WEST ,One year,Electronic check,21,27.05,517.56
+C01932,32,female,North,Month-to-month,Electronic check, 12 ,50.67,?
+C01752,25,Male,East,One year,Electronic check,10,84.67,874.84
+C01322,67,Male,West,One year,Electronic check,54,92.39,4748.14
+C02285,41,Female,South,Month-to-month,electronic CHECK,17,74.42,1204.78
+C00981,47,Female,West,Month-to-month,bank transfer,55,67.68,3723.52
+C01682, 72 ,Male,East,Month-to-month,e-check,42,71.12,2812.43
+C01981,45,female,South,One year,Electronic check,64 months,100.61,
+C00220,27, M ,North,Month-to-month,e-check,17,56.93,
+C01608,19,Female,West,month to month,bank transfer,3,54.37,156.93
+C02132,52, M ,North,Month-to-month,Electronic check,,55.54,972.52
+C02700,65,Female,South,annual, CC ,28,88.89,2642.71
+C00252, 71 ,Male,East, TWO YEAR ,Bank transfer,67,"87,94",$5894.90
+C01667,22,Female,East,One year,Bank transfer,63,58.29,3743.42
+C00203,65,female, EAST ,month to month,Bank transfer,12,77.66,844.95
+C01514,35,Male, EAST ,M2M,Credit card,45,70.91,3011.21
+C01568,41,female,East,Two year,Bank transfer,64,49.95,3008.92
+C00643,30, M ,South,One year,Electronic check,69,42.91,$99999.00
+C00988,35,Male, WEST ,month to month,Bank transfer,9999,88.33,4950.22
+C01489,30 years, F ,South,month to month,Electronic check,66,51.16,3146.76
+C01283,46,Male, SOUTH ,Month-to-month,Credit card,9,"88,30",737.49
+C01662,21 years,Male,East,Month-to-month,Electronic check,60,81.41,4716.05
+C00855,35,Male,North,Month-to-month,Electronic check,65,84.30,"5566,22"
+C00901,61,Female,East,annual,Bank transfer,6,72.23,"424,31"
+C00538,27 years,Male,West,One year,Electronic check,25,66.06,"1645,98"
+C01923,22 years,Male,East,annual,Electronic check,3,105.81,327.38
+C01803,60,Female,west,Month-to-month,Credit card,14,"47,59",612.35
+C02578,22,female,North,1 year,Credit card,49,53.05,2767.31
+C01995,59,Female,East,2 years,e-check, 64 ,$61.46,3759.34
+C00715,41, M ,west,month to month,Electronic check,54,101.24,5036.29
+C00770,27,Male,East,One year,e-check,24,"68,11",1500.53
+C00194,21,Female,South,Month-to-month,bank transfer, 19 ,64.99,$1180.08
+C00827,66 years,male,East,Two year, BANK TRANSFER ,64,98.96,6222.16
+C00629,38, M , NORTH ,One year,Bank transfer, 67 ,48.18,2969.95
+C00525,57 years,Female,East,Two year,e-check,7,"31,93",217.00
+C02209,38,Male,south,Two year,electronic CHECK,58,55.72,$3463.50
+C00246,26,female,East,Month-to-month,Electronic check,66 months,50.16,3332.24
+C01634,33,Male,West,Month-to-month,Electronic check,66,96.74,$6513.53
+C02765,66 years,Male,North,Month-to-month,Electronic check,20,65.83,1419.63
+C00653,50,Male,East,month to month,Credit card,1,77.95,75.87
+C02312,25,Male,North,Month-to-month,Electronic check, 53 ,$50.07,$2673.04
+C02309,30,Male,West,2 years,Electronic check, 11 ,35.50,420.28
+C01819,26,Female,West,One year,electronic CHECK,25,62.01,1450.46
+C01936,22,Female,West, MONTH-TO-MONTH ,credit CARD,60,90.91,4993.25
+C00110,39,Male,south,M2M,Electronic check,15,$115.65,1828.62
+C01861,30,female,South,M2M,electronic CHECK,34,50.38,1748.78
+C02503,64,Female,North, ONE YEAR ,Bank transfer,24,77.02,1995.20
+C00934,44,Female,West,2 years,credit CARD,23,91.70,2147.45
+C01789,N/A,Male,East,annual, BANK TRANSFER ,10,50.64,512.36
+C02273,60,Female,West,One year, BANK TRANSFER ,44,"59,91",2801.94
+C01716,,Male,South,Month-to-month, BANK TRANSFER ,24,53.64,1206.08
+C00675,, M ,North, MONTH-TO-MONTH , BANK TRANSFER ,29,45.50,N/A
+C00061,41,Male,North,Month-to-month,Bank transfer,22,107.40,2545.48
+C00046,27,Female,West,Two year,electronic CHECK,7,62.76,446.07
+C01231,50, F ,West,One year,Electronic check,14,101.03,1313.33
+C01655,22,Male,west,Month-to-month,Electronic check,30,46.88,1459.46
+C01666,64 years, M ,south,Two year,Electronic check,32,$102.73,3010.35
+C01800,24, F , NORTH ,One year,Electronic check,48,55.45,2851.22
+C02521,38,female,North,M2M,credit CARD,19,56.90,$1151.45
+C02525,34,Female,North,month to month,e-check,11,80.19,923.33
+C02547,37, M ,West, MONTH-TO-MONTH ,Electronic check,14 months,$70.05,1017.67
+C00607,54 years, M ,south,2 years,electronic CHECK,56,"64,77",3368.98
+C00153,50,Male, WEST ,2 years, BANK TRANSFER ,53,61.46,3311.65
+C00454,65,Female,South,biennial,Bank transfer,10,68.04,687.53
+C01432,42,Female,North, MONTH-TO-MONTH ,Electronic check,24,106.93,2327.62
+C02241,61,male,West,1 year,Credit card,51,98.28,"5113,09"
+C00141,29,Female,East, MONTH-TO-MONTH ,Electronic check,9,N/A,613.44
+C00088,30,Female, NORTH , ONE YEAR ,e-check,13,83.07,1093.37
+C02037,70,Female,north,One year,Credit card,11,109.08,1159.17
+C01303,39,Female,North, ONE YEAR ,electronic CHECK,67,22.00,$1328.69
+C01542,22 years, M ,West,Month-to-month,credit CARD,6 months,97.12,567.64
+C01282, 34 ,Female,North,1 year,e-check,68,64.81,4579.67
